@@ -8,7 +8,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 class ParseHtml {
-	private static final String NEW_LINE = System.getProperty("line.separator");
+	public static final int REVIEW_LENGTH_LIMIT = 50;
+	public static final String NEW_LINE = System.getProperty("line.separator");
 	
 	public static void main(String[] args) throws Exception{
 		String input = "data/Office.html";
@@ -16,10 +17,19 @@ class ParseHtml {
 		parse(input, output);
 	}
 	
+	public static String processEnd(String text) {
+		final String END_REGEX = "(.*[\\.\\!\\?]+) *$";
+		Pattern pattern = Pattern.compile(END_REGEX);
+		Matcher matcher = pattern.matcher(text);
+		if (!matcher.matches()) {
+			text = text.trim() + ".";
+		}
+		return text;
+	}
+	
 	public static void parse(String input, String output) {
-		//String authorPattern = " *<span +class=\"author-name\"> *<a href=.*>(.*?)</a> *</span>";
-		String reviewPattern = "<div +class=\"review-body\">(.*?)</div>";
-		String contentPattern = " *<span +class=\"review-title\">(.*?)</span> *(.*?)<div +class=\"review-link\".*";
+		String reviewPattern = "<div +class=\"tiny-star star-rating-non-editable-container\" *aria-label=\" Rated ([1-5]) stars.*?<div +class=\"review-body\">(.*?)</div>";
+		String contentPattern = ".*<span +class=\"review-title\">(.*?)</span> *(.*?)<div +class=\"review-link\".*";
 		Pattern reviewSection = Pattern.compile(reviewPattern);
 		Pattern reviewItem = Pattern.compile(contentPattern);
 		int reviewCount = 0;
@@ -30,16 +40,17 @@ class ParseHtml {
 			while ((str = reader.readLine()) != null) {
 				Matcher reviewMatcher = reviewSection.matcher(str);
 				while (reviewMatcher.find()) {
-					Matcher contentMatcher = reviewItem.matcher(reviewMatcher.group(1));
+					Matcher contentMatcher = reviewItem.matcher(reviewMatcher.group(2));
 					if (contentMatcher.matches()) {
+						String rating = reviewMatcher.group(1);
 						String title = contentMatcher.group(1);
-						String review = contentMatcher.group(2);
-						writer.write(new ReviewItem(title, review) + NEW_LINE);
-						//System.out.println(title + " " + review);
+						String review = processEnd(contentMatcher.group(2));
+						if (review.length() < REVIEW_LENGTH_LIMIT) 
+							continue;
+						writer.write(new ReviewItem(rating, title, review) + NEW_LINE);
 						++reviewCount;
 					} else {
 						writer.write("No matches" + NEW_LINE);
-						//System.out.println("No matches");
 					}
 					reviewMatcher = reviewMatcher.region(reviewMatcher.end(), reviewMatcher.regionEnd());
 				}

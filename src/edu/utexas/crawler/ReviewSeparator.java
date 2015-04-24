@@ -17,13 +17,9 @@ class ReviewSeparator {
 		this(null);
 	}
 	
-	public String text() {
-		return mText;
-	}
+	public String text() { return mText; }
 	
-	public void setText(String text) {
-		mText = text;
-	}
+	public void setText(String text) { mText = text; }
 	
 	public ArrayList<String> separate() {
 		mSentences = new ArrayList<String>();
