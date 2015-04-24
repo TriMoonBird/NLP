@@ -51,9 +51,17 @@ class ReviewItem {
 	public String toString() {
 		StringBuilder str = new StringBuilder();
 		final String NEW_LINE = System.getProperty("line.separator");
+		str.append("{" + NEW_LINE);
+		if (mReview != null) str.append("Valid: 1"); else str.append("Valid: 0"); str.append(NEW_LINE);
 		if (mAuthor != null) str.append("Author: " + mAuthor + NEW_LINE);
 		if (mTitle != null) str.append("Title: " + mTitle + NEW_LINE);
-		if (mReview != null) str.append("Review: " + mReview + NEW_LINE);
+		if (mReview != null) {
+			str.append("Review: " + NEW_LINE);
+			ReviewSeparator separatedReview = new ReviewSeparator(mReview);
+			separatedReview.separate();
+			str.append(separatedReview);
+		}
+		str.append("}" + NEW_LINE);
 		return str.toString();
 	}
 }

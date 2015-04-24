@@ -11,13 +11,13 @@ class ParseHtml {
 	private static final String NEW_LINE = System.getProperty("line.separator");
 	
 	public static void main(String[] args) throws Exception{
-		String input = "data/facebook.html";
-		String output = "data/facebook.txt";
+		String input = "data/Office.html";
+		String output = "data/Office.txt";
 		parse(input, output);
 	}
 	
 	public static void parse(String input, String output) {
-		//String authorPattern = "<span +class=\"author-name\"> <a href=.*>(.*?)</a> *</span>";
+		//String authorPattern = " *<span +class=\"author-name\"> *<a href=.*>(.*?)</a> *</span>";
 		String reviewPattern = "<div +class=\"review-body\">(.*?)</div>";
 		String contentPattern = " *<span +class=\"review-title\">(.*?)</span> *(.*?)<div +class=\"review-link\".*";
 		Pattern reviewSection = Pattern.compile(reviewPattern);
