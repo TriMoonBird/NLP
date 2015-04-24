@@ -4,16 +4,20 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 class ParseHtml {
+	public static final int OUTPUT_REVIEW_NUMBER = 60;
 	public static final int REVIEW_LENGTH_LIMIT = 50;
 	public static final String NEW_LINE = System.getProperty("line.separator");
 	
 	public static void main(String[] args) throws Exception{
-		String input = "data/Office.html";
-		String output = "data/Office.txt";
+		String name = "Sudoku";
+		String input = "data/game/" + name + ".html";
+		String output = "data/game/" + name + ".txt";
 		parse(input, output);
 	}
 	
@@ -27,7 +31,23 @@ class ParseHtml {
 		return text;
 	}
 	
+	public static void saveReviewItem(FileWriter writer, ArrayList<ReviewItem> reviews, int number) throws IOException {
+		Collections.shuffle(reviews);
+		for (int i = 0; i < number; ++i) {
+			if (i >= reviews.size())
+				break;
+			writer.write(reviews.get(i) + NEW_LINE);
+		}
+	}
+	
+	public static void saveReviewItem(FileWriter writer, ArrayList<ReviewItem> reviews) throws IOException {
+		for (ReviewItem review : reviews) {
+			writer.write(review + NEW_LINE);
+		}
+	}
+	
 	public static void parse(String input, String output) {
+		ArrayList<ReviewItem> reviews = new ArrayList<ReviewItem>();
 		String reviewPattern = "<div +class=\"tiny-star star-rating-non-editable-container\" *aria-label=\" Rated ([1-5]) stars.*?<div +class=\"review-body\">(.*?)</div>";
 		String contentPattern = ".*<span +class=\"review-title\">(.*?)</span> *(.*?)<div +class=\"review-link\".*";
 		Pattern reviewSection = Pattern.compile(reviewPattern);
@@ -35,7 +55,6 @@ class ParseHtml {
 		int reviewCount = 0;
 		try {
 			BufferedReader reader = new BufferedReader(new FileReader(input));
-			FileWriter writer = new FileWriter(output);
 			String str;
 			while ((str = reader.readLine()) != null) {
 				Matcher reviewMatcher = reviewSection.matcher(str);
@@ -47,14 +66,16 @@ class ParseHtml {
 						String review = processEnd(contentMatcher.group(2));
 						if (review.length() < REVIEW_LENGTH_LIMIT) 
 							continue;
-						writer.write(new ReviewItem(rating, title, review) + NEW_LINE);
+						reviews.add(new ReviewItem(rating, title, review));
 						++reviewCount;
 					} else {
-						writer.write("No matches" + NEW_LINE);
+						System.out.println("No matches: " + reviewCount + NEW_LINE);
 					}
 					reviewMatcher = reviewMatcher.region(reviewMatcher.end(), reviewMatcher.regionEnd());
 				}
 			}
+			FileWriter writer = new FileWriter(output);
+			saveReviewItem(writer, reviews, OUTPUT_REVIEW_NUMBER);
 			reader.close();
 			writer.close();
 			System.out.println("Review Count: " + reviewCount);
