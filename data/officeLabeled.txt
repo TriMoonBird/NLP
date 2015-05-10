@@ -1,0 +1,461 @@
+{
+Valid: 1
+Title: People
+Review: 
+<o>This app is intended to be used with OneDrive because why would Microsoft give office for free in mobile devices when you have to pay in PC?
+<o>That would obviously move everyone from the PC to the Mobile version (Free Version) Don't understand the poor ratings!
+}
+
+{
+Valid: 1
+Title: Wheres the individual apps, I don't have a tablet?
+Review: 
+<f>Microsoft really needs to separate out Word/Excel etc, like they have done on iOS, I've switched from iOS, and can only use this for my office documents, and it doesn't allow full functionality.
+<o>Hope there are individual apps coming soon.
+}
+
+{
+Valid: 1
+Title: Does not support Tablets with Intel Processors
+Review: 
+<c>Bought an Asus Tablet with Android 4.4 but spent two weeks trying to figure out why office wouldn't work.
+<c>Found out that the current version only supports ARM processors.
+<o>Had to return the tablet because this is a crucial app for me to work.
+}
+
+{
+Valid: 1
+Title: 2/5
+Review: 
+<f>You can't save in Phone Storage, only in One Cloud.
+<f>You can't copy cell formulas in Excel which is a shame.
+<c>Some fonts are larger than they should be in PowerPoint and it can't properly open pptx files.
+}
+
+{
+Valid: 1
+Title: Cannot open protected files
+Review: 
+<f>I usually use excel password protected files and was surprised that cannot open them with Microsoft office, but can open with the office software already installed, for free!, in my phone...
+}
+
+{
+Valid: 1
+Title: NOPE
+Review: 
+<f>Why must I log in to use this?
+<o>Not interested.
+<o>Deleting and installing another office suite that isn't as nosey.
+<o>Buh-byeee, MS office.
+}
+
+{
+Valid: 1
+Title: Can't open any local files...
+Review: 
+<o>Downloaded an word file?
+<o>Got an excel doc emailed to you?
+<o>Well...
+<f>don't ask this app to open it, cause it won't.
+<f>Unless you first upload it using a different tool you'll be unable to open any local file.
+<o>What's that about?
+}
+
+{
+Valid: 1
+Title: Ink?
+Review: 
+<c>Does not show ink within documentgs.
+<c>Should be able to not only see the ink made on a windows platform,  but I should be able to add or edit the ink with,  for example,  a G-note 4 device.
+}
+
+{
+Valid: 1
+Title: Can't send or download files
+Review: 
+<f>It's bad enough that you can't download files and to add insult to injury, when you try to send one it doesn't attach to the email and when you try to send a link it takes people to a blank folder.
+<o>This has a long way to go...
+}
+
+{
+Valid: 1
+Title: Won't open password protected files
+Review: 
+<f>Until it can open password protected files, it's no good to me.
+<o>Free non-MS software can do it, why can't MS?
+}
+
+{
+Valid: 1
+Title: Only saves to One Drive
+Review: 
+<f>Saves only to One Drive, need to install One Drive to open and download?
+<o>Sticking to free Office Suite provided by Sony.
+<o>The Windows Vista of Office Apps.
+}
+
+{
+Valid: 1
+Title: Not good enough
+Review: 
+<o>I can only link to Dropbox or Microsoft cloud,  on a Android app.
+<f>It needs to be able to connect to Google drive as well.
+}
+
+{
+Valid: 1
+Title: Excel lite
+Review: 
+<f>You can not manipulate protected excel sheets.
+<f>How can you expect to use excel spreadsheets without keeping formulas locked down?
+}
+
+{
+Valid: 1
+Title: Does not support Nexus 6
+Review: 
+<f>So much for productivity.
+<o>Come on Microsoft, you make it so hard to use your services.
+}
+
+{
+Valid: 1
+Title: Only accepts a single account
+Review: 
+<f>If you have more than one Office365 account you will never be able to access the second one.
+<f>The whole office suite only supports a single user.
+}
+
+{
+Valid: 1
+Title: More of a document *viewer*
+Review: 
+<f>I expected to be able to edit .doc files.
+<f>However this is not possible, not even in a limited fashion.
+<o>Quite disappointing...
+}
+
+{
+Valid: 1
+Title: Wiped Half-hour's worth of work.
+Review: 
+<f>Says it couldn't connect to one drive then took me back to menu and didn't save, half an hours work lost because there's no proper local save support.
+}
+
+{
+Valid: 1
+Title: What the hell?
+Review: 
+<f>The online version supports open office file extensions like .odt or .ods and this app doesn't??
+<f>Why can't I just use Polaris office for everything else since it supports Microsoft office's extensions just fine+.pdf and other bs..
+}
+
+{
+Valid: 1
+Title: 
+Review: 
+<f>Well this app does save docs in the device, not just onedrive, but it should be in a easier way.
+<f>Login shouldnt be necessary, but an optional step.
+<a>Should optimize space on screen.
+<f>Edit mode should be better on PowerPoint.
+<f>But it works.
+<f>I only use it because of the integration with OneDrive,  which is useful to me.
+<o>When I don't need integration I use Polaris.
+}
+
+{
+Valid: 1
+Title: NO intel processor support
+Review: 
+<c>This app would get 5 stars from me but I cant use it on my tablet but I can use it on my phone?
+<o>BS!
+}
+
+{
+Valid: 1
+Title: Cannot access multiple accounts
+Review: 
+<o>I have a personal Office 365 account as well as a University provided account.
+<f>I would like to be able to access BOTH accounts, but it seems the only way to do this is to completely erase the app data and relogin to switch accounts (losing information and slowing down my phone).
+<f>They need to have an option where you can login to multiple accounts and then switch between them.
+}
+
+{
+Valid: 1
+Title: Compatibility
+Review: 
+<c>I had the issue of incompatibility but it is partially gone now..
+<c>I cannot use my wireless printer to print document from mobile.
+<o>Please help.
+<o>Thanks!
+}
+
+{
+Valid: 1
+Title: Excel is too basic, you end up needing a computer.
+Review: 
+<f>I have only used Excel but it needs more options.
+<f>You can't add rows or columns in, so if you need to add something in once you've started it won't let you.
+<f>There isn't even an option to bold items.
+<f>There are only 5 formulas to pick from so it's more of a glorified calculator.
+}
+
+{
+Valid: 1
+Title: Not working on Tablet
+Review: 
+<c>Microsoft advertises on their website it works on Android Tablets, I have 3 different tablets, Samsung Tab S 10.1, Samsung Note 10.1 (2014) and a Samsung Tab 4 8 and none are compatible only my S5 and LG G3s.
+}
+
+{
+Valid: 1
+Title: You have to sign in!!!!! Forget it....
+Review: 
+<f>Why do I need to sign in to just open a doc from my device and that too by uploading to OneDrive, Forget it.
+<o>Microsoft is killing its products.
+<o>Not going to use office any more.
+}
+
+{
+Valid: 1
+Title: 
+Review: 
+<f>My private stuff should not be online.
+<o>If you post it, you can keep your bloatware to yourself.
+}
+
+{
+Valid: 1
+Title: Useless!
+Review: 
+<o>Used it for 6 months and worked perfectly until the latest update.
+<f>I open an Excel spreadsheet on  OneDrive, edit it and when I try to save it, it trys to save it in the root drive, not where it was originally and trys to append "(1)" to the file name  When I save it where it wants to and then immediately try to open it, it says the file is corrupt (destroyed all of my data).
+<o>I'm an Office 365 Professional user which makes no difference.
+<f>Also, when in the h*ll are you going to add a print option.?
+}
+
+{
+Valid: 1
+Title: Very Disappointing App
+Review: 
+<c>This review is about the mobile app only - not the tablet or PC versions.
+<f>I'm surprised by the lack of functionality considering this is an actual Microsoft product.
+<f>Like many other apps, this one fine for reading files.
+<f>But it lacks so much basic function in each document type that it's useless for school or office use.
+}
+
+{
+Valid: 1
+Title: Great if you have a one drive
+Review: 
+<o>Had this on my windows phone but using an S5 at the mo so thought I'd get this.
+<o>Yeah does what you need it to.
+<f>Login to your Microsoft account and all you bits and bobs are there for you.
+<f>Some funky subtle effects too.
+<o>Again don't understand the negative feedback.
+<o>Can only assume people think it's going  to be full office suit...
+<o>which it isn't.
+}
+
+{
+Valid: 1
+Title: Useless...
+Review: 
+<f>Once again a poorly featured app by Microsoft.
+<f>I understand that they don't want to give you full features of a paid version.
+<f>But why would I sign up for a subscription if it lacks a bunch of tools especially in a word document.
+<o>Maybe make a better trail version so not to give it all away?
+<o>Kingsoft and Polaris comes to mind when it comes to quality office suite.
+}
+
+{
+Valid: 1
+Title: Closes and discards File changes
+Review: 
+<f>My biggest problem is this 'premium' office suite, doesn't save my chances if I task switch to another app and then come back to this to continue my edits.
+<f>A few times, it says I can not make changes to an excel book.
+}
+
+{
+Valid: 1
+Title: Can't even get in!!!
+Review: 
+<c>I downloaded this app so I could use my school email not only on a computer, but on my phone as well.
+<o>I'm putting in ALL of my information correctly, email and password.
+<o>I know I'm doing it right because I did it several times and TRIPLE checked it.
+<f>It keeps telling me that I need to have AN ORGANIZED ACCOUNT.
+<o>What does that mean???!
+<o>Please help me with this situation.
+<o>I have important emails I need to know when they're coming, and I will never know without the app.
+}
+
+{
+Valid: 1
+Title: Great Office, lack of Local Save
+Review: 
+<f>Why is there no local saving?
+<f>I don't need/want everything online █ Word: Can't edit files with Unicode characters, for example these black blocks (this █ ) █ Word: should show page breaks instead of one continuous strip, no support for fine-grained text size change █ Word: Only 3 colors for font/text highlighting?
+}
+
+{
+Valid: 1
+Title: Can't save file to phoned storage or sd card
+Review: 
+<f>You can't save file to phone storage or to SD card.
+}
+
+{
+Valid: 1
+Title: Thrilled!
+Review: 
+<o>Ok, so there are going to be hiccups, this is Microsoft we're talking about here.
+<c>BUT, they are fulfilling their mission to go mobile, and that means bringing their software to apple and android OS.
+<c>I'm thrilled I can now work on docs from my Note 4 or Galaxy Tab.
+<o>Thank you Microsoft.
+}
+
+{
+Valid: 1
+Title: Useless on Note 4
+Review: 
+<f>Did Uni Office 365 to get the Terabyte of storage and better mobile access.
+<o>As far as the Android app goes,  totally useless.
+<f>Excel just says "cannot edit" and it's Excel I need.
+<o>3rd party apps are way better.
+<f>One star for app,  2 stars only because the Office subscription does OK otherwise (once you've paid to be crucified by Microsoft customer service for a few days).
+}
+
+{
+Valid: 1
+Title: Microsoft Office
+Review: 
+<o>After reading all these reviews, I  can foresee all the same problems I'm going to have.
+<o>Don't need the aggravation.
+<f>After opening this, saw that you have to sign in.
+<o>Not even gonna go any further.
+<o>Will uninstall.
+<o>Too bad there are so many issues with this app.
+<o>Should have read reviews first, like I normally do.
+}
+
+{
+Valid: 1
+Title: WHY CAN'T YOU SAVE FILES DIRECTLY TO YOUR PHONE???
+Review: 
+<f>Why can't I save my file on my phone directly?
+<f>What if you're in a place without internet and really need to save your edited files?
+}
+
+{
+Valid: 1
+Title: Office for small business owner.
+Review: 
+<f>This app I installed few weeks ago because I kinda where wanting an office app what can allow me to make and edit regular office documents.
+<f>Unfortunately after first use I understood that in whole this app is no formating options.
+<f>I was using a quick office by Google and it was great, you could make and format all your text and spredsheets, add colors, borders and other things to highlight information.
+<o>Unfortunately now quick office by Google isn't available in Google play anymore.
+<o>And that's totally bad!
+}
+
+{
+Valid: 1
+Title: Really...
+Review: 
+<f>Well first of all why need an account for this to be able to use this?
+<f>I can't even use this without an account and second, I only misspelled one thing wrong to make the account and submitted it and then It said password don't match and I fixed it and it said I've tried to many times and I have to wait 1 whole day to try again!
+<f>And I can't even access it without an account!
+<o>U should give at least 5 tries not just 1 to get it right!
+}
+
+{
+Valid: 1
+Title: Finally
+Review: 
+<o>Finally the expected office for android.
+<o>Still a lot to work on, but for mobile phones it does the job.
+<o>For the haters who complain here, this is first release, stop hating so much.
+<o>It's free and for sure will improve.
+}
+
+{
+Valid: 1
+Title: Terrible app
+Review: 
+<f>Doesn't let me access or save into my phone storage or sd card.
+<f>Functionality is pointless you are better off using another free alternative for mobile docs.
+}
+
+{
+Valid: 1
+Title: Not what I would expect from the largest office productivity suite on the market
+Review: 
+<o>This is not what I would expect from Microsoft for any office app.
+<f>The only thing you can really do and poorly is open existing files.
+<f>Creating a new one is horrible with very limited capabilities and loss of basic formating even when reviewing an existing file.
+<o>Not something I would expect from a ms office suite.
+<o>Time to get back to the drawing board and awe us with what we have grown to know and use on a daily basis.
+}
+
+{
+Valid: 1
+Title: Not compatible with LG G3
+Review: 
+<c>I used it on my GS4 just fine, but it won't work on my new LG G3. Will there be a fix coming?
+}
+
+{
+Valid: 1
+Title: Enough with the crap
+Review: 
+<f>Gave up after trying to retrieve my password.
+<o>Not worth the exhaustive effort.
+<o>You know if your under 50 this is going to be a disappointing product.
+<o>Why even try it.
+}
+
+{
+Valid: 1
+Title: Mainly for viewing or text editing
+Review: 
+<f>The software doesn't let you do a whole lot with the file saved online, other than maybe correctly a few grammar mistakes and spacing.
+<f>Plus, no local save for when I don't have access to a decent Wi-Fi connection, which happens often.
+}
+
+{
+Valid: 1
+Title: No password protected files?
+Review: 
+<f>Please please, can you please update this very useful app with the possibility of working with password protected files?
+<f>I can do that with the Excel app on my iPad, it would be lovely to have consistent features across devices.
+}
+
+{
+Valid: 1
+Title: PowerPoint?
+Review: 
+<f>Why can't I create new PowerPoint presentations?
+<o>That is the main reason why I downloaded this app to begin with because the online version never wants to work.
+<f>If I could make new presentations the same way I could on a computer like the word and excel is with this app then I would give it a better rating.
+}
+
+{
+Valid: 1
+Title: 
+Review: 
+<f>Was thrilled when I synced my laptop files via dropbox.
+<f>But I am disappointed to find that this software doesn't offer basic features like word count.
+<o>I am an author and it would be really helpful if you can provide it in your MS word.
+}
+
+{
+Valid: 1
+Title: Lost my saved work
+Review: 
+<f>I was very excited to have the capabilities to link my school work from my laptop to my phone.
+<o>The first 45 minutes of working on a paper went great.
+<f>I was able to save it ok and continue on.
+<f>As I finished my second paragraph I hit save and it encountered an error which resulted in it wiping out the entire document, including the information that had already been saved!
+<o>Thank God that I hadn't gotten too far on my paper.
+<o>Don't do any work on this if it is important.
+<o>Completely unreliable program!
+}

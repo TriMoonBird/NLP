@@ -11,13 +11,13 @@ import java.util.regex.Pattern;
 
 class ParseHtml {
 	public static final int OUTPUT_REVIEW_NUMBER = 60;
-	public static final int REVIEW_LENGTH_LIMIT = 50;
+	public static final int REVIEW_LENGTH_LIMIT = 150;
 	public static final String NEW_LINE = System.getProperty("line.separator");
 	
 	public static void main(String[] args) throws Exception{
-		String name = "Sudoku";
-		String input = "data/game/" + name + ".html";
-		String output = "data/game/" + name + ".txt";
+		String name = "SwiftKey";
+		String input = "data/productivity/" + name + ".html";
+		String output = "data/productivity/" + name + ".txt";
 		parse(input, output);
 	}
 	

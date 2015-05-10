@@ -1,0 +1,680 @@
+{
+Valid: 1
+Index: 1
+Rating: 2
+Title: The sudoku I love but...
+Review: 
+<f>The "value before cell" option should have an option so that when you change values you can just touch the new value you want and the previous one will be replaced.
+<f>Add this feature PLEASE.
+<f>(Even if it is its own option) I would have given 5 stars if this option was available.
+<o>I currently prefer my other sudoku app but wanted sudoku X...
+}
+
+{
+Valid: 1
+Index: 2
+Rating: 4
+Title: 
+Review: 
+<p>I solved 100 puzzles, but now I'm not able to open a new one.
+<p>I get only the option of resetting the same puzzle that I solved last.
+<o>What is the solution?
+}
+
+{
+Valid: 1
+Index: 3
+Rating: 2
+Title: No advantage over paper
+Review: 
+<s>You only get a single check if you have a wrong value, or pay dollars.
+<p>When you enter a number, it doesn't remove the same numbers entered as tentative in the same row and column, makes for a v-e-r-y slow game.
+<f>Developer permissions were good, but too frustrating.
+<f>Uninstalled.
+}
+
+{
+Valid: 1
+Index: 4
+Rating: 4
+Title: Fun to play
+Review: 
+<f>I like the options of classic or bend versions.
+<f>I also like being able to switch from very easy to more of the challenging puzzles, depending on my mood.
+}
+
+{
+Valid: 1
+Index: 5
+Rating: 4
+Title: Few minor glitches
+Review: 
+<p>I'm having problems with the 2 plus signs not loading there options so I am unable 2 pause or even restart a puzzle I have completely messed up please fix this.
+}
+
+{
+Valid: 1
+Index: 6
+Rating: 3
+Title: Better if offered no-ad
+Review: 
+<a>I like the multitude of games and variety, as well as the many levels of difficulty.
+<s>However, very bothered by the fact that I can't play without the annoying ads or that I have to use tokens to delete the ads.
+<s>And that in doing so, it doesn't remain that way after closing the app.
+}
+
+{
+Valid: 1
+Index: 7
+Rating: 3
+Title: No more ads with videos please
+Review: 
+<s>The app is good but the last 5 games in a row I have played have had the exact same ad with a video.
+<s>It is a waste of data that could be used for something else (eg. downloading other games made by your company.).
+}
+
+{
+Valid: 1
+Index: 8
+Rating: 2
+Title: New update/owner ruined it.
+Review: 
+<a>Used to be my fav.
+<a>But an apparent new owner and changes they made have wrecked it.
+<f>Now it has issues keeping track of my progress with a broken "cloud save" feature, and nags you if you have incomplete puzzles.
+<p>Also uses more battery, wow!
+<p>Way to "fix" what wasn't broken, Volcano.
+}
+
+{
+Valid: 1
+Index: 9
+Rating: 5
+Title: Greatly expanded and fixed
+Review: 
+<a>Much improved from earlier version.
+<a>I had my issues with my first download, and was running out of puzzles.
+<a>No more!
+<s>Ads are a bit annoying, but playing offline works fine.
+}
+
+{
+Valid: 1
+Index: 10
+Rating: 1
+Title: Erased all previous games
+Review: 
+<p>Erased all previous completed games; over 200! Not just once but did it again today.
+<p>Will be unistalling and getting a new sudoku game because this is unacceptable!
+<p>Plus it drains battery life for a simple game!
+}
+
+{
+Valid: 1
+Index: 11
+Rating: 3
+Title: New version is pretty slow
+Review: 
+<p>Becomes unresponsive after returning to the starting screen, need to reopen app to fix it.
+<f>No longer allows you the choice to not use the check puzzle function.
+<p>App is slow to load up initially.
+<o>In my opinion, the app was much better before this update.
+}
+
+{
+Valid: 1
+Index: 12
+Rating: 1
+Title: Update messed it up
+Review: 
+<o>I've had the app on 3 separate devices for a while.
+<p>It was easy to select a number at the bottom and just touch squares to apply the number.
+<p>This function is flawed now as well as the ability to remove numbers from a box when the are multiple numbers applied.
+<p>Please fix.
+}
+
+{
+Valid: 2
+Index: 13
+Rating: 3
+Title: Could have been 4 star if...
+Review: 
+<f>It could have better options.
+<f>Doesn't describe how the points work.
+<f>I lost 25 points before I figured out how the point system works.
+<f>Made me very mad.
+}
+
+{
+Valid: 1
+Index: 14
+Rating: 3
+Title: Really nice but...
+Review: 
+<p>Its a great game and format but often times switching between apps or closing the game my screen on my nexus just goes black.
+<p>If anyone knows how to fix this please inform me.
+<p>Thank you.
+}
+
+{
+Valid: 1
+Index: 15
+Rating: 4
+Title: Suduko
+Review: 
+<f>Really love this, my only complaint is that the 'check for errors' button isn't always available (you have to win a certain amount of games first), otherwise a thoroughly enjoyable game.
+}
+
+{
+Valid: 1
+Index: 16
+Rating: 4
+Title: Nice
+Review: 
+<f>It would be even more good, if it say the wrong placement of numbers at the time of its entry only....
+<f>every time we need to CHECK PUZZLE option for any wrong entries.
+<f>other than that everything is fine.
+}
+
+{
+Valid: 1
+Index: 17
+Rating: 5
+Title: Nice
+Review: 
+<f>The game works fine.
+<f>However if you exit Sudoku, game becomes a saved game.Sudoku i liked it.
+<a>This game have a lot of Sudoku type.Great game...very addictive.
+}
+
+{
+Valid: 1
+Index: 18
+Rating: 1
+Title: It was a good app, but I'm going to delete it now
+Review: 
+<f>This was one of the better apps for this game until it added the stupid visual effects with the numbers spinning around and getting bigger without a way to disable them.
+<a>I want to challenge myself by getting the best times I can, but the visual effects are stupid, unnecessary,  and distracting.
+<a>If they would allow you to disable the visual effects I'd keep the app.
+}
+
+{
+Valid: 1
+Index: 19
+Rating: 1
+Title: Ads in your face as you play it
+Review: 
+<s>I respect the fact that there is a market for ad supported ads, but IMO this should be clearly stated in your description, I just read it over again, you guys kept it as a surprise.
+<s>I would never install it if I knew.
+}
+
+{
+Valid: 1
+Index: 20
+Rating: 4
+Title: Good app
+Review: 
+<a>This app is great for lovers of sudoku.
+<a>It has plenty of different puzzles and levels to keep you entertained.
+<f>I like the fact that if you have to leave the app suddenly or when it is shut down your game is saved and you can just pick up where you left off when you return.
+}
+
+{
+Valid: 1
+Index: 21
+Rating: 5
+Title: 
+Review: 
+<f>Need a soft background music.Please add function for highlight wrong number.
+<f>Is great if we can custom our own background color, number color, cell color etc.
+}
+
+{
+Valid: 1
+Index: 22
+Rating: 4
+Title: TN7.
+Review: 
+<a>1. Here's a very small user interface improvement idea for the already sparkling creative Welcome menu : the "Game Center", "Settings", "Play" and "Help" squares might preferably have "..." appended to their label because they have submenus (which doesn't apply to "Career").
+<f>2. I'd also wish to have an option to set a custom label for any of my custom Sudoku's.
+<s>Ad'sBoS while pehi solving.
+}
+
+{
+Valid: 1
+Index: 23
+Rating: 4
+Title: Fun but in game items have an issue
+Review: 
+<p>I play this quite a bit and noticed that after a reccent update, the in game items no longer work.
+<p>They are unlocked, but upon clicking them nothing happens.
+}
+
+{
+Valid: 1
+Index: 24
+Rating: 3
+Title: Lots of puzzles but settings do not work
+Review: 
+<f>I like that there are tons of puzzles &amp; you can adjust all the settings to have as many or as little cheats as possible.
+<p>I would actually give it 5 stars, but recently the "check cells", "clear cells" (to start over), and all settings in the blue &amp; red plus-sign-settings do not work.
+<p>I now have 6-7 games that I royally messed up on &amp; cannot restart or ask to check for which cells are wrong.
+<p>Also, I am accumulating coins but have no use for them since the settings that you spend them on do not exist.
+}
+
+{
+Valid: 1
+Index: 25
+Rating: 5
+Title: Brilliant and easy to play!
+Review: 
+<a>LOVE this version of sudoku!
+<a>Is easy to play, some of the tricky ones are hard to solve but with the addition of the gold coins in this version it is simple to buy some handy hints!
+}
+
+{
+Valid: 1
+Index: 26
+Rating: 4
+Title: Whiles away the time.
+Review: 
+<f>Should have a solvable fields feature for when you get stuck and has started telling me I need to complete 5 puzzles before some features are available when I have completed hundreds of them.
+<f>Otherwise keeps me occupied when I have a few minutes spare.
+}
+
+{
+Valid: 1
+Index: 27
+Rating: 1
+Title: Latest update sucks
+Review: 
+<p>Can't finish a game, says I still have cells to complete, automatically updates cells prematurely, loses pencil marks, go back to last version.
+<p>Still an issue.....
+<p>has spolit the game.
+<p>Really sucks....
+<p>good response from developer, seems to be restored, thanks.
+}
+
+{
+Valid: 1
+Index: 28
+Rating: 5
+Title: Wonderful App
+Review: 
+<o>Downloaded this Sudoku app with several others.
+<a>This is by far the best I've seen.
+<a>Engaging instead of stressful.
+<f>There is a timer but it's really in the background instead of ever present anxiety producing like other games.
+}
+
+{
+Valid: 1
+Index: 29
+Rating: 3
+Title: Those bloody ads
+Review: 
+<s>I can handle the full screen ads, but I can't stand the banner ads at the bottom that obscure your final score and average at the end of each game.
+<s>It didn't used to be this bad.
+<s>:(.
+}
+
+{
+Valid: 1
+Index: 30
+Rating: 4
+Title: Great fun :)
+Review: 
+<p>4 stars because the recent update drains the battery and it's hard to know which number you have selected if the board thinks that number is completed.
+<f>I'd also like the option to compete against friends times/send a challenge.
+<f>Thoroughly addictive with levels to suit every ability.
+}
+
+{
+Valid: 1
+Index: 31
+Rating: 5
+Title: The awesome version
+Review: 
+<a>This Sudoku is fabulous!
+<a>There r 1000's of puzzles to keep u busy.
+<a>I really like the interface and the display is very clear unlike others I've played.
+}
+
+{
+Valid: 1
+Index: 32
+Rating: 1
+Title: Update is bad
+Review: 
+<p>I been playing g this a while now was really happy with it till the update.
+<p>Now when I go back on the game it's coming up with unfinished  puzzles which I done and keep doing.
+<p>And I'm feed up with it.
+<p>Please fix it or I will be getting rid of this game which I like alot..
+}
+
+{
+Valid: 1
+Index: 33
+Rating: 5
+Title: Best sudoku on the net
+Review: 
+<a>I like everything about this version, the size (perfect on a tablet) the clarity of the numbers, the level of difficulty and the ease of use.
+<f>My only quibble, a small one, is that when using the error button, it also highlights numbers just "pencilled in".
+<f>I wish it would ignore them and just highlight mistakes made in numbers fully filled in.
+<f>For example, you know that a number must be one of two adjacent spaces in a row, and so you pencil them in both.
+<f>The error button tells you which is right and which is wrong when you might not want this information.
+}
+
+{
+Valid: 1
+Index: 34
+Rating: 5
+Title: 
+Review: 
+<a>Good game have a play and get your settings right.
+<a>I nearly binned it cos I didn't like the controls but playing with the settings made all the difference.
+}
+
+{
+Valid: 1
+Index: 35
+Rating: 3
+Title: 
+Review: 
+<p>The lastest update made some changes that decrease the fun of the game.
+<p>All of my accumulated points disappeared and the adds flashing across the bottom of the screen during gameplay are distracting and annoying.
+<p>Can't we just leave those off?
+<a>Otherwise,  the game is fun and challenging.
+}
+
+{
+Valid: 1
+Index: 36
+Rating: 4
+Title: Good fun stuff
+Review: 
+<p>Well put together app, freezes once in a while but it's no big deal just restart it and I'm right back where I was with no lost progress.
+<p>If it wasnt for that it would be 5 stars.
+<o>And already have spent an s-ton of time on it, and received one write up at work for playing it.
+}
+
+{
+Valid: 1
+Index: 37
+Rating: 4
+Title: Great but...
+Review: 
+<c>The only thing  I don't  like is when I downloaded  this to my Tab it didn't  sync with my S4 , so now I can't   start a game on one device and finish  on another like I can with other apps.
+}
+
+{
+Valid: 1
+Index: 38
+Rating: 4
+Title: Good app
+Review: 
+<s>I love it and play it all the time, so glad it's free!
+<p>The only reason for a 4/5 instead of 5/5 is because sometimes the solution check is buggy and won't let me use it and while you can put little numbers in to show multiple spots a number can go the solution check will tell you one of you possibilities is wrong, giving away the answer for that square.
+}
+
+{
+Valid: 1
+Index: 39
+Rating: 4
+Title: Fun so far but just started.
+Review: 
+<o>Just got started and not sure why there is a need for coins.
+<o>Im sure I'll figure it out soon.
+<o>Let you know later if it deserves another star.
+<o>So far it looks good.
+}
+
+{
+Valid: 1
+Index: 40
+Rating: 4
+Title: Dont like the newest update!
+Review: 
+<f>I don't like the update.
+<f>It will not save games as finished after I finished it.
+<p>It killes the batteri in my phone.
+<p>I have played this game for long and loved it but I dont like the new update :( will change my rate to 5 stars when fixed         12.jan: I like this game again after the newest update.
+<p>You have fixed it :).
+}
+
+{
+Valid: 1
+Index: 41
+Rating: 4
+Title: #3 in Standard very hard
+Review: 
+<p>Fairly sure that level is bugged - I have tried to complete three times now, but everytime it just doesnt add up.
+<p>Maybe I have missed something, but starting to think it might be a mistake in the level.
+<p>Can you please take a look at it?
+<p>Besides this I really enjoy the game, but as other people have mentioned, it eats up your battery.
+}
+
+{
+Valid: 1
+Index: 42
+Rating: 2
+Title: Used to love this - but now ruined by 'Volcano'
+Review: 
+<s>I've worked my way up to the top level over the last couple of months and was enjoying completing a couple of puzzles a day, but I'm now finding that ads are intruding and making it impossible to play.
+<s>I don't want coins or ratings thank you!
+<s>Hoping I can find a setting to change or it's adios for this app.
+<s>What a shame.
+}
+
+{
+Valid: 1
+Index: 43
+Rating: 1
+Title: Bad Ads
+Review: 
+<s>I understand the need for Ads but this App allows Ads that try to convince you that you have a virus on your phone and I'm sure that if you click on the Ad it will offer to fix the problem for a fee.
+}
+
+{
+Valid: 1
+Index: 44
+Rating: 3
+Title: Please fix this game!
+Review: 
+<p>I really enjoyed this game up to today.
+<p>Today, when I finish a game with ALL cells filled, the clock keeps running.
+<p>When I check for errors it says "all cells correct, but there are xx cells to go", where xx is some random number!
+<p>HELP!
+}
+
+{
+Valid: 1
+Index: 45
+Rating: 1
+Title: Update is bad
+Review: 
+<p>After the update every time I open the app it loads the progress through the cloud and shows puzzles that I've already solved.
+<p>Never had this issue before recent update.
+<p>Please fix.
+}
+
+{
+Valid: 1
+Index: 46
+Rating: 1
+Title: 
+Review: 
+<s>Everything is fine except that you have to spend gold every time to disable banner add.
+<s>When disable banner add is used it should disable adds permanently.
+<f>Should not have to disable every time you open the app.
+<f>Was better before update!
+}
+
+{
+Valid: 1
+Index: 47
+Rating: 1
+Title: fun.. Doesn't pay out free gold
+Review: 
+<p>I have downloaded and installed different apps and games onto my phone hoping to be rewarded with the free coins used to help me as I complete hard level squiggly puzzles and have not gotten them.
+<p>Clicking the Missing Gold link at the bottom of the page doesn't work either.
+<p>To date I have lost out on 75 gold coins in total.
+<p>I am contemplating deleting the game now.
+}
+
+{
+Valid: 1
+Index: 48
+Rating: 3
+Title: Good game with artistic but not user-friendly interface
+Review: 
+<f>The game works fine.
+<f>However if you exit Sudoku, game becomes a saved game.
+<f>If you saved the game a while back, you may not remember that it existed.
+<f>It would be nice if there was a way (like greying out the choice) to tell you that there are old games to complete before opening up a new game.
+<f>Because of this, I had 5 incomplete games.
+<f>UPDATE: new startup is even more clunky - I don't want to be forced to login to Google because I don't want game console features.
+<f>Deleting 1 more star.
+}
+
+{
+Valid: 1
+Index: 49
+Rating: 3
+Title: 
+Review: 
+<p>Recently problematic.
+<p>Used to work with no problem, now nearly every time I try to start a new game, I get an error message which requires me to force close or report.
+}
+
+{
+Valid: 1
+Index: 50
+Rating: 3
+Title: I don't understand the icons
+Review: 
+<p>I haven't really figured out how to interpret the icons for capabilities of the game.
+<p>I have never got the see how I am doing button working.
+<p>Its a nice implementation, but doesn't feel finished.
+}
+
+{
+Valid: 1
+Index: 51
+Rating: 5
+Title: Best Sudoku App Ever Made
+Review: 
+<>This app has levels for all players, from beginner to seasoned touring professional.
+<>One very minor complaint - it doesn't have spell check.
+<>Anyhoo...Five Stars!
+}
+
+{
+Valid: 1
+Index: 52
+Rating: 5
+Title: Challenge Excepted
+Review: 
+<>Its nice to go back and try to beat your previous score and it automatically saves an unfinished puzzle.
+<>Im just curious if my friends can send me challenges without posting it on another website.
+}
+
+{
+Valid: 1
+Index: 53
+Rating: 1
+Title: Fun
+Review: 
+<>Would have given 5 stars before the update.
+<>I will change to 5 stars if it can go back to where you could reset all 100 puzzles at the same time.
+<>I do not like to reset them 1 by 1. Please fix 😀 thank you.
+}
+
+{
+Valid: 1
+Index: 54
+Rating: 5
+Title: On tab.3.8
+Review: 
+<>Nice app.
+<>for sudoku, no problem so far.
+<>Thanks devs for  good free  game.
+<>Loving the update, and now more games.
+<>Good job, well done.
+<>Well worth a download.
+}
+
+{
+Valid: 1
+Index: 55
+Rating: 2
+Title: The game is good
+Review: 
+<>But I really dislike how it tries to get its grubby paws on my social media data and how it will display ads that contain videos that instantly start to play on full volume.
+<>That is douchebaggery beyond belief.
+<>If I could buy a plain version of this that didn't connect to the internet, at all, I would be willing to pay ten bucks.
+<>But this is garbage.
+}
+
+{
+Valid: 1
+Index: 56
+Rating: 3
+Title: Drains battery, cannot pencil in numbers
+Review: 
+<>(1) The battery drains really fast.
+<>Please do something about that.
+<>(2) I cannot pencil in the cells anymore after the latest update.
+<>As soon as I enter a number the value disappears from a nearby cell.
+<>Please fix as soon as possible!!!!
+}
+
+{
+Valid: 1
+Index: 57
+Rating: 3
+Title: Battery!!!
+Review: 
+<>Like interface, sounds and pretty much everything.
+<>However it drains battery like hell...
+<>Three games, 2 - 3 minuteas each drained battery by 8%.
+<>Unacceptable.
+<>Uninstall.
+}
+
+{
+Valid: 1
+Index: 58
+Rating: 5
+Title: A real challange.
+Review: 
+<>I love this game!
+<>Excellent graphics with large numbers.
+<>Would prefer it if it showed your number was in the wrong place.
+<>Other than that its a fab game to get you thinking.
+<>😃.
+}
+
+{
+Valid: 1
+Index: 59
+Rating: 3
+Title: 
+Review: 
+<>They keep updating and I lose my gold every time they do.
+<>Then it wants to remind me at midnight that I have a game saved.
+<>I know it's saved and I'm sleeping at midnight for work at 4 am.
+}
+
+{
+Valid: 1
+Index: 60
+Rating: 5
+Title: What more do you need?
+Review: 
+<>A very comprehensive version with some versions I hadn't even heard of.
+<>100 boards in 4 difficulty levels and 4 variants.
+<>This will keep me busy for quite some time!
+<>Also a very good clear interface.
+}
+

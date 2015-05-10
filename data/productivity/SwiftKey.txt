@@ -1,0 +1,698 @@
+{
+Valid: 1
+Index: 1
+Rating: 2
+Title: Can't see the excitement
+Review: 
+<>I've tried over and over to get this keyboard to remember a username for a website.
+<>It remembers for a time, but then it seems to completely forget it.
+<>I even upgraded today, but with no luck.
+<>I'm now removing this app, in frustration.
+<>I don't see what the excitement is over this keyboard; I found it at the bottom of the heap of the swipe-style keyboards I've tried.
+}
+
+{
+Valid: 1
+Index: 2
+Rating: 1
+Title: Why I think Swiftkey sucks.
+Review: 
+<>It just literally tries to do anything for you, it puts spaces after every punctuation and comma, if you have 2 or more languages set it will autocorrect almost every single word to the first of the 2 languages.
+<>This came as bloatware on my OnePlus One and I utterly hate it right now.
+}
+
+{
+Valid: 1
+Index: 3
+Rating: 4
+Title: Probably the best keyboard available still
+Review: 
+<>Despite competition from others, no one can touch SwiftKey solid predictions.
+<>And now with emoji prediction and performance improvements, it just gets better.
+}
+
+{
+Valid: 1
+Index: 4
+Rating: 3
+Title: Still no shortcuts like Google keyboard
+Review: 
+<>Up till not SwiftKey still doesn't have shortcuts personalisation like Google keyboard.
+<>On GK I have shortcuts where I just type "idk" and my personalise shortcut predicts it as "I don't know".
+<>Add this function then I'll move back to you guys but for now I'm sticking with GK.
+}
+
+{
+Valid: 1
+Index: 5
+Rating: 1
+Title: Have some suggestions.
+Review: 
+<>I am currently wrighting with this keyboard and I must say that I have seen better.
+<>It is a pain due to the size of the keyboard that makes it harder for me to read the text and I have had to re write this three times already due to it writing BACKWARDS!
+<>I will be uninstalling until you email me that you have fixed the problem.
+}
+
+{
+Valid: 1
+Index: 6
+Rating: 3
+Title: It's better than the alternative
+Review: 
+<>I tried the other keyboards and this one is the best of them BUT my biggest complaint is when I hit a number or letter next to a letter I meant to hit it doesn't predict the word.
+<>I have seen other keyboards on older phones do this, so I know it's possible.
+<>I spend a lot of time fixing it's predictions....
+<>WTH!!!
+}
+
+{
+Valid: 1
+Index: 7
+Rating: 4
+Title: Emojis?
+Review: 
+<>I'm not quite sure when, but the emojis stopped working?
+<>They used to work fine, but now when I go to that section of the keyboard, everything is invisible...
+<>Please help!
+<>:(.
+}
+
+{
+Valid: 1
+Index: 8
+Rating: 5
+Title: Great keyboard app!
+Review: 
+<>Combine predictive text with the ability to swipe across the keyboard to form words, and you get a really good keyboard application.
+<>I'm pretty impressed with the speed I'm able to type now, so I'd definitely recommend SwiftKey.
+}
+
+{
+Valid: 1
+Index: 9
+Rating: 5
+Title: 
+Review: 
+<>I was extremely frustrated with Samsung's swipe.
+<>This is soo much nicer!
+<>Better predictions...
+<>Actually deletes words you don't want...
+<>Overall smoother!
+}
+
+{
+Valid: 1
+Index: 10
+Rating: 4
+Title: Excellent alternative to Google keyboard
+Review: 
+<>Excellent secondary option and I have used it for a quite some time.
+<>I dislike the fact that I have to sign into my SwiftKey account to get certain features and the occasional nag to sign into the cloud.
+<>Nonetheless,  I can live with it and will not penalize the app.
+}
+
+{
+Valid: 1
+Index: 11
+Rating: 4
+Title: More Sounds
+Review: 
+<>This app is super amazing but the sound sometimes gets annoying and I don't wanna turn off the sound is it ok if u guys add more sounds thanks.
+<>If u guys do I will totally give this app 5 stars.
+}
+
+{
+Valid: 1
+Index: 12
+Rating: 4
+Title: New version breaks vibration system wide on OnePlus One
+Review: 
+<>Typing a few words and vibration suddenly stops,and is disabled system wide until I shake or lightly smack the phone (I'm assuming the accelerometer activates something) Tested other keyboards, and vibration keeps working all day just fine with those.
+<>The problem only happens with the newest version of Swiftkey.
+<>Before this I loved the app.
+<>Cobalt theme if that matters.
+}
+
+{
+Valid: 1
+Index: 13
+Rating: 5
+Title: MUCH better than stock Lollipop keyboard.
+Review: 
+<>I've tried out a lot of keyboards, but this seems much easier to navigate through.
+<>I especially love the different layouts and themes!
+<>Just please fix the hepatic feedback.
+<>On my Nexus 6, sometimes it doesn't vibrate and it always has to be up past 20 to even feel anything.
+}
+
+{
+Valid: 1
+Index: 14
+Rating: 5
+Title: Absolutely love this app
+Review: 
+<>The predictive text on this thing is wonderful.
+<>And not just in English but afrikaans as well.
+<>This is the first app that gets installed on any of my new devices.
+<>Lol wish they had a version for the PC.
+}
+
+{
+Valid: 1
+Index: 15
+Rating: 5
+Title: the perfect keyboard.
+Review: 
+<>the predictive text is the best I have ever seen.
+<>once you've used it for a while and it learns your typing style,  you can dang near type total gibberish  and somehow this keyboard still knows what you meant to type.
+<>great for someone like me,  who can't type two letters without one of them being a typo!!!
+}
+
+{
+Valid: 1
+Index: 16
+Rating: 4
+Title: The best keyboard
+Review: 
+<>Ths is the best keyboard so far, i've try so many keyboard before but ths is the best keyboard ever.
+<>Anyway i want to give ths keyboard 5 star, but before tht can u guys make fitur to change the background?
+<>Thanks i hope u guys consider it.
+}
+
+{
+Valid: 1
+Index: 17
+Rating: 3
+Title: Keyboard not working!
+Review: 
+<>The Swift key keyboard has disappeared and for some reason I can't get it enabled back onto my phone.
+<>I've uninstalled the app and reinstalled it.
+<>I've rebooted my phone and that didn't work either.
+<>I have an AT&amp;T LG G2 phone.
+<>Thanks for your help.
+}
+
+{
+Valid: 1
+Index: 18
+Rating: 5
+Title: Great app
+Review: 
+<>Well worth the pennies I spent on the full version.
+<>If you let it learn from your old conversations, you can just keep accepting the suggestions and see where it takes you.
+<>It can get quite spooky.
+<>I myself can't get to grips with the swiping but I'm told it works very well.
+}
+
+{
+Valid: 1
+Index: 19
+Rating: 4
+Title: Japanese language
+Review: 
+<>This keyboard is really good to use but lacking the Japanese language input.
+<>Please include it in the near future as it's troublesome to switch back and forth between keyboards.
+<>It would also be nice to see a kaomoji keyboard in addition to emoji.
+}
+
+{
+Valid: 1
+Index: 20
+Rating: 4
+Title: Great with Dragon speech to text engine.
+Review: 
+<>It's wonderful app.
+<>Since nothing is perfect and there is always, repeat always, room for improvement I give 4 Stars.
+<>Otherwise it's more than 5 stars.
+<>Presto.!
+<>Is there any provision for 10 stars.
+<>Lol 😁.
+}
+
+{
+Valid: 1
+Index: 21
+Rating: 4
+Title: INTUITIVE &amp; Smart
+Review: 
+<>I would've rated it 5 stars coz of its features compared to stock keyboard.
+<>But, it still lags behind some other keyboards as it misses the ".
+<>com"  button on the keyboard.
+}
+
+{
+Valid: 1
+Index: 22
+Rating: 5
+Title: The ultimate keyboards available!
+Review: 
+<>SwiftKey  has made some very nice improvements lately.
+<>Purchasing Fleksy and TouchPal were a real waste of money.
+<>If you want the best, SwiftKey is the only way to go.
+}
+
+{
+Valid: 1
+Index: 23
+Rating: 5
+Title: Working better
+Review: 
+<>After my previous review following a problem with predictions and other things, Swiftkey responded very quickly.
+<>The fix they suggested appears to of worked as predictions have improved again and Swiftkey is a joy to use once again.
+<>Thanks.
+}
+
+{
+Valid: 1
+Index: 24
+Rating: 1
+Title: Sucks
+Review: 
+<>That's about all I glitzy about this app.
+<>I stopped this comment  &amp;  will not make the corrections.
+<>See how many words here,  it came even very the words right.
+}
+
+{
+Valid: 1
+Index: 25
+Rating: 4
+Title: Mostly great .
+Review: 
+<>Needs a better layouts interface than being solely about selling shiny new things (I can forgive this as there is a profit motive involved).
+<>You loose a star for the following, there needs to be an option for "never remember" and a user defined dictionary so you can go in and add once words you use often that the predictive interface fails to pull up.
+}
+
+{
+Valid: 1
+Index: 26
+Rating: 4
+Title: Superb keyboard! Close to perfect.
+Review: 
+<>Truly multi-language keyboard.
+<>It actually auto toggle between languages without a need to switch manually.
+<>As such, would not be able to type as fast as Fleksy if typing in 1 language.
+<>Keyboard sound not nice.
+<>But overall fantastic!
+<>A must have keyboard app for any phone!
+}
+
+{
+Valid: 1
+Index: 27
+Rating: 5
+Title: A great keyboard
+Review: 
+<>Been using it for years..
+<>switched back to native keyboard for a little while when upgraded to lollipop but it just isn't as performant.
+<>Having a good keyboard will definitely make a difference when using your phone or tablet.
+}
+
+{
+Valid: 1
+Index: 28
+Rating: 4
+Title: Great experience with a glitch
+Review: 
+<>Great, intuitive and we'll designed and developed.
+<>Developers: there's a glitch on Google Nexus 6 where half of the time key stroke sounds seem to double.
+<>Comes on and off randomly.
+}
+
+{
+Valid: 1
+Index: 29
+Rating: 4
+Title: Needs more themes + hard to type
+Review: 
+<>I always type wrong since keys are close to each other and narrow.
+<>And I really wish it would have more themes Material design theme.
+<>Other than that it's perfect.
+}
+
+{
+Valid: 1
+Index: 30
+Rating: 5
+Title: Swift key
+Review: 
+<>I definitely recommend it!
+<>Better than my stock LG g3 keyboard,  better than the google keyboard and better than Swype .
+<>The predictions are excellent, you don't have to switch between English and French  and the looks are great!
+<>Excellent!
+}
+
+{
+Valid: 1
+Index: 31
+Rating: 4
+Title: Better than GoPro keyboard
+Review: 
+<>Love the extra features that GoPro didn't think were important such as the 'enter'  key or word suggestion.
+<>Would have rated 5 stars if it had some other features like double space adds a period or better emoji's ...
+<>Little things like that but otherwise would definitely recommend this to friends.
+}
+
+{
+Valid: 1
+Index: 32
+Rating: 5
+Title: Great One
+Review: 
+<>The thing you'd better buy.
+<>Predictions are very good and it really remembers how you combine words.
+<>+cloud - must-have feature when you got a lot of devices.
+}
+
+{
+Valid: 1
+Index: 33
+Rating: 5
+Title: Best keyboard ever!!
+Review: 
+<>Been using this for about 3 years now, works great on my Oneplus one running android Lollipop 🍭  It's also nice to see that OnePlus has made this the default keyboard on all their devices through an update, hats off to them!
+}
+
+{
+Valid: 1
+Index: 34
+Rating: 1
+Title: John Bates
+Review: 
+<>I'm revising my opinion!
+<>Please take some advice from a long-term user of Swiftkey.
+<>DO NOT INSTALL THE LATEST VERSION OF THIS APP, IT WILL PROBABLY DRIVE YOU INSANE!
+<>The Predictive Texting &amp; Corrections Actions are ABSOLUTELY AWFUL.
+<>I have got to the point of considering removing swiftkey &amp; going back to the 'WORSE' Android keyboard!
+<>P / texting is currently about as accurate as farting into a tornado &amp; expecting to hit an aircrsft hanger about 10 miles away!!
+<>FORGET IT!
+<>As for any help you need: NIL!
+}
+
+{
+Valid: 1
+Index: 35
+Rating: 5
+Title: unbeatable
+Review: 
+<>no one can beat SwiftKey its splendid nice typing great size options what not everything in one keyboard kindly make more themes for free so it will be more awesome.
+}
+
+{
+Valid: 1
+Index: 36
+Rating: 4
+Title: Still the best keyboard
+Review: 
+<>I've tried some of the new ones lately and they are all still very annoying to some degree.
+<>SwiftKey can be irritating sometimes when it bogs down or when it refuses to let me use a particular combination of letters and periods, but it's still miles ahead of the competition, even Google's keyboard which I think is 2nd best best but still reminiscent of something a couple high school students would make for the science fair.
+}
+
+{
+Valid: 1
+Index: 37
+Rating: 5
+Title: Great keyboard.
+Review: 
+<>Really.
+<>It's an awesome keyboard.
+<>Better than all the rest n stuff.
+<>And by "rest",  I mean Swype and Samsung Keyboard,  both of which came with my S3.  I mean,  Swype was a great alternative,  and nice of them to stock,  but SwiftKey is where it's at, baby!
+<>DOWNLOAD IT!
+<>NOW!!!
+}
+
+{
+Valid: 1
+Index: 38
+Rating: 4
+Title: Best of a Bad Lot
+Review: 
+<>Like Swype,  punctuation and symbols are overlaid on the keys.
+<>Unfortunately,  it's predictive capabilities are more hit and miss.
+<>The correct word pops up suddenly or,  as now,  it took me almost a minute to get the word 'pops'  to come up.
+<>Google keyboard is better predictably,  Swype second.
+<>SwiftKey doesn't have as many failures as Swype when in Facebook,  but it's word recognition has a long way to go.
+}
+
+{
+Valid: 1
+Index: 39
+Rating: 3
+Title: Great keyboard, still needs works and some explaining.
+Review: 
+<>I really love this onscreen keyboard app.
+<>What I don't like is that I paid for this app, and the other apps from this developer and they now published it for free and put all together in one app.
+<>Next to that, you have to reselect it as default input methode after updating.
+}
+
+{
+Valid: 1
+Index: 40
+Rating: 4
+Title: Still missing shortcut gestures
+Review: 
+<>Despite being in development for years now it still lacks the shortcut gestures of others.
+<>Could you add the ability to copy selection by swiping from (123) to c, paste p, select all a, capitalization shift.
+<>Swipe left from delete key to delete last word.
+<>Could be a.
+<>0.99p addon.
+}
+
+{
+Valid: 1
+Index: 41
+Rating: 5
+Title: Best keyboard enhancement
+Review: 
+<>Updated to the new version when i got my Samsung Galaxy Note 4. I like the new look/feel/features,  even tho their new branding confused me as to whether i was downloading the same app.
+<>One of the things that drove me crazy was having no arrows on the native keyboard.
+<>Found them as an option in swiftkey!
+<>Also like the option of keeping the numbers on the main keyboard.
+<>Now,  if you can find a place to keep ".com" on there,  too!
+}
+
+{
+Valid: 1
+Index: 42
+Rating: 4
+Title: 
+Review: 
+<>There's Chinese language setting, which means this app is totally capable of displaying Kanji, yet there's still no Japanese keyboard support.
+<>I'll give five stars when it's available.
+}
+
+{
+Valid: 1
+Index: 43
+Rating: 4
+Title: SwiftKey
+Review: 
+<>Originally this app was only free on a  trial basis.
+<>I downloaded, used, &amp; loved it!
+<>It was a little "bugy" but a solid app, &amp; when my trial ended I was bummed, so imagine my surprise &amp; glee when I found it, yet again, free but this time permanently!
+<>Some things still need sorting such as speech to text, it basically writes what it wants, &amp; I'd love an option to resize the keyboard, it's huge!
+<>Taking up half my screen!
+<>More/better free themes would be great!
+<>Rectify these issues and it's 5 star status!
+}
+
+{
+Valid: 1
+Index: 44
+Rating: 5
+Title: Most accurate keyboard that I have come across
+Review: 
+<>There is no other way to put this, this app really has the worlds best auto complete engine.
+<>As it learns your typing pattern it will within a week have become your best friend.
+<>But nothing is 100 percent perfect and this keyboard app lacks a few features and has a strange behavior that I have noticed.
+<>The settings is kind of slow and the app lacks the feature to change the size of the keyboard.
+<>Overall this app is a must have and has been my friend since I bought it many months ago.
+}
+
+{
+Valid: 1
+Index: 45
+Rating: 3
+Title: Brilliant!
+Review: 
+<>By far the best keyboard available on the android market, tried it for thirty days and was immediately hooked.
+<>Never thought I'd pay for an app, very glad I did.
+<>Update- it won't let me download diwali or Chinese new year, not pleased.
+<>Carnival is trippy.
+}
+
+{
+Valid: 1
+Index: 46
+Rating: 1
+Title: Not as good as others
+Review: 
+<>I laugh every time I see "SwiftKey has saved you X amount of keystrokes!" Hah!
+<>Not when I'm constantly going back and fixing the errors from your swiping algorithm!
+<>It's been like this for a long time too.
+<>I give up on this app.
+<>It's just gotten worse now.
+<>It doesn't show the current word anymore in the middle which I rely on to accurately swipe.
+}
+
+{
+Valid: 1
+Index: 47
+Rating: 3
+Title: 
+Review: 
+<>Sometimes the word I type is actually the word I want.
+<>Autocorrect on this keyboard doesn't give me the option of choosing the word I've actually typed rather than having it decide that an entirely different word is the one I wanted.
+}
+
+{
+Valid: 1
+Index: 48
+Rating: 5
+Title: Fantastic!!!
+Review: 
+<>Works great, really speeds up typing and accuracy as the program learns and the account feature spreads the knowledge over all of your devices Droid Turbo.
+}
+
+{
+Valid: 1
+Index: 49
+Rating: 3
+Title: Emoji Lag
+Review: 
+<>Once, I rated this app 5 star.
+<>However, it has been over one year that a widely known stuttering issue in the emoji panel has been known, and nothing has been done about it.
+<>Emojis are now a part of every day social media, and it's disappointing that SwiftKey hasn't addressed this.
+<>Everything else is great - support for multiple languages at the same time, predictions, cloud saving.
+<>But those things are also possible in other keyboards, albeit at less convenience.
+<>After 1+ year, fix the emoji panel.
+}
+
+{
+Valid: 1
+Index: 50
+Rating: 4
+Title: I love it, but.........
+Review: 
+<>one thing is anoying - no option to turn off prediction.
+<>It is useless in my native language (i will send explanation about this to support) it just cover some of my small screen (SG2).
+<>So I had to find a workaround to remove prediction...
+<>Thats why only 4 stars...
+}
+
+{
+Valid: 1
+Index: 51
+Rating: 3
+Title: A good keyboard but...
+Review: 
+<>If you are a swiper don't bother, this keyboard will drive you crazy also poor quality keyboard sounds.
+<>They'll get 5 stars from me once those things are fixed.
+}
+
+{
+Valid: 1
+Index: 52
+Rating: 3
+Title: Swype entry is cumbersome
+Review: 
+<>Works ok on the galaxy s5...
+<>Better than the factory keyboard.
+<>However, way more cumbersome than the swype capabilities on the factory keyboard on my Motorola Droid Mini I had prior to the s5. Takes forever to swype a sentence by comparison and always inserts ridiculous words (e.g.
+<>Wend instead of when).
+<>Best option I've found but miles from as good as Motorola's standard option.
+}
+
+{
+Valid: 1
+Index: 53
+Rating: 5
+Title: The best keyboard on Android
+Review: 
+<>There are many keyboards available in the Play Store, but SwiftKey is by far the best.
+<>It has an amazing prediction engine and is just as useful, elegant, and well-thought-out on tablets as it is on the phone, something that is missing on numerous other keyboards (Fleksy, for example).
+<>And the new themes make it even better.
+}
+
+{
+Valid: 1
+Index: 54
+Rating: 5
+Title: Love this keyboard
+Review: 
+<>Way better than the keyboard that comes on phones, worth the money to buy the full version.
+<>Only thing I wish was different was that you could have iOS emojis on the long hold for emojis off the keyboard, not just the Samsung emojis.
+}
+
+{
+Valid: 1
+Index: 55
+Rating: 5
+Title: Best keyboard
+Review: 
+<>SwiftKey is the best alternative keyboard I have found.
+<>There is always room for improvement, but this keyboard has great features balanced with simplicity and consistent performance.
+}
+
+{
+Valid: 1
+Index: 56
+Rating: 4
+Title: For the love of emojis
+Review: 
+<>The Stock keyboard just doesn't cut it.
+<>Did experience a slight battery drain on my stocks 4.4 s4 rom.
+<>Using a custom lollipop now.
+<>Hoping this issue has been rectified.
+<>Its quick and convenient but if you typing sensitive information remember that's still on your device.
+<>Keeping a simple lock on your Phone fixes that.
+}
+
+{
+Valid: 1
+Index: 57
+Rating: 5
+Title: Tried the rest, this is the best
+Review: 
+<>This is way better than the default keyboard on my device.
+<>I don't need to double check to see if the right word was entered,  I just know it is, makes proofreading easier.
+<>Even if your current keyboard is adequate,  get this one for an improved experience.
+<>Adequate is the best you'll get with any other keyboard software.
+}
+
+{
+Valid: 1
+Index: 58
+Rating: 1
+Title: NCAA Themes
+Review: 
+<>Love the idea of adding NCAA themes, but where's the Arizona Wildcats theme?
+<>I think #1 team in the Pac-12 deserves a theme too.
+<>Would use SwiftKey again if you add it!
+}
+
+{
+Valid: 1
+Index: 59
+Rating: 5
+Title: Wonderful keyboard
+Review: 
+<>Only downside is they're too focused on gimmicky theme keyboards instead of quality, functional ones.
+<>There are some good ones in the repository though, so still the best app around.
+}
+
+{
+Valid: 1
+Index: 60
+Rating: 5
+Title: Uninstalled
+Review: 
+<>Works great.
+<>I installed it because  I hated typing on my LG keyboard.
+<>This one is the same.
+<>I have to retype half of what I swype.
+<>The suggestions are also the same.
+<>Not the improvement I was looking for.
+}
+

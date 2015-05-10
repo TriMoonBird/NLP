@@ -1,17 +1,21 @@
 package edu.utexas.crawler;
 
-class ReviewItem {
+import java.util.ArrayList;
+
+public class ReviewItem {
 	private static int mCount = 1;
 	private String mRating;
 	private String mAuthor;
 	private String mTitle;
 	private String mReview;
+	private ArrayList<TaggedSentence> mSentences;
 	
 	public ReviewItem(String rating, String author, String title, String review) {
 		mRating = rating;
 		mAuthor = author;
 		mTitle = title;
 		mReview = review;
+		mSentences = new ArrayList<TaggedSentence>();
 	}
 	
 	public ReviewItem(String rating, String title, String review) {
@@ -26,11 +30,30 @@ class ReviewItem {
 	public String author() { return mAuthor; }
 	public String review() { return mReview; }
 	public String title() { return mTitle; }
+	public ArrayList<TaggedSentence> sentences() { return mSentences; }
 	
 	public void setRating(String rating) { mRating = rating; }
 	public void setAuthor(String author) { mAuthor = author; }
 	public void setReview(String review) { mReview = review; }
 	public void setTitle(String title) { mTitle = title; }
+	
+	public ArrayList<TaggedSentence> separateReview() {
+		ReviewSeparator separatedReview = new ReviewSeparator(mReview);
+		ArrayList<String> sentences = separatedReview.separate();
+		for (String sentence : sentences) {
+			mSentences.add(new TaggedSentence(sentence));
+		}
+		return mSentences;
+	}
+	
+	public String sentenceToString() {
+		StringBuilder str = new StringBuilder();
+		final String NEW_LINE = System.getProperty("line.separator");
+		for (TaggedSentence sen : mSentences) {
+			str.append(sen.sentence() + NEW_LINE);
+		}
+		return str.toString();
+	}
 	
 	@Override
 	public String toString() {

@@ -1,0 +1,718 @@
+{
+Valid: 1
+Index: 1
+Rating: 4
+Title: Great game but..
+Review: 
+<f>I really love this game and just wish it was for dl on pc.
+<f>I've played PvZ through about 6 times now and really wish there was something new for PvZ.
+}
+
+{
+Valid: 1
+Index: 2
+Rating: 3
+Title: Keep losing my progress
+Review: 
+<p>I love the game.
+<p>Hate it when i would log on and see that everything was lost.
+<p>I keep having to restart the same maps over and over.
+<p>What an absolute downer!
+}
+
+{
+Valid: 1
+Index: 3
+Rating: 1
+Title: Fix the glitch plz
+Review: 
+<p>Endless zone glitch in recent update causes you to not get plants after level 1. Also trying to exit will cause a loop that brings you back to the start of the level you were on, even if you lose, causing me to force close the app.
+<p>Not sure if any other parts of the game only tried pirate seas.
+<o>Note: I like how people are telling you guys about this glitch and the only thing you guys have done so far is raise the price of the dandelion.
+<o>Dont you guys ever reply to the reviews on here.
+}
+
+{
+Valid: 1
+Index: 4
+Rating: 3
+Title: Not so happy!!
+Review: 
+<p>You guys need to fix the game ASAP,  there are a  lot of glitches going on, for example in endless mode, you don't have the option to pick out a plant and when you try to "ritire" it keeps taking you back to the game!!!
+<p>I love this game but now is  a hassle to play, not to mention that i had to start all over again because it froze on me and i had to uninstall an reinstall, please fix!!
+}
+
+{
+Valid: 1
+Index: 5
+Rating: 1
+Title: Horrible money grab
+Review: 
+<s>Simply put don't download this game.
+<s>You have to pay individually for each new plant after the first 6 or so.
+<s>This includes more than half of the plants that you got by simply progressing through the first game.
+<s>I've never been more disappointed in a sequel before as this is sheet lunacy.
+<s>It would cost upwards of $75-$100 to be able top use every plant.
+<s>Have not and will not ever spend a dime on this company as a result, absolutely disgusting.
+}
+
+{
+Valid: 1
+Index: 6
+Rating: 3
+Title: All game data lost
+Review: 
+<p>While in the middle of a game, my tablet crashed and the screen went black.
+<p>My tablet rebooted but when I reopened the game, all of my progress was reset even though I had signed in with my Google account.
+<p>Please restore my data as I have been playing this game for years.
+}
+
+{
+Valid: 1
+Index: 7
+Rating: 4
+Title: Great, but why Is Google play taking back my apps?
+Review: 
+<p>This is HUGE download,  yet even with GOOGLE'S alleged "full backups", I wake to discover a whole stack of my apps GONE.
+<p>Most were GOO - RELATED apps that I was waiting to update as they come daily, choking my android memory, with scant description of what's been done; as well as usually breaking what WAS good.
+<p>Now I lost ALL MY GAME PROGRESS, and must absorb the cost of the data flow to download this AGAIN.
+<o>Can't take criticism, is that it?
+<o>TRY HARDER, THEN!
+<o>STOP STEALING, YOU MAKE BOUCOUP $ $!!
+}
+
+{
+Valid: 1
+Index: 8
+Rating: 3
+Title: WTF
+Review: 
+<p>I went to open the game and it needed me to sign in so I did now I can't connect to faced book.
+<p>I have lost all progress and yet I still have my achievements.
+<p>WTF.
+<p>Please fix asap.
+}
+
+{
+Valid: 1
+Index: 9
+Rating: 2
+Title: Game very buggy,  extremely frustrating
+Review: 
+<p>Have lost all progress including gems &amp; special edition plants more than  once, today's update is making endless levels not work properly (will not give new card/plant when advancing to new levels,  can't stop endless game as clicking on "retire" just puts you back into next endless level.
+}
+
+{
+Valid: 1
+Index: 10
+Rating: 2
+Title: 
+Review: 
+<p>I have it connected to my facebook and expected it to have all the progress iv made saved i switch to a new phone download the game and connect to facebook and all it saves is the purchases iv made not the progress i was on big wave beach and now you expect me to start all over again ridiculous!!!!!!
+}
+
+{
+Valid: 1
+Index: 11
+Rating: 1
+Title: Can't even type in my age.
+Review: 
+<p>I am directed to type in my age to accept the terms and conditions.
+<p>I am typing my age But it doesn't show so I can press accept.
+<p>Can't even get started: (.
+}
+
+{
+Valid: 1
+Index: 12
+Rating: 1
+Title: SamGal 3  Android 4.4.2
+Review: 
+<f>I love this game.
+<f>Its great, even with the malfunctions.
+<f>However, I would like to know how to activate  my won power-ups ( Instant  Recharge; Plant Food Boost; and Wall-Nut First Aid),  which are lit so it looks like I own them.
+}
+
+{
+Valid: 1
+Index: 13
+Rating: 1
+Title: 
+Review: 
+<p>One day all my hard earned progress randomly deleted and it brought me back to the first level in the game, it shows the achievements I got from my Google account but there is no way to connect using Google account and when I went to customer service it said that my email was invalid.......
+<p>used to love this game *deletes from phone*.
+}
+
+{
+Valid: 1
+Index: 14
+Rating: 1
+Title: Irritating
+Review: 
+<p>I've installed the game twice already and the same exact thing keeps happening.
+<p>It asks me to type in my age, and when I type it in and press enter, it still says "Age".
+<p>I have no idea what is making this game to act like this but please fix it.
+<p>I know this is a great game and I hate to give it such a poor rating.
+}
+
+{
+Valid: 1
+Index: 15
+Rating: 2
+Title: Coins keep disappearing!
+Review: 
+<s>It keeps taking all of my coins!
+<s>I close out with 5,000+ and go back in to zero coins!
+<p>And it stopped letting me pick plants in between levels on endless.
+<p>It only lets me sometimes.
+<p>Please fix!
+<p>It's definitely a five star fun game.
+<p>It's just messing up bad lately.
+}
+
+{
+Valid: 1
+Index: 16
+Rating: 3
+Title: Worse than the first
+Review: 
+<s>It is too focused in getting you to buy things with real money.
+<s>You cannot use the game coins to get new plants or upgrades so it is really frustrating.
+<p>It also drains power fast.
+<f>The only thing better is that you can replay levels you like.
+}
+
+{
+Valid: 1
+Index: 17
+Rating: 4
+Title: Love it
+Review: 
+<a>It is really more involved than original.
+<a>Zen garden a lil too drawn out.
+<a>Love I get to actually use the plants I grow.
+<a>Sometimes it takes too much sun to get the plants u need as fast as you need them.
+<a>Also not enough jewels to progress thru all the game.
+<s>It should not take my cash to progress thru a FREE game.
+}
+
+{
+Valid: 1
+Index: 18
+Rating: 3
+Title: Used to be amazing
+Review: 
+<f>Game overall is great and doesn't require wifi or internet connectivity.
+<o>Time consuming in the best way possible.
+<p>However since the last update, after 9/10 ads my game force closes.
+<p>Which is almost every level.
+<p>I tried rebooting and clearing my cache, even reinstalling the game and still the issue persists.
+<p>Please resolve this issue as it's very annoying to restart the game after EVERY level.
+<p>PS I actually paid for the first game (when it did cost money to have it).
+}
+
+{
+Valid: 2
+Index: 19
+Rating: 4
+Title: Good game but you should add...
+Review: 
+<o>Greece and Rome level.
+<o>Shielded zombie with arrow to push back 2 plants and throw 1 plant backwards.day Pole jumper zombie.
+<o>Grapade grape and granade.splash effect Gargantuar Cyclops.
+<o>Boss Trojan horse.
+<o>Daily rewards with gems included now EA lets get this put in the game now Viking level lightning hits squares zombie with horn calls more zombies in.
+}
+
+{
+Valid: 1
+Index: 20
+Rating: 1
+Title: Was cool
+Review: 
+<s>..until you spend real money on upgrades only to switch devices and lose everything even when still associated with the same gmail account you purchased them with..or did they wipe everything with am update..
+<s>either way I'd like a refund of items purchased..
+}
+
+{
+Valid: 1
+Index: 21
+Rating: 4
+Title: Awesome
+Review: 
+<o>If you liked pvz then you will like this.
+<o>Only a couple complaints.
+<c>First and foremost why isnt this ported to pc yet?
+<a>The other complaint is it seems as updates happen the levels become way too hard.
+<a>Big beach was the first world i couldnt beat.
+<s>Some might complain about the micro transactions...you dont have to buy anything and the game is still free.
+}
+
+{
+Valid: 1
+Index: 22
+Rating: 3
+Title: Needs more levels
+Review: 
+<o>I have completed everything and I haven't had this game long.
+<o>I remember the old computer version of this game and the vase breaking was more than three levels for two worlds.
+<a>I like all the different worlds but would be cool if we had more challenging mini games.
+}
+
+{
+Valid: 2
+Index: 23
+Rating: 5
+Title: Amazing
+Review: 
+<o>I've been playing plants vs zombies for like a quarter of my life (I'm thirteen) and now plants vs zombies two comes out and I'm like by far the happiest boy ever this game is truly an amazing game.
+<o>And now popcap has made plants vs zombies garden warfare.
+<a>Its a whole lot different but its fun to play either zombies or plants.
+<o>Oh popcap if you do look at our comments please listen to my question.
+<o>Will there be the gatling pea, cattail, cob cannon, the gloom shroom, or the gold magnet?
+}
+
+{
+Valid: 1
+Index: 24
+Rating: 3
+Title: Losing my gems and coins
+Review: 
+<p>Love the game but hate when my gems and coins randomly dissappear when I havent purchased anything, I had 90 gems at the end of a level...closed the program and when I came back to play again my gems disappeared and I am now left with 14 gems.
+<p>If someone can explain this to me or if it can be fixed I'd  greatly appreciate it.
+}
+
+{
+Valid: 1
+Index: 25
+Rating: 1
+Title: Update failure - unplayable
+Review: 
+<c>It has Caused my screen to freeze between portrait and landscape.
+<c>I am left with giant black bars on either side of a tiny portrait turned sideways.
+<c>Other than that, great game.
+<c>I shall change your stars when my game works again.
+<c>Galaxy S3,  stock.
+}
+
+{
+Valid: 1
+Index: 26
+Rating: 2
+Title: Wth
+Review: 
+<a>Endless zone in big wave beach doesn't let you pick a new plant at the start of every level ..
+<a>and some of the levels in big wave beach are impossible to beat unless you cheat at least 15 times in one level.
+}
+
+{
+Valid: 1
+Index: 27
+Rating: 5
+Title: PVZ 2
+Review: 
+<o>Great game!
+<p>Runs smoother than its predecessor.
+<a>But the first one still remains best.
+<a>I liked the garden in the first game because it was alot simpler and straight forward plus with the snail, you could collect tons of cash.
+<p>Not to mention that trash can still need to be taken out since it reached to the farthest edges of space.
+<o>Haha.
+}
+
+{
+Valid: 1
+Index: 28
+Rating: 5
+Title: Love it!
+Review: 
+<o>I wish I knew players to share my joy with, figured I would just let you, the developers know instead.
+<o>...AWESOMENESS!
+<o>!!!
+<o>you all kick azz!
+<f>Keep the levels coming I am in zombie heaven!
+<f>My only request: add to the Amazon app store Please!
+<p>;-D UPDATE: Unfortunately, This latest update has some glitches .
+<p>so far...ALL endless zones...*No new cards to pick a plant each advancing round...
+<p>* Die, restart, and have 9 plants still, can't pick new ones either.
+}
+
+{
+Valid: 1
+Index: 29
+Rating: 1
+Title: 
+Review: 
+<a>Wild west impossible Day 18 change it to the challenge like pinta party with the plants going up if you don't change this I am never playing this game again.
+}
+
+{
+Valid: 1
+Index: 30
+Rating: 2
+Title: TOO MUCH ADVERTISING !!!!!!!!!
+Review: 
+<s>It was fun at first,but then after the update there is advertising  in between  every board  whether  you win or not.
+<s>And after  a while  the boards  seem impossible  to beat and take 5 or 6 more times to beat.
+<s>And the plant boost/green house idea is good but it takes for ever for them to grow enough  to boost and to make them grow quicker you need dimonds but you never have enough  dimonds to do so, so they want you to pay for more.
+}
+
+{
+Valid: 1
+Index: 31
+Rating: 1
+Title: Bunch of thieves lost all progress and money
+Review: 
+<p>Glitches glitches.
+<p>Again the same glitch in endless mode is causing me to have to uninstall and reinstall to fix.
+<o>Contacted popcap.
+<o>After spending thirty plus dollars on plants and gems for plants this is ridiculous!
+<p>Don't uninstall u will lose everything all gameplay.
+<p>Even if you are synced to game center or Google play.
+<o>As much money as they ask you would think they cared but dont to fix.
+<o>Now after 2 × I'm thinking about removing this app sux bc it used to be our fav.
+<o>They will lose customers 2 bad.
+}
+
+{
+Valid: 1
+Index: 32
+Rating: 1
+Title: 0 STARS!
+Review: 
+<p>WHEN I WAS PLAYING ONE DAY I LEFT, WENT BACK ON, AND SAW MY ACCOUNT WAS DELETED!
+<p>I HAD EVERYTHING AND I WAS SO GOOD BUT NOW ITS ALL GONE!
+<p>PLZ ADD IT SO THAT YOU CAN REDEEM YOUR PLAYER!
+}
+
+{
+Valid: 1
+Index: 33
+Rating: 1
+Title: So much potential lost.
+Review: 
+<s>Constantly trying to make you pay for it.
+<p>Incredibly unpredictable performance.
+<p>And the game freezes at the end of matches.
+<p>The first one is a much better game.
+}
+
+{
+Valid: 1
+Index: 34
+Rating: 1
+Title: Stupid freemium games
+Review: 
+<a>It's horse manure compared to the first.
+<a>It gets on your nerves real quick.
+<s>Nothing worth earning can be earned, only bought.
+<s>Even extra slots can only be bought.
+<s>It's nearly impossible to keep leveling up without a credit card.
+<s>Stupid game, stupid concept, stupid creators.
+}
+
+{
+Valid: 1
+Index: 35
+Rating: 1
+Title: STOLEN COINS
+Review: 
+<p>I had about 30000 coins.
+<p>And the next time I went to pla, it said I had 0! And I tried everything to get them back!
+<p>Nothing is helping.
+<p>0 coins?
+<p>Wow that really makes me upset.
+<p>Until I get my coins back, this review is staying up.
+}
+
+{
+Valid: 1
+Index: 36
+Rating: 2
+Title: Difficulty
+Review: 
+<a>I've been playing for years and years so I think I know about how difficult it should be.
+<a>It's so hard on the beach areas that it forces you to burn through all your coins and supplies in an attempt to get you to buy more.
+<a>Before that it was fun.
+}
+
+{
+Valid: 1
+Index: 37
+Rating: 4
+Title: Cool game
+Review: 
+<a>Cool game better than plants vs zombies 1 because words, plant food and power ups.
+<a>Only problem is that when I completely finished the game it said a bad player and that sucks.
+}
+
+{
+Valid: 1
+Index: 38
+Rating: 4
+Title: Great except purchase required for certain plants
+Review: 
+<s>As is the unfortunate trend in many games now, you have to pay for extras rather than unlocking them.
+<s>In PvZ 2 this means you have to pay to get certain awesome plants such as torchwood, squash, chomper, etc.
+<s>Luckily you don't need to pay to beat the game but this is still an annoyance.
+<f>It should be possible to at least also be able to unlock everything by playing well, then the bad/lazy/impatient people can pay instead.
+<a>That being said, the game is a very fun, challenging, clever and diverse sequel.
+}
+
+{
+Valid: 1
+Index: 39
+Rating: 5
+Title: A great value
+Review: 
+<s>While this game is free to play with micro transactions, you are never forced to buy anything.
+<s>EA also keeps updating this game with new free content every 3 months or so.
+}
+
+{
+Valid: 1
+Index: 40
+Rating: 3
+Title: Too many glitches.
+Review: 
+<p>There are so many glitches right now, there is a one were the sounds seems like chips, the endless zones won't let you leave or get plants or advance to the next level.
+<p>Fix it please.
+}
+
+{
+Valid: 1
+Index: 41
+Rating: 3
+Title: Issues...
+Review: 
+<o>The game was really fun at first.
+<o>It gets almost too difficult at times though.
+<o>Also there are a LOT of instances when I will log out and log back in and have WAY less coins than I did the last time.
+<o>For example, I had 2,180 coins and quit the game to go do things.
+<p>When I just logged back in, I have 700 coins.
+<p>This happens frequently.
+}
+
+{
+Valid: 1
+Index: 42
+Rating: 2
+Title: Frustrating
+Review: 
+<p>Wonderful app except when it continually crashes and you have to reinstall.
+<p>I'll be back when they figure how to save progress.
+<p>EDIT: Now progress comes back --but only after getting two levels through Egypt.
+<p>Also, this happens EVERY SINGLE TIME there is an update.
+<p>UPDATE: My progress and purchases are completely wiped.
+<p>I did nothing.
+}
+
+{
+Valid: 1
+Index: 43
+Rating: 1
+Title: What the heck!!!
+Review: 
+<p>This is the THIRD time my account was deleted.
+<p>I didn't even do anything and my account was wiped completely same with my old one.
+<p>I completed frostbites in my first account and it was deleted.
+<p>I gave you a good review, bought some plants with my own money and then you my account!!!
+<p>Ridiculous!!!!
+}
+
+{
+Valid: 1
+Index: 44
+Rating: 5
+Title: Plz
+Review: 
+<a>I love the plants vs zombies in crazy Dave and penny the plants are fun never had sent for the plan or the new thing they added it's fun a whole lot of fun and I love the first one too and Plants vs Zombies garden warfare.
+}
+
+{
+Valid: 1
+Index: 45
+Rating: 4
+Title: Update issue
+Review: 
+<p>Great game, but after latest update endless zones aren't always allowing you to choose another plant or boost before going on to next round.
+<p>Please fix.
+}
+
+{
+Valid: 2
+Index: 46
+Rating: 3
+Title: Edit review.
+Review: 
+<p>the new update  buggy in the endless mode in the ice age.
+<f>Like my plant food icons disappear also the meter on top that tells you how many waves are left also dissapears.
+<f>when I finish a level I can't pick additional plants, the game goes straight to to next level.
+}
+
+{
+Valid: 1
+Index: 47
+Rating: 5
+Title: Fixed the glitch
+Review: 
+<p>thank for quickly fixing the glitch and extra gems!!!
+<p>Updated my game today, it had some glitches so I uninstalled and reinstalled.
+<p>Now I have lost all progress!
+<p>Please fix I really love this game will like to keep playing.
+<p>This is my favorite game, I have played every PvZ version this is the one I play the most often.
+<f>I liked  the option to purchase lost lawn mover with coins, and wish there was a plant in the garden that gave gems.
+}
+
+{
+Valid: 1
+Index: 48
+Rating: 1
+Title: Crash vs ads
+Review: 
+<p>I wouldnt mind the advertisement after every screen strategy if the game worked flawlessly but i crash every time i try to play a yeti map now, and framerate crawls during high zombiecount rounds.
+<a>It also bothers me a bit that i cant buy anything with my +500k coins like the plants/bonuses that cost 4 bucks a piece.
+<a>I miss the old pvz.
+}
+
+{
+Valid: 1
+Index: 49
+Rating: 3
+Title: Won't reinstall if it glitch again
+Review: 
+<p>It is still addictive, but it keeps erasing our progress.
+<p>These is the 3rd time we do it, if it happens again,  I will erase the game in our phones and tables.
+}
+
+{
+Valid: 1
+Index: 50
+Rating: 5
+Title: Liking pvz2 mostly
+Review: 
+<o>I like the game in general.
+<o>I did almost play everyday just for the pinata parties and the main worlds.
+<o>The game is not easy.
+<o>All the diff worlds are great.
+<o>Zen garden is great.
+<a>I like all boss levels.
+<o>Its nice knowing more worlds are to come.
+<o>Good job i say...
+<o>i have not spent a dime or do i use powerups, I'm stubborn like that.
+<f>I really want a full PC release.
+<f>I still hope for a PC release on steam.
+}
+
+{
+Valid: 1
+Index: 51
+Rating: 1
+Title: Bad sync
+Review: 
+<>Added the game to a new phone.
+<>Instead of syncing with my existing profile, it replaced my profile with the new one.
+<>There is way to no way control the sync or to identify what profile is synced.
+<>My progress is now lost on all devices.
+}
+
+{
+Valid: 1
+Index: 52
+Rating: 1
+Title: Lost my progress twice EDIT 3 times!!!
+Review: 
+<>After updates I lost my extremely far progress and was very frustrated but I love this game so I sucked it up and played again.
+<>After the Spring update I lost that game too..
+<>there are no other mobile games I like like this one but I really don't want to play through ALL the levels again and again.
+}
+
+{
+Valid: 1
+Index: 53
+Rating: 2
+Title: Disappointment
+Review: 
+<>The first game was so great that this one, by comparison, is a total let down.
+<>I gave up on it half way through the first world when in order to get better plants and complete levels you pretty much have to spend money.
+<>I'd rather pay an up front fee and not have to deal with this...
+}
+
+{
+Valid: 1
+Index: 54
+Rating: 3
+Title: 
+Review: 
+<>I am very ticked off!
+<>I played almost all the way thru ancient Egypt and i put the phone sown for a few hours and then BAM!
+<>I WAS ALL THE WAY BACK TO LEVEL FREAKING 2!!
+<>I want to know why i lost all those levels and all that time!!
+}
+
+{
+Valid: 1
+Index: 55
+Rating: 1
+Title: A once great game ruined
+Review: 
+<>I had this game on my iPhone and could never put it down.
+<>The game was just hard enough to be challenging in later maps to keep you coming back.
+<>Now, not only have app ads been added after every level you play, but they have increases the difficulty so that you have to use powerups and boosts just to clear the first map.
+<>I had to restart progress on my android phone, and sadly I can't delete this once amazing game off my phone fast enough.
+<>Shame on you.
+}
+
+{
+Valid: 1
+Index: 56
+Rating: 4
+Title: Why did you try to fix the glitch where
+Review: 
+<>You can change zombies on endless mode it is really broken now when I try to quit the map it doesn't take me to the home screen it just reloads the lvl please fix I have enjoyed this game long time and I spend money too.
+}
+
+{
+Valid: 1
+Index: 57
+Rating: 3
+Title: Unique bug?
+Review: 
+<>All of the graphics have been screwed up and mixed match for the last two days.
+<>I can still play, but it makes playing rediculous.
+<>This rating will only go down if it is not fixed.
+}
+
+{
+Valid: 1
+Index: 58
+Rating: 5
+Title: Yeah
+Review: 
+<>It's a really nice and cool game I have plz 1 for pa and I still play it.
+<>This game helps pass the time.
+<>Although it may lag a little it's definitely worth the time😊😊.
+}
+
+{
+Valid: 1
+Index: 59
+Rating: 3
+Title: Cant even play.
+Review: 
+<>What's the point of trying to play this of the game won't let me type my age?
+<>I hit the numbers many times only to see it still say "age" or just be a blank box with the blinking cursor.
+}
+
+{
+Valid: 1
+Index: 60
+Rating: 4
+Title: 
+Review: 
+<>Love this game, many hours of entertainment.
+<>I have it on tablet and phone.
+<>If only you could save your progress in the cloud I'd give it 5 stars.
+<>Playing it on more than one device isn't worth starting over from scratch, and though I love the game, I don't think I'll start over if I get a new phone since I've had to several times already.
+<>My progress is too far now past the point of "no return.".
+}
+

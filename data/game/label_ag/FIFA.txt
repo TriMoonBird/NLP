@@ -1,0 +1,672 @@
+{
+Valid: 1
+Index: 1
+Rating: 1
+Title: Worthless
+Review: 
+<s>This app does nothing, its absolutely useless.
+<s>EA you should be ashame of yourself, you guys are just taking away the customers money and providing them with poor service.
+<s>There should be a way to give this app a negative 5 stars, it doesn't nothing that's in the description.
+}
+
+{
+Valid: 1
+Index: 2
+Rating: 5
+Title: ADD IN APP PURCHASES!
+Review: 
+<a>I like the ability to manage my fut team on the go, I like to open packs with FIFA points but I wish to buy them on the app to open packs as well.
+<a>PLEASE LET ME BUY POINTS FROM YOU :).
+}
+
+{
+Valid: 1
+Index: 3
+Rating: 1
+Title: 
+Review: 
+<p>What happened to the transfer market?
+<p>I spend most of my time on the road, i really dont have time to sit there in front of my tv.
+<p>Thats why i got this app, but hey what a great idea...
+<p>Lets take away the transfer market....
+<p>All you can do is buy and sell players.
+<p>Really EA, really?
+}
+
+{
+Valid: 1
+Index: 4
+Rating: 2
+Title: Wow EA
+Review: 
+<p>this app used to actually do stuff.
+<p>I can't open the TOTW, I cant do any transfer marketing, and I'm asked to verify EVERYTIME I log in.
+<p>How long is this app going to undergo maintenence?
+<p>Seriously EA, from your horrible servers in your games, to your terrible management of the games, I don't think you can be any worse.
+}
+
+{
+Valid: 1
+Index: 5
+Rating: 1
+Title: 
+Review: 
+<p>What's wrong with this app I put some player on the list for sell them now it stuck there can't not list them anymore what's wrong please fix  and I will give it 5star.
+}
+
+{
+Valid: 1
+Index: 6
+Rating: 1
+Title: 2WEEKS USELESS
+Review: 
+<p>EA WENT TO SLEEP AND 4GOT THE APP WAS UNDER MAINTENANCE HERE'S A TIP LISSEN CAREFULLY BECAUSE IT'S FREE ADVICE BEFORE SHUTTING AN APP MAKE SURE YOUR READY TO FIX IT OR UPDATED IF NOT LET IT RUN UNTIL YOU HAVE ALL THE TOOLS YOU NEED AND HIRE EMPLOYEES THAT ACTUALLY CARE.
+}
+
+{
+Valid: 1
+Index: 7
+Rating: 1
+Title: Doesn't work
+Review: 
+<p>The app opens but becomes completely unresponsive after that.
+<p>EA has been a significant dissapointment in numerouse ways with FIFA 15 on mobile and console platforms.
+}
+
+{
+Valid: 1
+Index: 8
+Rating: 3
+Title: Im generous
+Review: 
+<f>3 stars because I just open my free pack on it and I keep track of who I have listed on my transfer market, unfortunately since EA set price caps, NO ONE IS BUYING THE GOOD PLAYERS FFS.
+}
+
+{
+Valid: 1
+Index: 9
+Rating: 1
+Title: Garbage now!
+Review: 
+<p>Come on EA.
+<p>This is ridiculous, you actually used to kind of be good.
+<p>This whole Transfer Market issue that ya got going on here is causing everybody to delete the app.
+<s>It's getting out of hand, and the head of EA needs to think about what will pay him money.
+<s>The most you can do on this app is buy packs.
+<s>That's kind of ridiculous, don't you think?
+}
+
+{
+Valid: 1
+Index: 10
+Rating: 2
+Title: Used to work fine
+Review: 
+<p>Used to work good, but now itp closes automatically and i cant do nothing on the transfer market or even transfer list players and items.
+<p>We don't get any bonus packs, and I can't buy coins through here.
+<s>I don't mind spending money, just make the app work good.
+}
+
+{
+Valid: 1
+Index: 11
+Rating: 2
+Title: Allow player transfers!!
+Review: 
+<f>Alike many of the reviews here, I think they should allow player transfers again.
+<f>At least someplace other than the in game mode.
+<f>Player trading is a huge part of the game, and without it the app is fairly useless.
+}
+
+{
+Valid: 1
+Index: 12
+Rating: 1
+Title: Never works properly!
+Review: 
+<p>It logs me after 3rd attempt and recently there are some server issues that prevent me going to the UT..
+<p>Miserable experience!
+<p>Tells me that I'm logged in to another device even when I signed out 5 min before that...
+<p>That is getting super annoying as the game itself..
+}
+
+{
+Valid: 1
+Index: 13
+Rating: 5
+Title: Very efficient app
+Review: 
+<a>It is not "the perfect app" but for all that it offers, it is more than enough for a 5-star.
+<a>To be able to manage on the go is incredible.
+<f>The manual re-list function is even better than the console.
+<f>It's not as good as the Web version, but that shouldn't be expected.
+<o>As structured, an easy 5 stars for convenience.
+<o>Surprised this is below 4. Must be people who left it at 1 and deleted the app during a downtime that's beyond this app's control.
+}
+
+{
+Valid: 1
+Index: 14
+Rating: 2
+Title: Come on EA
+Review: 
+<s>You guys are trying to get rid of coin selling and I get that.
+<s>But how does putting a minimum buy now "help the casual player"?
+<p>Now trading is impossible and the only way to get money is from playing a ton of games.
+<p>And this app...
+<p>I cannot believe that the market is still " under maintenance".
+<p>How about just telling us that the market won't be back.
+<p>Don't even bring back the market.
+<p>There is no point in having it when trading is impossible.
+}
+
+{
+Valid: 1
+Index: 15
+Rating: 3
+Title: EA changed content, app isn't bad
+Review: 
+<f>EA decided to remove the transfer market from all non-console apps.
+<f>Other than this, the app works fine.
+<f>It may have lost purpose but there are probably still some uses.
+}
+
+{
+Valid: 1
+Index: 16
+Rating: 1
+Title: It's potential is great. But. Its EA.
+Review: 
+<p>App looks great, feels great, but litterally nothing works.
+<p>TOTW doesn't work, transfer market doesn't work, my squads don't even load...
+<p>So what's the point?
+}
+
+{
+Valid: 1
+Index: 17
+Rating: 2
+Title: 
+Review: 
+<f>The new fifa 15 app doesn't let ne change the category in the market to sear for anything else other than players.
+<a>I like the formatting and all but thats my only problem.
+}
+
+{
+Valid: 1
+Index: 18
+Rating: 1
+Title: FIX THE TRANSFERT
+Review: 
+<s>Y should we assume the Coins seller problem??????
+<s>WHY I'VE NEVER BOUGHT COINS AND NOW I'M STUCK WITH UR FKKKKN WORTHLESS MARKET I'M SWITCHING TO PES.
+}
+
+{
+Valid: 1
+Index: 19
+Rating: 1
+Title: Useless
+Review: 
+<p>Every features are always down for maintenance since I installed it since few days ago.
+<p>I feel like there's no maintenance at all...
+<p>Your app just doesn't work.
+}
+
+{
+Valid: 1
+Index: 20
+Rating: 1
+Title: EA SUCKS
+Review: 
+<f>Used to be the greatest app so helpful until EA comes along and thinks: Hmm I how could I screw everything over and make people mad?
+<f>OH LET'S GET RID OF THE TRANSFER MARKET GREAT FLIPPING IDEA EA WHY NOT?
+}
+
+{
+Valid: 1
+Index: 21
+Rating: 1
+Title: Transfer market still broken
+Review: 
+<f>Why would they make an update that doesn't fix the ONLY problem people have been complaining about?
+<f>I don't care about the "features" they added in the update, it's meaningless to me if i can't get coins.
+<f>Fix it EA.
+}
+
+{
+Valid: 1
+Index: 22
+Rating: 1
+Title: Ea should stop being selfish penis's
+Review: 
+<p>First there servers are crap then they dont let u use the transfer market on the app and its still not fixed until now.
+<f>And they add price ranges and block all coin selling sites.
+<f>What next, u can only have a limited amount of coins for ur team?
+<f>Middle finger, smh.
+}
+
+{
+Valid: 1
+Index: 23
+Rating: 2
+Title: Transfer Market
+Review: 
+<p>Transfer market doesn't work.
+<p>Has an issue saying error with connectivity when trying to enter the transfer market when I have perfect WiFi connectivity.
+}
+
+{
+Valid: 1
+Index: 24
+Rating: 4
+Title: Works great.
+Review: 
+<f>What I would like added is comparing player pricing in the transfer market when u select ur player or item.
+<f>Please add that options to your app.
+<f>Instead I have to manually go on to the transfer market and search the player for the pricing.
+}
+
+{
+Valid: 1
+Index: 25
+Rating: 2
+Title: Wish it was better
+Review: 
+<p>This app is cool in theory, but its almost like it got released before it was finished.
+<p>TOTW is inaccessible, app loads when it feels like it, I can't even view my team's record.
+<p>Disappointed.
+}
+
+{
+Valid: 1
+Index: 26
+Rating: 4
+Title: Trading OP
+Review: 
+<a>The FIFA companion is the traders dream tool, especially during TOTS, although the app bugs out every once in a while its overall benefit outweighs the negatives.
+}
+
+{
+Valid: 1
+Index: 27
+Rating: 4
+Title: Pretty good
+Review: 
+<p>few issues are the fact that if I set a maX price for say 750...
+<p>by the time I click on it the price is 1200...
+<p>so better refresh time would be good...
+<f>also not being able to buy fifa points from the app doesn't help...
+<f>otherwise it's pretty good.
+}
+
+{
+Valid: 1
+Index: 28
+Rating: 4
+Title: One error, but beautiful app all around!
+Review: 
+<a>Its amazing!
+<a>I have an easier time with this,app than the console I use!!
+<a>Its so easy to use and very friendly to the user.
+<p>It does have a difficult time starting up though, other than that it is by far a very great app.
+}
+
+{
+Valid: 2
+Index: 29
+Rating: 1
+Title: Nothing Works
+Review: 
+<p>The servers are always down for mantainance, all features are broken....EA IS A BIG JOKE!!!!!!!!
+<o>#EAISAJOKE #EAISTRASH #EAISTERRIBLE #ASSUSTADORAS #TRASNFERMARKETISALWAYSDOWN.
+}
+
+{
+Valid: 1
+Index: 30
+Rating: 1
+Title: Useless, fraud!
+Review: 
+<p>Fraud, it doesnt do what they claim it does...
+<p>Servers unavailable, servers down, maintenance, try again later...
+<p>tire of this crap!
+<p>Unistall, install, same crap!
+<p>UNISTALL!!!
+}
+
+{
+Valid: 2
+Index: 31
+Rating: 4
+Title: FUT getting back up to speed, and without cheaters!
+Review: 
+<f>Web app transfer market will return.
+<f>I have also since changed my opinion regarding price ranges for the good.
+<f>Price ranges are wide enough to have fun and more importantly, will stop cheaters farming coins.
+<o>Quote from EA - "You have been asking – when will Web and Companion Apps access to Transfer Market be restored?
+<o>We want to do this as quickly as possible, and we are working as hard as we can to bring them back for everyone to use…but we can’t do that until we’ve made them secure and more stable".
+}
+
+{
+Valid: 1
+Index: 32
+Rating: 3
+Title: Needs an update
+Review: 
+<a>I'm not getting my daily reward for logging in anymore.
+<p>And any time I try to log in, I have to back out the app and retry.
+<p>Also, the transfer market is down, you cannot access it from this app.
+<p>Please fix it.
+<p>Thanks.
+}
+
+{
+Valid: 1
+Index: 33
+Rating: 1
+Title: Froze on transfer took coins.
+Review: 
+<p>Servers usually down, Constantly freezes, re-list nevers works, and to top it off it froze after i bought cost for 25k , took my money nd gave no player.
+<p>EA hasnt responded.
+}
+
+{
+Valid: 1
+Index: 34
+Rating: 1
+Title: Was good in the past. WAS.
+Review: 
+<p>How long is the transfer market going to be down, eh?
+<p>Maybe a little explanation?
+<p>What's the point of this app if you can't access the transfer market?
+}
+
+{
+Valid: 1
+Index: 35
+Rating: 3
+Title: Fix the glitches -.-
+Review: 
+<f>One really annoying glitch where when you are in the transfer market and you press "Player Name" it brings up the number pad instead of the keyboard.
+}
+
+{
+Valid: 1
+Index: 36
+Rating: 1
+Title: Useless
+Review: 
+<p>The whole point of the app is to use ultimate team features which is unavailable.
+<p>It says server error.
+<f>The app is only good to see your friend's activities and share your activities.
+}
+
+{
+Valid: 1
+Index: 37
+Rating: 1
+Title: Nothing works
+Review: 
+<p>This app has become beyond useless.
+<p>Not only can I not use the transfer market but it won't even let me open packs any more.
+<p>I can't even open the free packs that I get each week or for this 6th birthday event.
+<p>Please update asap.
+}
+
+{
+Valid: 1
+Index: 38
+Rating: 2
+Title: Good functions but a lot of bugs
+Review: 
+<p>Login takes at least two crashes to get in.
+<p>Stuck on loading quite a few times.
+<c>And this is all happening on Nexus 5 which is quite a concern.
+<f>Love the functionality though.
+<p>Just needs a few bug fixes and crash fixes for me to give it 5 stars.
+}
+
+{
+Valid: 1
+Index: 39
+Rating: 1
+Title: 
+Review: 
+<p>This app is the biggest piece of garbage I've ever come across in my life.
+<p>Says I can't use FUT because I'm signed into a console but when I sign out of a console nothing changes.
+<o>Virtually useless to download.
+<o>Complete waste of time and data.
+}
+
+{
+Valid: 1
+Index: 40
+Rating: 5
+Title: Awesome app
+Review: 
+<o>I've been playing FUT for about a year.
+<o>There is no better way to manage your FUT than this app.
+<o>I have made thousands of coins on my downtime and plan on making even more.
+<o>Keep up the quality work!
+}
+
+{
+Valid: 1
+Index: 41
+Rating: 5
+Title: Huge improvement
+Review: 
+<f>The FUT app has improved in design and usability since last year.
+<p>Search options are much better and easier to work with.
+<p>Servers can still be improved but overall satisfied with the improvements this year.
+}
+
+{
+Valid: 1
+Index: 42
+Rating: 1
+Title: 
+Review: 
+<p>Switching from 5 stars to 1 star due to the never ending "maintenance".
+<p>This app was the only reason I bought the game.
+<f>Loved playing the transfer market when away fron console.
+<f>I heard EA did this last yr and it never came back.
+<f>I think I'm done with EA!
+}
+
+{
+Valid: 1
+Index: 43
+Rating: 4
+Title: Just a bug or two.
+Review: 
+<p>Everything works great, except I can't click on the team of the week.
+<p>Maybe its just me, but whenever I click on other stuff, like my ultimate team, it works.
+<o>Also I was wondering what the daily reward is, because I haven't gotten one at all.
+}
+
+{
+Valid: 1
+Index: 44
+Rating: 2
+Title: 
+Review: 
+<p>Does this app EVER work?
+<p>Some feature is constantly down for maintenence.
+<p>That is, if I can login at all or it doesn't boot me.
+<p>Great idea, poor execution.
+}
+
+{
+Valid: 1
+Index: 45
+Rating: 1
+Title: It's no suprise EA can't make anything in the fifa category.
+Review: 
+<p>App doesn't even open half of the time and When it does open I try to log in although when it's loading it says the servers are down.
+<p>I doubt they can be down for weeks so as of now I'm Uninstalling this app.
+<p>EA just keeps disappointing me.
+}
+
+{
+Valid: 1
+Index: 46
+Rating: 5
+Title: 
+Review: 
+<o>Can someone help me?
+<o>I cant play ultimate team on the xbox one its telling me to make a security question and i do but then it says it cannot be created.
+<o>And it kicks me out of ultimate team?!
+<o>HELP.
+}
+
+{
+Valid: 1
+Index: 47
+Rating: 1
+Title: Ea You Really Messed Up
+Review: 
+<p>Used to be the best game but ever since the update Ea Screwed up the whole transfer market and the game it's self so now Pes 2015 is gonna take over #PESIsHere!!!
+}
+
+{
+Valid: 1
+Index: 48
+Rating: 1
+Title: Transfer market is broken
+Review: 
+<p>I got this to track my transfers while i'm away from my xbox.
+<p>The app says the transfer market is down for maintenance but this message has happened for 2 days straight.
+<p>Tried reinstalling and the same message pops up.
+<p>There is no way maintenance takes this long!!!
+<p>It sucks this app cannot provide the convenience it says it's supposed to.
+}
+
+{
+Valid: 1
+Index: 49
+Rating: 1
+Title: Horrible
+Review: 
+<p>This app is crap personified.
+<p>It doesn't even launch like 60% of the time and I have to keep restarting it.
+<p>And when it works it lags terribly.
+<p>Needs fixing ASAP.
+}
+
+{
+Valid: 2
+Index: 50
+Rating: 5
+Title: 
+Review: 
+<p>FIFA Ultimate Team has its issues, no doubting that BUT this is one of the most in depth gaming experiences I've ever been offered.
+<p>Sure made a 5 hour layover and Christmas break w/ no console pretty tolerable.
+}
+
+{
+Valid: 1
+Index: 51
+Rating: 1
+Title: It's made by EA, what did you expect
+Review: 
+<>The app is pretty much useless.
+<>I can't even search anything on the Transfer Market because the search button is unresponsive.
+<>Most of the buttons on the very bottom or top of the screen are either cut off or when I select them, it selects the option below it.
+<>I've reinstalled the app at least 4 times and it's still dose not work after countless updates and tutorials.
+}
+
+{
+Valid: 1
+Index: 52
+Rating: 3
+Title: Good utility but has technical problems.
+Review: 
+<>The app is very useful for all my FUT 15 needs, but it hardly ever launches.
+<>I have to restart it 2-5 times to actually launch successfully.
+<>It also has quite a bit of lag in the normal operations such as managing squads or listing players.
+}
+
+{
+Valid: 1
+Index: 53
+Rating: 4
+Title: Maintenance?
+Review: 
+<>When will the maintenance be finished on the app??
+<>I love this app and it's absolutely great for trading but ita been down due to "maintenance" for about 3 days now which renders it basically useless.
+}
+
+{
+Valid: 1
+Index: 54
+Rating: 4
+Title: Could be 5 Stars
+Review: 
+<>Every time I try to remove someone or replace somebody in my squad, I get an error message telling me I can no such thing.
+<>Would give 5 Stars If this gets updated soon..
+}
+
+{
+Valid: 1
+Index: 55
+Rating: 3
+Title: Fifa 15 comp app!!
+Review: 
+<>I over all enjoy this app it is awesome to buy and to sell.
+<>Players I wish the maintenance would hurry as I am growing fusterated but other then that can't wait to see the changes.
+}
+
+{
+Valid: 1
+Index: 56
+Rating: 1
+Title: Suxs
+Review: 
+<>You can't clear your transfer items, you can't do anything in the transfer market and many times the "server" is down mych like the Xbox1 server.
+<>Ea if you can't do it right hire someone who can.
+}
+
+{
+Valid: 1
+Index: 57
+Rating: 1
+Title: Stuck at the loading screen
+Review: 
+<>I can't get the app to work I have used it for 2 years and now it just loads forever.
+<>Its sad that the people who pay for these games gets the shaft.
+<>Now I'm deleting the app because it doesn't work.
+<>Email me when the app works again.
+}
+
+{
+Valid: 1
+Index: 58
+Rating: 2
+Title: Transfer players??
+Review: 
+<>I'm glad I can see my starting line up (only on wifi really) but if I could sell and buy players from the transfer market it would better.
+<>Please fix this fast!!
+}
+
+{
+Valid: 1
+Index: 59
+Rating: 1
+Title: "Item not found"
+Review: 
+<>The only reason I downloaded it was to be able to tinker with my lineup and I can't even do that.
+<>I try and switch players but it keeps telling me "Item not found: This action could not be performed because the item specified could not be found".
+<>What's going on here, EA?
+}
+
+{
+Valid: 1
+Index: 60
+Rating: 5
+Title: This looks fun
+Review: 
+<>I haven't downloaded this app yet but just by looking at the one screenshot I can tell this is worth the future 200$ of in app purchases I'm gonna spend.
+}
+

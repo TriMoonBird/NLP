@@ -3,5 +3,5 @@
 .classpath
 **/*.class
 bin/*
-data/*
 /bin/
+src/uk/*

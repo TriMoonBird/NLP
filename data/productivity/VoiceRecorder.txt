@@ -1,0 +1,689 @@
+{
+Valid: 1
+Index: 1
+Rating: 5
+Title: Brilliant recorder
+Review: 
+<>It's quick, intuitive, efficient, simple, reliable and high quality.
+<>This is so well designed, easy to setup, jumping from record to playback is a snap.
+<>Disposal of the recording is mere drag and drop.
+<>I recommend it.
+}
+
+{
+Valid: 1
+Index: 2
+Rating: 4
+Title: 
+Review: 
+<>Ok for a free ap.
+<>Has improved clarity over many basic lowfi recorders.
+<>Doesn't record its own clicks when stopping rec.
+<>Works with Drive so what's not to like?
+}
+
+{
+Valid: 1
+Index: 3
+Rating: 5
+Title: Very useful
+Review: 
+<>Sound quality is good.
+<>I use it to record music informally for practice.
+<>It's also great to record what doctors say during a visit or when family members have procedures done.
+<>Helps you recall complicated details.
+}
+
+{
+Valid: 1
+Index: 4
+Rating: 5
+Title: Perfect
+Review: 
+<>I really recommend this application.
+<>It's works very good and its perfect for record and for manager the recordings...
+<>I loved it and I'll probably gonna buy the pro version.
+<>If this app could record stream would be more than perfect!
+}
+
+{
+Valid: 1
+Index: 5
+Rating: 4
+Title: Record calls, sing, make audiobooks.....
+Review: 
+<>This little recorder works great for a simple minded user like me.
+<>Maybe I do not know how to use it yet, but the one bad thing is you cannot attach larger files to an email.
+<>Thus you have to use a better email than Gmail, or limit files to 20 MB.
+<>There are other ways, eg., Drive; Beam, etc.
+<>I am sure there is a better way to send the file to a person or device, but I do not know how to use them.
+<>They must be getting backed up somewhere, but I do not know where my backups go!!!!!
+<>google tried to steal them from my phone company backup, and I think they may be lost in the Cloud.
+<>In many States it is legal to tape any conversation that one party consents to.
+<>That would be....YOU!
+<>I think the Feds allow this if the State does, but I would not swear to it..
+}
+
+{
+Valid: 1
+Index: 6
+Rating: 5
+Title: Very useful
+Review: 
+<>I use this to record choir solos at rehearsal so I can learn the music at home.
+<>(I'm inept with keyboards!) It's really helpful and incredibly easy to use.
+}
+
+{
+Valid: 1
+Index: 7
+Rating: 5
+Title: Awesome recorder
+Review: 
+<>Even when whispering it picked the audio up clear and sharp, nothing was lost and playback was bery loud even with conversations recorded at a distance and very low.
+<>Love this app.
+}
+
+{
+Valid: 1
+Index: 8
+Rating: 5
+Title: Great but fix requested
+Review: 
+<>Works great!
+<>Simple and easy to use.
+<>Only thing I don't like is that when the pop up window appears to rate the app appears, it automatically stops the recording.
+<>i thought I had captured 30 min of recording, but it only captured 8 seconds.
+<>i didnt notice this because I was not looking at the screen.
+<>when I finally did go to stop the recording, I was met with the pop up to rate the app and that's when I realized I had only 8 seconds of content.
+<>:(   now that I've rated it, hoping it will be a non issue.
+}
+
+{
+Valid: 1
+Index: 9
+Rating: 4
+Title: 
+Review: 
+<>Love this for recording my new music for Midwest Crossroad Chorus.
+<>Use it all the time, but the play back cuts out and then comes back a few times in my recording playback.
+<>Wish I knew why!
+}
+
+{
+Valid: 1
+Index: 10
+Rating: 4
+Title: Functional, but lacks visual redesign
+Review: 
+<>Despite the app doing what it's meant to do, it could really use some redesign to fit Google's Material Design.
+<>I mean, the app itself is really functional, and does what it's supposed to with perfection, but its aesthetics are too old-fashioned.
+<>As soon as a visual redesign comes out, I'll be glad to rate it 5-stars.
+}
+
+{
+Valid: 1
+Index: 11
+Rating: 5
+Title: True to its title
+Review: 
+<>A good app, very useful and user friendly!
+<>Installing the widget on the home screen makes it especially efficient for capturing those important thoughts.
+}
+
+{
+Valid: 1
+Index: 12
+Rating: 5
+Title: Samsung Tablet
+Review: 
+<>This app is easy to use and the sound is as good as any of the other recorders l have downloaded.
+<>I also like how you reply to people giving only 1 or 2 stars.
+<>It would be more fair to the dev if people with technical issues would email the dev first to let them work with the issue.
+<>The ratings would be near perfect if that was done first!
+}
+
+{
+Valid: 1
+Index: 13
+Rating: 3
+Title: Good one but not the best..
+Review: 
+<>I've used inbuilt preinstalled voice recorders in micromax, Samsung and Nokia phones.
+<>Moto G does not come with one.
+<>I am still looking for a recorder that can record voice or from FM and give a good output with enough volume.
+}
+
+{
+Valid: 1
+Index: 14
+Rating: 5
+Title: Big red button widget is perfect
+Review: 
+<>This is without a doubt my favorite quick and easy recording app that I've ever used.
+<>The resizable quick record button widget is perfect to capture ideas on the fly.
+}
+
+{
+Valid: 1
+Index: 15
+Rating: 4
+Title: Great app
+Review: 
+<>One of the first apps I downloaded on my new phone after switching to the new Droid turbo.
+<>It worked well on my old phone.
+<>It is very handy and I use it quite often.
+<>It is not very good for leveling and EQ when recording drum rhythms.
+<>Otherwise I would have given 5 stars.
+<>Other than that I love it.
+}
+
+{
+Valid: 1
+Index: 16
+Rating: 4
+Title: Very useful
+Review: 
+<>I use this all the time to take quick audio memos and make simple recordings.
+<>Clean and easy.
+<>But I have to upload and edit on my PC to make the wave files into MP3s thus far.
+}
+
+{
+Valid: 1
+Index: 17
+Rating: 5
+Title: 
+Review: 
+<>Great sound quality; still playing around with it, but I haven't encountered any issues.
+<>Just user error ;) Very helpful tool!
+<>I'm glad I installed this app.
+}
+
+{
+Valid: 1
+Index: 18
+Rating: 5
+Title: Great app
+Review: 
+<>Particularly useful when you use it in conjunction with an automatic file syncing app so your voice recordings automatically appear on your computer.
+}
+
+{
+Valid: 1
+Index: 19
+Rating: 5
+Title: Very good quality for an app
+Review: 
+<>Considering the fact it's a free app, it's hard to find anything to grumble about here.
+<>Well done: it's a welcome addition to my apps, and I often use it to record stuff.
+}
+
+{
+Valid: 1
+Index: 20
+Rating: 3
+Title: Crashed and stopped recording
+Review: 
+<>I have used this app quite a lot to record my lectures.
+<>I like it so much because it is easy to record and transfer to drive.
+<>It is very clear.
+<>However, the last update drained the battery life even when not using it.
+<>Also, it keeps crashing and stop recording in the middle of the lecture.
+<>It is so disappointing cause I noticed that after the end of lecture as I was busy taking notes :( this never happened on the previous update.
+<>I have it on my Asus nexus 7 tablet.
+<>Please fix it.
+}
+
+{
+Valid: 1
+Index: 21
+Rating: 2
+Title: 
+Review: 
+<>J'ai acheté la version pro et l'ai désinstallée quelques minutes plus tard pour la transférer de mon téléphone à ma tablette croyant avoir droit à un crédit, comme entendu sur le site Google play, mais non je dois repayer près de 5$.
+<>Je ne l'ai même pas utilisé.
+<>Arnaqué?
+}
+
+{
+Valid: 1
+Index: 22
+Rating: 5
+Title: Simple &amp; effective recorder
+Review: 
+<>I have used this to record a variety of sound from piano music to talking or the chaotic noise of deconstructing a floor.
+<>Very easy to record, save, &amp; share.
+<>Great free tool which I highly recommend.
+}
+
+{
+Valid: 1
+Index: 23
+Rating: 5
+Title: Easy Voice Recorder
+Review: 
+<>👧 I Love It!!!
+<>If u put ur phone on speaker phone it will record the conversation.
+<>I have no problem giving it Ten Star I use it all the time!
+<>It's Great!..
+<>⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟.
+}
+
+{
+Valid: 1
+Index: 24
+Rating: 4
+Title: Great recorder!
+Review: 
+<>The only thing I would change is to combine multiple recordings into one or have a play-all option.
+<>But I can rename my files and the quality is fine.
+}
+
+{
+Valid: 1
+Index: 25
+Rating: 5
+Title: Never a problem
+Review: 
+<>Simple and never a problem.
+<>And with kitkat installed on my nexus 5, I can enjoy also the screen lock widget to record what I need without unlocking the phone.
+<>Great!!
+}
+
+{
+Valid: 1
+Index: 26
+Rating: 4
+Title: Nice ..
+Review: 
+<>Excellent and intuitive interface.
+<>on moto G however the recorded sound has very low volume.
+<>please do something.
+<>4 stars for the interface and option of file naming.
+}
+
+{
+Valid: 1
+Index: 27
+Rating: 5
+Title: Basic but solid
+Review: 
+<>There isn't a great ton things that done on here not as much as I seen on other record like apps but the basics that it does is solid, light weight, quick, audio comes in clear and good, recordings play back fine, for what its for it does and does well and that's all.
+}
+
+{
+Valid: 1
+Index: 28
+Rating: 4
+Title: Pro version queries
+Review: 
+<>Hello sir  I have been really very pleased with your application "Easy Voice Recorder" I now plan to buy the Pro version of this.
+<>While i am happy to spend on this worthy application i had a few queries before that.
+<>I own Sony xperia zr running on android 4.4.4 kitkat.
+<>You have said that in the Pro version we will be able to select the destination folder as to where the recordings will get saved.
+<>But with kitkat writing restrictions on memory card will this be achieved.
+<>I have been waiting since really long.
+}
+
+{
+Valid: 1
+Index: 29
+Rating: 5
+Title: Works Wonderfully
+Review: 
+<>Best recording app I've ever used!
+<>Works every time, and the updates actually are effective at improving previous small glitches.
+<>Never a problem with recording nor playback.
+}
+
+{
+Valid: 1
+Index: 30
+Rating: 2
+Title: The sound is faint!!!!
+Review: 
+<>There isn't anyway to turn up the volume......
+<>When I've made recordings......the phone is right next to me....the recording sounds like we're far away from the phone......what's up with that?
+}
+
+{
+Valid: 1
+Index: 31
+Rating: 1
+Title: Don't install...
+Review: 
+<>If you record anything and silence for a little bit I think it is 5 second then application stopped and again you want to record the same continue then need to click on start.
+<>. .
+<>.it is not good for me or any other student who want to use in class room when phone screen would be hidden.
+<>Try to install another one instead of this.
+}
+
+{
+Valid: 1
+Index: 32
+Rating: 5
+Title: Super intuitive
+Review: 
+<>Tried a bunch of different voice recorder apps.
+<>This is by far the best one.
+<>Intuitive and simple.
+<>Does exactly what you want exactly how you think it should do it.
+<>Also great widgets.
+}
+
+{
+Valid: 1
+Index: 33
+Rating: 3
+Title: Please fix!!
+Review: 
+<>I've been using this app for about a year and it worked fine and loved it, ...but now the recording sometimes skips some part and the sounds get cut for every few seconds.
+<>I'd be really happy if you could fix this.
+}
+
+{
+Valid: 1
+Index: 34
+Rating: 3
+Title: EVR-RATING
+Review: 
+<>The ONE complaint I have is that there isn't a link to my Messages folder in the share mode.
+<>I actually would rate this app a 3 1/2 stars &amp; only because I'd like to have a few more features given to me with this free version, like, other apps free recorder version's.
+<>But what EVR gives to me free works great ..
+<>like a 5* app :-).
+}
+
+{
+Valid: 1
+Index: 35
+Rating: 5
+Title: HTC Desire 816
+Review: 
+<>Thank you very much for a reliable and useful application.
+<>I have been using this application for years without any issues.
+<>***** I HIGHLY RECOMMEND THIS APPLICATION.*****.
+}
+
+{
+Valid: 1
+Index: 36
+Rating: 5
+Title: Useful, does what it should
+Review: 
+<>I don't use this app too deeply, but what I do use it for, it does very well.
+<>Love the autodate filenames and easy switching between recording and playing.
+}
+
+{
+Valid: 1
+Index: 37
+Rating: 5
+Title: Nice app. Works great.
+Review: 
+<>Simple easy to use.
+<>WAV format.
+<>It's all I need to talking vocal tabs.
+<>Only downside is when you play back the recordings you have to manually rewind it.
+<>Know replay function.
+<>(Unless there is and I've just not figured it out yet?) Other then that it's great.
+}
+
+{
+Valid: 1
+Index: 38
+Rating: 5
+Title: THE BEST GAME
+Review: 
+<>IT WILL COME IN HANDY CASE MY SISTER SAYS THAT SHE DID NOT SAY THE B WORD AND I SAID YES AND ALL THE RAPERS SHE BLAMES IT ON ME AND I ASKED WHY DO YOU HAVE MALK AND SHE SAID SHE HAD COOKIES.
+}
+
+{
+Valid: 1
+Index: 39
+Rating: 5
+Title: Graduate student
+Review: 
+<>Yes, I appreciate having this device on my phone it helps me to re cord notes regarding my current health and provide reports for my doctor  when I learn more I will upgrade for more useful options.
+}
+
+{
+Valid: 1
+Index: 40
+Rating: 4
+Title: Very quick and easy to load, looks good.
+Review: 
+<>If there is ANY problems I'll let Digipom know.
+<>☺   Well, there is one problem.
+<>It's to blurry!
+<>I can't hear a word I'm saying!
+<>please fix this!
+<>😮.
+<>😐  I'm stressing out!!!
+<>😨.
+}
+
+{
+Valid: 1
+Index: 41
+Rating: 5
+Title: Very happy with this
+Review: 
+<>Since I moved from Samsung to Sony, there is no longer a good built-in sound recorder.
+<>I downloaded several to test them out, and this is my favourite.
+<>It is simple and functional.
+}
+
+{
+Valid: 1
+Index: 42
+Rating: 5
+Title: So easy
+Review: 
+<>I record personalized audio yoga programs for my yoga therapy clients regularly and this app is great.
+<>It is easy to record, rename the files and upload to Dropbox or google drive.
+<>One issue is people not being able to open the file if you use the direct email option  so always need to use drive to send.
+}
+
+{
+Valid: 1
+Index: 43
+Rating: 2
+Title: Worked for a bit, then tanked?
+Review: 
+<>Tried recording an important interview with this app.
+<>Worked perfectly for a few minutes, then added weird machine noise to my recording.
+<>Completely obliterated any usable audio.
+<>Can't recover it.
+}
+
+{
+Valid: 1
+Index: 44
+Rating: 5
+Title: Brilliant all round
+Review: 
+<>Easy to use interface and had no problems with it....had it 1st installed on my Samsung Galaxy SII then S4 and now S5....no problems using this app on any of those devices, definitely recommend it.
+}
+
+{
+Valid: 1
+Index: 45
+Rating: 5
+Title: Best recording app ever.
+Review: 
+<>Very little memory space used, great recording quality, files very organiced, easy to sort, very friendly to share, np need to download compatible programs etc.
+}
+
+{
+Valid: 1
+Index: 46
+Rating: 4
+Title: Good App
+Review: 
+<>Voice &amp; audio recording qualiry is good.
+<>But it record amr format as 3gp file.
+<>It have to be converted as MP3/MP4 if you want to share in social media, YouTube.
+}
+
+{
+Valid: 1
+Index: 47
+Rating: 3
+Title: Prefer Smart Voice Recorder
+Review: 
+<>Prefer Smart Voice Recorder.
+<>Easy Voice Recorder (free version) is rather limited.
+<>It does not allow you to save to a specified location nor does it allow you to save as mp4s.
+}
+
+{
+Valid: 1
+Index: 48
+Rating: 5
+Title: Perfect
+Review: 
+<>I use this with my 2nd graders to help them with their writing.
+<>They dictate their ideas and play/pause as they write them down.
+<>They love it and so do I!
+}
+
+{
+Valid: 1
+Index: 49
+Rating: 1
+Title: Untrustworthy
+Review: 
+<>This app gathers broadly described (="certain") data on your device, then sends it back to the dev who then sells it to third parties.
+<>The dev takes no responsibility for any resultant damages.
+<>It's in the EULA and the Privacy Policy; I read the entire thing, I know what's in there.
+<>Internet access is obviously not necessary for recording audio, and it's not limited to serving ads.
+<>See the EULA and the Privacy Policy.
+<>EDIT: reply to the developer: I didn't state it sends back the recordings.
+<>The rest of the reply fails to refute my comments and that further confirms them.
+<>Users have no reason to blindly trust any dev with their personal information, especially if the devs excuse themselves from all liabilities.
+<>Luckily, there are alternative apps without such behavior.
+}
+
+{
+Valid: 1
+Index: 50
+Rating: 5
+Title: Great.
+Review: 
+<>Well, I'm a singer in school 'N stuff but I never really knew how I sounded.
+<>So I tried literaly everyone of these and non of them bet this.
+<>I recorded my voice (singing) and when I was done,  it was clear loud.
+<>It super helpful I definitely recommend this!!!!!!!!!!!!
+}
+
+{
+Valid: 1
+Index: 51
+Rating: 5
+Title: Perfect
+Review: 
+<>Does what it says in an easy way.
+<>BONUS - does not ask for a laundry-list of unnecessary permissions.
+<>Just what it need to record audio and save it.
+<>Thanks DEVs!
+}
+
+{
+Valid: 1
+Index: 52
+Rating: 5
+Title: Amazing and FREE (Thanks to App Of The Day)
+Review: 
+<>This amazing recorder has always been my preferred choice of recorder due to its ease of use and ability to use my microphone(s) to their full potential.
+<>Using it in my car once to record a call on the same phone I was recording from, and it sounded almost as good as my studio mic (with a little mastering).
+<>And now all the pro features are unlocked thanks to App Of The Day.
+<>LOVE IT!
+}
+
+{
+Valid: 1
+Index: 53
+Rating: 5
+Title: Works as intended
+Review: 
+<>It does what it's supposed to do, which is awesome.
+<>Only downside is that the free version doesn't allow you to change where the files are saved.
+<>Other than that, it's awesome and doesn't crash.
+}
+
+{
+Valid: 1
+Index: 54
+Rating: 3
+Title: Decent, but no pause/resume with good formats
+Review: 
+<>It's insanity to be recording directly to *uncompressed* pcm/wav on a mobile device in 2015, but at time of review, that's the only way to have pause/resume for recording.
+<>@Developer: plz implement ogg vorbis support and consider updating the UI to material standards -- it looks pretty dated.
+}
+
+{
+Valid: 1
+Index: 55
+Rating: 4
+Title: Love It
+Review: 
+<>This is a great App.
+<>for recording my voice.
+<>I haven't tried recording anything else like a lecture.
+<>For Samsung Galaxy S5, you need to save the recording to your SD card if you want to e-mail it as an attachment.
+}
+
+{
+Valid: 1
+Index: 56
+Rating: 4
+Title: Great free app
+Review: 
+<>Easy to use.
+<>Good clear recording.
+<>Using it to record script for learning lines so a pause and continue recording would have been useful - but we managed!
+}
+
+{
+Valid: 1
+Index: 57
+Rating: 5
+Title: I love it!
+Review: 
+<>Simple and easy to use, it's a great way for me to work on my lines.
+<>I'm an actor, so I record a lot of rehearsals, and record my lines so I can learn them while I drive.
+<>It's great!
+}
+
+{
+Valid: 1
+Index: 58
+Rating: 5
+Title: Simple &amp; effective
+Review: 
+<>I use this to record my lectures in class and then listen to them when I'm driving.
+<>I do wish you could could go back in and continue recording more under one when you accidentally end it.
+<>However it still works well!
+}
+
+{
+Valid: 1
+Index: 59
+Rating: 5
+Title: Easy. Useful. Decent sound quality
+Review: 
+<>Even from within my pocket, I have been able to record conversations.
+<>Nice backup for customer service situations, remembering doctor instructions, recording lectures...
+}
+
+{
+Valid: 1
+Index: 60
+Rating: 5
+Title: Good surveillance recorder
+Review: 
+<>Good to keep in your pocket when you want to record conversations between you and other people are our phone calls for evidence.
+<>Under Virginia law as long as one party knows it's being recorded it's illegal.
+}
+

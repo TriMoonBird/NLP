@@ -1,0 +1,662 @@
+{
+Valid: 1
+Index: 1
+Rating: 1
+Title: Error And Only Works With WIFI
+Review: 
+<o>Every time i click on something like oil rig or goldmine etc.
+<c>It keeps saying something about error and it only works with my wifi connection even when i have 4glte and all the bars.
+<o>The game was awesome until this started happening if it doesnt stop im just going uninstall.
+}
+
+{
+Valid: 1
+Index: 2
+Rating: 1
+Title: Internet
+Review: 
+<o>I tried to get in the game right.
+<o>Well it requires internet.
+<p>I had 5 bars with 4g but it said i couldnt play cause i didnt have a good network connection.
+}
+
+{
+Valid: 1
+Index: 3
+Rating: 5
+Title: 
+Review: 
+<a> Epic game that really draws you in allowing you to emerse yourself into the battles and build an awesome base to be able to attack everything and everyone.
+}
+
+{
+Valid: 1
+Index: 4
+Rating: 4
+Title: Gr8 game. But...
+Review: 
+<p>Few things bug me, why does the units sent in combat are not recovered (if survived) when the attack ends.
+<o>Thus if we put in all units in the field, you will have to recruit new ones no matter you win or loose or even when no unit gets killed...
+<o>Strange...
+<o>Still a good game.
+}
+
+{
+Valid: 1
+Index: 5
+Rating: 2
+Title: Seriously
+Review: 
+<p>Why am I dropping tiers even thought I have the same battle points everyday which is 151 and every time I try to attack someone else's base it says searching then reconnecting for some reason and the game sometimes crashes but I didn't even attack and I lose 210 oil.
+}
+
+{
+Valid: 1
+Index: 6
+Rating: 4
+Title: Good ga,me 4o5
+Review: 
+<a>Its a clash of clans call of duty style game with pvp and a campaign, its not boring but its a time waiting game like coc.
+<f>Its also got a global chat.
+}
+
+{
+Valid: 1
+Index: 7
+Rating: 1
+Title: It dosent work
+Review: 
+<c>I been trying in several times to run this app on my nexus 6 and it always say that I'm not connected to the internet even though I have all my bars and 4G LTE please fix , you guys are losing players.
+}
+
+{
+Valid: 0
+Index: 8
+Rating: 5
+Title: Wow what I never new was true the mw1 till aw remade to 1 date
+Review: 
+<a>All problems with heroes are easily ignored but I want u activision to add 3 things.
+<a>Resnov because he is a beast fan favorite, repair drones (cost 50,000 gold and oil to make 1, max two and heals entire base but it needs to get to the structure first) so you can fix ur base in combat, and add a mobile drone center (only one max, spawns at a max 10 combat drones each doing 30 damage range 3 rest of stats ur desire) so this game gets even better than ALL OTHER THINKING GAMES THAN ITS RIGHT NOW!
+<a>(if u want 2 know real stradegy games have the rpg element allow free roam but this game understands that and I respect that).
+}
+
+{
+Valid: 1
+Index: 9
+Rating: 4
+Title: It is good
+Review: 
+<a>It not bad but their are some things we stuff fly over base and get in your way or when you put your men down they go evey ware they should go where you tell them to go.
+}
+
+{
+Valid: 1
+Index: 10
+Rating: 3
+Title: Needs a few improvements
+Review: 
+<p>I love this game but it could use some optimizations so the game is less laggy, if they made the game all smoother then I would love the game even more.
+}
+
+{
+Valid: 1
+Index: 11
+Rating: 1
+Title: 
+Review: 
+<p>Don't get wrong I like c o d games but u Really have to fix the bugs cus it's not fear to use to play a game that's halfway working.I hate your game it will not let me play am only able to do a little before the game cuts off now u lost a player and future how put this I would payed but no u just ignore.my comment now am passed I was hoping it was going to be a good game not can't even play it u need to fix or I leave.,,....
+}
+
+{
+Valid: 1
+Index: 12
+Rating: 1
+Title: Lollipop Update
+Review: 
+<p>After update I now have shadow like lines covering everything in the game.
+<p>Almost like the earth and buildings are striped.
+<p>When I open the chat bar it does not cover that, just the map.
+<p>Adjusted graphics setting to lowest and did not fix either.
+<p>Would like fixed because it is annoying.
+<o>Thank you.
+}
+
+{
+Valid: 1
+Index: 13
+Rating: 3
+Title: Fun
+Review: 
+<a>Its alot of fun to play but im so sick of these pay to play.
+<s>You can either spend $20 now for 4000 coins or wait 9hrs for your building to build.
+<s>I will play till my special tokens run out and will do with this Game as I have the rest...
+<o>DELETE!
+<s>Would rather play a lite version,  decide I like it then pay ome time $15 fee to purchase full version than this pay as you play BS.
+}
+
+{
+Valid: 1
+Index: 14
+Rating: 1
+Title: Very disappointing experience recently
+Review: 
+<a>Got attacked by a player..he managed to get 18% of resources and overall damage as 25%..but instead of losing..result shows he won ..even though available loot was 18k each..result shows 100% victory n gold looted as 30lakhs...oil as 5 lakhs...
+<o>My gold is now zero..
+<p>I had 12lakhs of it...a bug or cheating..whatever it is..now im losing interest in this game..either solve this problem or it will be better to stop wasting time in an game where cheating is allowed.
+}
+
+{
+Valid: 1
+Index: 15
+Rating: 4
+Title: Great
+Review: 
+<f>I just want you guys to make the button for finding another base to attack a little bigger, I keep accidently sending  my troops onto a player I don't want to attack I just want to see if I can damage them well enough but if I can't, I move onto the next one but instead I accudently drop a soilder in to attack.
+}
+
+{
+Valid: 2
+Index: 16
+Rating: 1
+Title: Hey stupid !!!!!
+Review: 
+<p>I wasted my 32 mb data in downloading game content when downloading completed and I again start game, again needed game content !!!!!!!
+<p>First solve game's loading problem after upload ur game on play store !
+<o>Plz do not download this game !
+<o>Don't waste ur data !
+}
+
+{
+Valid: 1
+Index: 17
+Rating: 5
+Title: 
+Review: 
+<a>Way vetter than allbthese negitve people say it a really good game they just need to add like allies an dall that till then ill still give em 5 stars.
+}
+
+{
+Valid: 2
+Index: 18
+Rating: 3
+Title: Needs more features (1.5)
+Review: 
+<a>-Would be better  if heroes monves immediately after ordering to move and not having a 1second delay before it moves.
+<s>-More diamond uses.
+<a>-REMOVE that 10-15 pvp normal loot battles  per day.
+<a>We don't know if retaliate or an unsuccessfull seige is counted on that 10-15 pvp limit.
+}
+
+{
+Valid: 1
+Index: 19
+Rating: 3
+Title: Lines through all bases.
+Review: 
+<p>I just updated my phone and now there are static lines running through my base.
+<p>When I click on another base to view or fight, they have them too.
+<o>Please fix so I can rate 5 stars.
+}
+
+{
+Valid: 1
+Index: 20
+Rating: 4
+Title: So far so good
+Review: 
+<a>I just started today and its great..its just like clash of clans but military/army based..don't listen to tha Downer's...
+<a>This game iz good..
+}
+
+{
+Valid: 1
+Index: 21
+Rating: 5
+Title: Awesome
+Review: 
+<a>Easy tutorial you get all the basics like command and conquer.
+<a>Only draw back is time for building and leveling up if you want to play free some structures take up to a 3 days to build.
+<f>Other than that it a great game with alliances and chat rooms.
+}
+
+{
+Valid: 1
+Index: 22
+Rating: 3
+Title: Game lags the frame
+Review: 
+<p>This game is awesome but it lags while zooming and it is not smooth feels like it is loosing frames i request the devloper please make it smooth we don't need detailed graphics we just need the performance of the game....
+}
+
+{
+Valid: 1
+Index: 23
+Rating: 3
+Title: 4g network error, i have a fix for error.
+Review: 
+<c>I have unlimited 4g data and it wont connect to game.
+<c>Only way to connect is to enable wifi and connect to a wifi network.
+<o>I see robert milton is having the exact same error as me.
+<o>I would of rated this a 5...
+<c>my tip to others with 4g error like myself is to enable wifi and connect to the game that way, once connected and your at your base, swipe down ur status bar and disable wifi and make sure mobile date is enabled.
+<c>Wait 10 seconds then go back to game and problem solved, you can now enjoy game with 4g.
+}
+
+{
+Valid: 1
+Index: 24
+Rating: 5
+Title: Awesome
+Review: 
+<o>This is a pretty good game.
+<a>Different than how I normally play call of duty games but interesting and fun.
+<o>Good work.
+<a>I love this game its freaking tight.
+}
+
+{
+Valid: 2
+Index: 25
+Rating: 1
+Title: Doesn't work anymore
+Review: 
+<a>Wow...ive spent money on this game and spent the last 5 weeks leveling up this hero just to have you guys nerf him completely with this update..good move.
+}
+
+{
+Valid: 2
+Index: 26
+Rating: 5
+Title: Call of duty
+Review: 
+<o>Really enjoy playing this game.
+<o>It's exactly the type of game I prefer to play.
+<p>Doesn't move as smoothly as other games, but still works for me.
+<a>If you like strategy games then give it a try.
+}
+
+{
+Valid: 1
+Index: 27
+Rating: 2
+Title: Not that great...
+Review: 
+<o>If I knew how to report in-game I would.
+<a>But anyway, I keep getting my base attacked by level 50+ players and I'm only level 42, and there's nothing I can do.
+<a>That's not cool...
+<f>And I think a new parameter should be implemented such that the level of someone attacking your base...
+<f>should be no higher or lower than +/-5 your own level .
+<f>And vice versa.
+}
+
+{
+Valid: 1
+Index: 28
+Rating: 1
+Title: Unplayable
+Review: 
+<p>Freezes.....cant get anywhere or get anything done with out it locking up.
+<o>If you could fix the problems it might be a good game.
+<o>Until then its a waist of space on my phone.
+}
+
+{
+Valid: 1
+Index: 29
+Rating: 4
+Title: Facebook friends missing
+Review: 
+<f>I gave the game 4 stars but if there is Facebook friends I would give 5 stars so why u don't put Facebook friends because the main fun when we see the progress of our friends.
+}
+
+{
+Valid: 2
+Index: 30
+Rating: 3
+Title: Fun for a bit
+Review: 
+<a>The game starts out well but after a bit you have to start waiting hours or days for thing to build or spend real cash to speed things up.
+<s>If you're not looking to drain your bank account, I'd recommend finding something else to play.
+}
+
+{
+Valid: 2
+Index: 31
+Rating: 2
+Title: What's up wit the lag b.s. ?
+Review: 
+<p>The game still has no improvement still need more improvement wit the stars clearly if u get at least 50% u don't get a star which is stupid and still can't get 4G to work on this game and when r they gonna let me know when my army train?
+<a>Plus this game lag to the point it's unplayable or if u in battle it bearly let ur troops out which is bad and data error 0 wtf when I search that's all I see.
+}
+
+{
+Valid: 1
+Index: 32
+Rating: 4
+Title: This game is pretty cool
+Review: 
+<f>I think this game was cool the only thing I think they should of added a first person mode while in battle as being a hero.
+<o>This fix would of made it a 5 stars.
+}
+
+{
+Valid: 1
+Index: 33
+Rating: 1
+Title: Plz fix
+Review: 
+<c>I've downloaded and installed this game 20 times now,turned my phone off and on multiple times and the game still won't work.the game looks cool and all but can't even play it..it finishes loading and just force closes every single time.
+}
+
+{
+Valid: 1
+Index: 34
+Rating: 2
+Title: Call of duty heros
+Review: 
+<p>I am still getting a 'no network 'for  my  game!!
+<p>This is too much and no one has done anything to correct this!
+<o>I want to play my GAME!
+<p>As of 4/23/15 my game came back on but not even 3 hours later, it cut off AGAIN WITH THE "NO NETWORK "BULLCRAP!!
+<o>I love this game but your company has serious issues!
+<o>My husband and I have the same phone AND carrier and when my game is messed up his  works and when my game works HIS  IS MESSED UP!
+<o>What the CRAP??!!!!!
+}
+
+{
+Valid: 1
+Index: 35
+Rating: 3
+Title: Error
+Review: 
+<p>Network error data error code 410 was playing fine till this morning fix it soon or will uninstall and find something else too many other out there to put up with this.
+}
+
+{
+Valid: 1
+Index: 36
+Rating: 1
+Title: Sheer Crap!
+Review: 
+<o>Spent ages building my guy/HQ for the stupid update to f**k it up.
+<p>Says its not connected to net when it is.
+<s>Spent good money on this game and for no reason i have nothing i bought.
+<s>Goodbye hard earned cash..
+<o>I know what i wont be spending you on again!
+}
+
+{
+Valid: 1
+Index: 37
+Rating: 5
+Title: Good game
+Review: 
+<a>Awesome game i play clash of clans and at first i thought it would be one of the many rubbish rip offs but its really good and not based purely like clash of clans.
+}
+
+{
+Valid: 2
+Index: 38
+Rating: 5
+Title: Call of duty heroes
+Review: 
+<p>Game is awesome, updates always load and I haven't had no problems.
+<p>The last update you guys fixed a lot and now this 1.5 update loaded perfectly.
+<p>Those that are having problems with the new update, install the the new updates with WiFi, the updates always load right and you DON'T lose anything.
+<p>Try it out guys, I remember the first update about a month ago didn't load and the game stopped playing so I tried it using WiFi and it loaded right away.
+<p>You guy are really fine tuning this game it's awesome, ty.
+}
+
+{
+Valid: 1
+Index: 39
+Rating: 1
+Title: 
+Review: 
+<o>Useless!!!
+<p>I thought updates were supposed to make the game better not stop it working all together.
+<o>Sort it out guys or refund the money people have spent!
+}
+
+{
+Valid: 1
+Index: 40
+Rating: 5
+Title: Best game ever
+Review: 
+<a>This game is fun you get to level up you get to level up your people level up your weapons level up pericing you get volts you get new people you can new heroes you get all that stuff its really fun and I like about this game what time is that you can do almost anything in it you can fight other people they can fight you on the only fight you when they're ready to fight like when they think they can destroy you but you can buy stuff you can do all sorts of stuff its really fun.
+}
+
+{
+Valid: 1
+Index: 41
+Rating: 2
+Title: Good game but has its problems. I KEEP GETTING ATTACKED BY PEOPLE WHO PAY THERE WAY THROUGH THE GAME ATTACKED TWICE IN 6 HOURS AND LOST 500.000 RESOURCES THIS IS NOT FAIR!! LEVEL 75 AGAINST 47 HOW IS THAT FAIR??? SORT IT OUT OR I WILL UNINSTALL! !
+Review: 
+<o>Ok so we know games favour those who pay but this is rediculouse!
+<o>My base has been levelled 13 times in 9-10 days.
+<a>It is very hard to save resources as one attack would take nearly half your resources i've had 3 attacks in the past day and i have lost nearly all my resources i had been saving to upgrade my command centre but it is people who are far in the game and who have high stats being allowed to attack small players it makes it really hard to make your way through the game.
+<s>It reminds me of a scam!
+}
+
+{
+Valid: 1
+Index: 42
+Rating: 4
+Title: Bout time!!!
+Review: 
+<o>Maybe this game has been out for a while, maybe i never saw it, but its about time i did.
+<a>Ive been waiting for a game comparable to CoClans or CoLords, and so far this on3 blows them out of the water..
+<o>we'll see how it goes as i progress through the game.
+<o>As for now, 4stars.
+}
+
+{
+Valid: 1
+Index: 43
+Rating: 3
+Title: I don't know about this
+Review: 
+<a>Seems to me call of duty is just going down I played all the cods and after black ops2 I just decided call of duty went to crap.
+<a>And this I thought it be good but seems like its starting to go down to maybe call of duty is just a dieing breed.
+}
+
+{
+Valid: 1
+Index: 44
+Rating: 5
+Title: Fun game!
+Review: 
+<s>In app purchases make this a costly game if you're impatient.
+<f>Intertwined leveling up make it interesting strategically.
+<o>Activision quick to respond to issues when you contact directly instead of whining on reviews.
+}
+
+{
+Valid: 2
+Index: 45
+Rating: 3
+Title: Yehoshua89
+Review: 
+<a>Its good could b better, maybe stages where y8u and the enemy bake for a plot of land, like red alert, u can spy on them etc befote u take them out n claim the territory.
+}
+
+{
+Valid: 1
+Index: 46
+Rating: 5
+Title: This is a great game!
+Review: 
+<o>This game is a real war game.
+<o>You control helicopters and and troops.
+<o>It's similar to clash of clans but better because you build a real army.
+<a>It's really fun especially  if you are into war games with strategy.
+}
+
+{
+Valid: 1
+Index: 47
+Rating: 5
+Title: Best game eevveeerrr!!!
+Review: 
+<a>This game makes me want to jump off a building I just play this ever day instead of playing other games.The person who made this game see me at the fewniral.
+}
+
+{
+Valid: 1
+Index: 48
+Rating: 1
+Title: 
+Review: 
+<p>Need an update i have a internet connection and it says i dont so once it gets an update I'll rate it higher because i really wanted to play it, it looks amazing.
+}
+
+{
+Valid: 1
+Index: 49
+Rating: 5
+Title: Similar to Command and Conquer
+Review: 
+<o>I gave this game an hour using my galaxy grand prime.
+<o>It ran very well with all other apps closed.
+<o>It feels solid and it plays different than any other call of duty out there.
+<a>They have your scorestreaks like missile strike and attack copter.
+<a>I highly recommend this game if you like mouse clicking (tapping sceen) rts games .
+<o>I give it 5 stars.
+<o>Edit: This is my first week playing a mobile game on a phone.
+<o>It's easy to control.
+}
+
+{
+Valid: 1
+Index: 50
+Rating: 2
+Title: Frustrated
+Review: 
+<o>It is really getting to be difficult to have any faith in this game.
+<s>every time a new update comes out it seems like I am going to have to wait another month and a half to be able to play again this after I have paid some of my own money for some celerinium.
+<o>Smdh.
+<o>This is getting to become super ridiculous.
+<o>When i email Activision they never respond and dobt seem to have a customer service line.
+<s>Its starting to feel like a scam!!!!!
+<s>I feel robbed!!!!
+<s>No access to my base after i gve them money......hmmmmm.
+}
+
+{
+Valid: 1
+Index: 51
+Rating: 4
+Title: Fun Time Waster
+Review: 
+<>Fun time waster.
+<>A little laggy at times, in no way to do with my phones performance.
+<>May need to adjust the graphics settings on the next update.
+<>Other than that, a fun to play game.
+}
+
+{
+Valid: 1
+Index: 52
+Rating: 3
+Title: Unfair
+Review: 
+<>When i raid an opponent's base i earn a miserable amount of oil and gold, but if someone else attacks me they take massive amounts of currency from me which is unfair because they have way higher levels.
+<>I hope you can fix the matchmaking.
+}
+
+{
+Valid: 1
+Index: 53
+Rating: 4
+Title: Addictive but not best
+Review: 
+<>This game is so addictive.
+<>But needs alot of changes.there should be custom missions for earning celerium.builders should be unlocked not bought.allow troops to be controlled to where to fight.fix these things nd there will be five.btw im die-hard fan of call of duty.
+}
+
+{
+Valid: 1
+Index: 54
+Rating: 4
+Title: It pretty cool
+Review: 
+<>Its an awesome game, but if you ever get a chance, can you make a game like off black ops 2, where you strategically tell your units where to go or who to engage, if you know what I'm talking about, but good job, love the game.
+}
+
+{
+Valid: 1
+Index: 55
+Rating: 2
+Title: Unfortunately heroes stopped working
+Review: 
+<>Downloaded the game and even got the update when the game ran the first time.
+<>Unfortunately, it can't get past the title screen and proceeds to give the error above.
+<>I hope this issue gets resolved soon because it genuinely looks interesting.
+<>If not fixed within the week or so I will unfortunately uninstall.
+}
+
+{
+Valid: 1
+Index: 56
+Rating: 1
+Title: Terrible
+Review: 
+<>It doesn't even work it says something about a network connection error but all other games that require n connection work fine please fix this and fast.
+}
+
+{
+Valid: 1
+Index: 57
+Rating: 4
+Title: So far, it's OK...
+Review: 
+<>It's kind of early to be asking me to rate the game.
+<>I only got through the very beginning stages, and it's alright, so far.
+<>I just hope it doesn't end up like all the other games, and try to force me into paying for something just to advance past a mission.
+<>If it gets to that, I wouldn't be surprised.
+<>I'll have to knock the rating down to one star.
+}
+
+{
+Valid: 1
+Index: 58
+Rating: 2
+Title: Do actually love it
+Review: 
+<>Like all cod games seems it has a shelf life of a month or so.
+<>Really enjoyed playing but maybe one update to many?
+<>Same problem as most people.
+<>No network when I definitely have  .
+<>Black screen.
+<>Would have been 5 star otherwise.
+}
+
+{
+Valid: 1
+Index: 59
+Rating: 1
+Title: Bad lag
+Review: 
+<>Using a Samsung galaxy tab 4, game lags terribly.
+<>I would not recommend this tablet.
+<>The game itself I don't know if it works on other devices well but so many apps and games perform awfully on my device.
+<>I'm fed up and tired of wasting so much time just trying out these crappie games that people are developing for android.
+<>Give it a few years then the android gaming market won't be in this limbo testing phase with all the in numerous issues and technical issues it currently has.
+}
+
+{
+Valid: 1
+Index: 60
+Rating: 2
+Title: So buggy and ridiculous attacks
+Review: 
+<>This game even after they update and say they fixed bugs and enhanced things...
+<>is ALWAYS buggy and jerky.
+<>It's annoying.
+<>The worst part of the game though is they allow people 30 levels above you to attack you!
+<>So within a few hours of your shield going down from the last person farming you, another attack comes along.
+<>I've played a few months now and really tired of it.
+<>Going to uninstall and save myself the wasted space.
+}
+

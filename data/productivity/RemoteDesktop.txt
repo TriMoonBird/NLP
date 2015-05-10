@@ -1,0 +1,697 @@
+{
+Valid: 1
+Index: 1
+Rating: 3
+Title: Mouse issue and needs resolution setting
+Review: 
+<>Works great and quite fast most of the time.
+<>Quite easy to set up and I like the fact you can set up a gateway also.
+<>One issue I'm having is that in some sessions when using a mouse, every second click of the left mouse button brings up the pan button as if you zoomed in on the screen.
+<>I then have to right click to get rid of it and on it goes.
+<>I haven't been able to figure out the cause of this yet but it isn't specific to a computer I connect to as the same computer sometimes doesn't experience this.
+<>The last issue is there should be an option select resolution.
+<>2168x1355 even on a 12" screen is tiny!
+}
+
+{
+Valid: 1
+Index: 2
+Rating: 2
+Title: Could be perfect
+Review: 
+<>This would get 5 stars if you could set the remote screen resolution.
+<>Got a Nexus 7 (2013) but unfortunately this app does not connect with the full resolution of the Nexus.
+<>So pretty useless.
+}
+
+{
+Valid: 1
+Index: 3
+Rating: 4
+Title: robust functionality with touch-friendly UI
+Review: 
+<>brings the familiarity of the Remote Desktop functionality, Windows 8, to Android with few, if any, compromises.
+<>Mouse navigation may be challenging depending on the form factor in use but the affordability to change to touch friendly navigation helps.
+}
+
+{
+Valid: 1
+Index: 4
+Rating: 4
+Title: Great App but got problem login due to keypad come with app got problem
+Review: 
+<>Not able to login windows by key in symbol '@'.
+<>Test use this app's keyboard type in notepad found that symbol '@' become ' " '.
+<>Please check &amp; fix this bug immediately.
+<>Thanks.
+}
+
+{
+Valid: 1
+Index: 5
+Rating: 5
+Title: Excellent
+Review: 
+<>Very impressed with the performance and usability of this application for tablets.
+<>It seems to select resolutions perfectly and translate traditional GUI controls into touch very well.
+}
+
+{
+Valid: 1
+Index: 6
+Rating: 4
+Title: Need inteflgration with Hotmail /live id
+Review: 
+<>This app is nice but can be excellent if it give option to save all configuration with hotmail id.
+<>So that If i login from another phone/ tablet.
+<>No need to enter all rdp config files.
+<>Make it like RDP Manager.
+}
+
+{
+Valid: 1
+Index: 7
+Rating: 1
+Title: Hotspot without mobile data
+Review: 
+<>1. Create hotspot from phone  2. Turn off mobile data  3. Connect computers to network 4. Use the Wi-Fi hosting phone to RDP to connected computer 5. Error: "no active network found"  It works and continues to work if I connect to the computer with data on, and disable after the local connection is made.
+<>But not if data is disabled while establishing the local RDP connection.
+<>Please fix.
+}
+
+{
+Valid: 1
+Index: 8
+Rating: 2
+Title: Security flaw
+Review: 
+<>App needs improvement.
+<>My Dropbox requires a pin at each startup.
+<>When Office is connected to my Dropbox that security feature isn't enforced.
+<>So although my Dropbox is protected when accessed directly, Office keeps that security door wide open.
+}
+
+{
+Valid: 1
+Index: 9
+Rating: 1
+Title: What a joke
+Review: 
+<>Not only it is complicated to setup, but you can find very little info related to it online.
+<>Couldn't find much of anything helpful to help you in the process of setting it up.
+<>Personally I'll stay with what I'm using because it only take about 2 mins to setup, it very simple, and easy to use!
+}
+
+{
+Valid: 1
+Index: 10
+Rating: 3
+Title: Worked for me
+Review: 
+<>It work perfect for me.
+<>Keep up the good work.
+<>Using samsung glaxy S3. Update when use and exit it will naver conn again till reset the phone plz fix it to get more stars.
+<>To open it again must use force stop and then it will exit.
+}
+
+{
+Valid: 1
+Index: 11
+Rating: 1
+Title: The screen does not refresh correctly
+Review: 
+<>The keyboard needs to be shown, hidden then the back button pressed to refresh the screen correctly.
+<>Without doing this, the new screen overlays the old, scrambling the image.
+}
+
+{
+Valid: 1
+Index: 12
+Rating: 3
+Title: Great not perfect.
+Review: 
+<>Nexus 4 to win XP/win 7. Works well really useful.
+<>When I remotely shut down my PC this app still thinks its connected to the machine.
+<>Zoom when zoomed in I can't tap to click.
+}
+
+{
+Valid: 1
+Index: 13
+Rating: 1
+Title: Impossible
+Review: 
+<>The FAQs on how to get your computer ready and set up firewalls and port forwarding, etc.
+<>are so complicated, and then after you follow everything it still doesn't work.
+<>And there are no one step tools to set up or even test to see why it's not working.
+<>I spent two hours, tore my hair out, and uninstalled the app.
+}
+
+{
+Valid: 1
+Index: 14
+Rating: 4
+Title: Not for Beginners; Advanced Users Will Be Thrilled
+Review: 
+<>1st: Every credible review for this app should display the type of Android device the user is connecting with &amp; the version of Windows the user is connecting to.
+<>1. I connect with a Samsung Galaxy Note 3 running Android Jelly Bean (4.4, KitKat), and the stylus is a key to my review.
+<>2. I connect to 3 machines running Windows 7 Pro, and 1 machine running XP Pro (all at different times and in separate sessions, of course) This app is not for connecting back to your home computer while away &amp; is not compatible with any version of Windows EXCEPT those carrying the "Pro" version.
+<>So, if you aren't running a Pro version of Windows on the host PC, find another app.
+<>This app is not practical for use by those who: 1. Have never setup a Remote Desktop Connection before AND don't have access to assistance from some one who has 2. Those who are not savvy enough to search around Youtube or the Web to find articles on how to configure a Remote Desktop Connection &amp; how to troubleshoot problems.
+<>3. Those who are not already using a Remote Desktop Protocol (RDP).
+<>For non-beginners, MS provides this free RDP app that works very well on Android devices w/screen larger than 5 inches &amp; it works well.
+}
+
+{
+Valid: 1
+Index: 15
+Rating: 1
+Title: IP routing, DNS server name. bridged IP..... JUST WORK DAMMIT!!!!!!!
+Review: 
+<>If you like to jump through hoops in order for Microsoft support to tell you that no one really knows how to get this working?
+<>Then this program is for you.
+<>Microsoft...
+<>just Microsoft.
+}
+
+{
+Valid: 1
+Index: 16
+Rating: 3
+Title: Wrong character
+Review: 
+<>Some special characters like@!£# are wrong.
+<>It displays correctly at keyboard and long press but if open notepad to type, you'll be surprised after latest update.
+}
+
+{
+Valid: 1
+Index: 17
+Rating: 2
+Title: Works, but becomes unresponsive
+Review: 
+<>This app works, but becomes unresponsive after a few seconds of use.
+<>It stays working, but the desktop does not respond to common actions.
+<>Please fix as soon as possible.
+}
+
+{
+Valid: 1
+Index: 18
+Rating: 4
+Title: A must have.
+Review: 
+<>It works great but sometimes I wish there was a guide for the controls.
+<>I love to use the pointer in the screen but it's hard to do things without a mouse.
+}
+
+{
+Valid: 1
+Index: 19
+Rating: 2
+Title: 
+Review: 
+<>No longer really functional for Android phones.
+<>Lower menu blocks your view, too complexed to even double click on anything.
+<>No simple way to disconnect from a working session.
+<>Simplicity is the key and this is not.
+}
+
+{
+Valid: 1
+Index: 20
+Rating: 5
+Title: Puts other RDP apps out of business
+Review: 
+<>Beyond compare.
+<>This is the perfect RDP app.
+<>Sad for other RDP app makers, as there were several, but good that MS built a perfect app to interface with their own protocol.
+<>Can't think of a single thing I'd change!
+}
+
+{
+Valid: 1
+Index: 21
+Rating: 5
+Title: Great job
+Review: 
+<>Remote Desktop has improved rather drastically.
+<>Everything is fluid and the controls are more intuitive than ever.
+<>Minor hitch: there's a lag in the cursor movement sometimes.
+}
+
+{
+Valid: 1
+Index: 22
+Rating: 5
+Title: Wow - very nice.
+Review: 
+<>This app works so nicely on my Samsung Note 3. Easy to setup, fantastic functionality.
+<>Love the way pointer works and how you can zoom and move the screens around.
+<>I plan to try with a BT keyboard and mouse.
+<>Couldn't be happier.
+}
+
+{
+Valid: 1
+Index: 23
+Rating: 4
+Title: Very good RDP client
+Review: 
+<>This is a very good RDP client that is easy to use and rich on features.
+<>I have 2 requests for the Dev Team: 1) I would like to be able to connect to multiple servers at the same time and easily switch between them, maybe using the toolbar that be shown by clicking the profile name at the top.
+<>2) For some reason there is a miscommunication between my keyboard and what is actually interpreted at the server, meaning to write &amp; on the server I have to press ^ on my Android keyboard and other keys fail as well.
+}
+
+{
+Valid: 1
+Index: 24
+Rating: 5
+Title: Great. must have app!
+Review: 
+<>I Use it all the time with win 7 and 8.1 hosts.
+<>Google Chrome browser, chromecast and RDP for Android make a great combination (especially on your local network).
+<>Highly Recommend!
+}
+
+{
+Valid: 1
+Index: 25
+Rating: 1
+Title: New low resolution connections breaks the app
+Review: 
+<>Please revert "Remote experience optimized for high resolution displays" which was added in v805.  I can no longer connect at the client's native resolution, which matches that of the host.
+<>This makes the usable area of the desktop much smaller, creating a negative experience.
+<>And when the Windows On-Screen Keyboard is opened I can only see a small sliver of the desktop, making the RD connection completely useless.
+<>If the desktop appears too small on the Android device due to a high resolution we can zoo.
+}
+
+{
+Valid: 1
+Index: 26
+Rating: 5
+Title: Amazing UI and Controls
+Review: 
+<>I love using this app.
+<>Microsoft got this app right to support us couch potatoes or business users/IT Tech who are off site.
+<>Heck, even on site.
+<>Anyways great app.
+}
+
+{
+Valid: 1
+Index: 27
+Rating: 1
+Title: Far from the easiest solution
+Review: 
+<>I'm not an expert with computers and networks but I can usually troubleshoot.
+<>This app seems like it's experts only.
+<>After 20 mins of tinkering I wasn't any closer to remotely controlling my desktop than I was when I started.
+<>Frankly am not familiar enough to even know where these usernames and passwords and ports can even be found.
+<>So instead I  downloaded teamviewer on both devices and was connected in literally 30 seconds.
+<>Maybe this is somehow better but forgive me for wanting the simplest solution.
+}
+
+{
+Valid: 1
+Index: 28
+Rating: 5
+Title: Made IT On-Site Work Better
+Review: 
+<>This app ultimately led to my work reimbursing me for my NVIDIA Shield Tablet...
+<>I was able to carry that with me wherever I go instead of my laptop and do local PC work while being on the server if necessary...
+<>its amazing how much bigger my doors in the IT world are because of this app combined with the SHIELD.
+}
+
+{
+Valid: 1
+Index: 29
+Rating: 4
+Title: WONDERFUL...
+Review: 
+<>Its a great app..
+<>I only have 1 problem.
+<>I cannot use touch navigation.
+<>I have a windows 7 pro computer.
+<>I can only use the pointer for navigation....
+<>not very efficient.
+<>Otherwise, its a great app.
+}
+
+{
+Valid: 1
+Index: 30
+Rating: 5
+Title: Please Microsoft...
+Review: 
+<>Give us a way to connect to mobile devices using stored credentials.
+<>Make this app like most of the Android RDP apps...allow us to "pair" devices, then easily connect without needing a host ip.
+}
+
+{
+Valid: 1
+Index: 31
+Rating: 2
+Title: Not working.
+Review: 
+<>I tried to establish a remote desktop connection to my pc with this app but initially is showed error  "connection failed".
+<>After few hours when I again tried, the app tried to connect but after a few seconds it showed error again and displayed message saying to check the pc for correct settings and and didn't established remote connection.
+}
+
+{
+Valid: 1
+Index: 32
+Rating: 1
+Title: blah
+Review: 
+<>NO type of help at all.
+<>If you do not know how to setup and run a RDP then this is not the app for you.
+<>The link for the faq is not helpful for new users at all.
+}
+
+{
+Valid: 1
+Index: 33
+Rating: 5
+Title: Scales well
+Review: 
+<>I was surprised at how well this app scales to smaller screen sizes.
+<>In addition it handles touch very well.
+<>On Windows 7 devices it also handles mouse movements using touch well.
+}
+
+{
+Valid: 1
+Index: 34
+Rating: 1
+Title: Usual Microsoft
+Review: 
+<>Yes, of course you need to have a Pro or Enterprise edition PC operating system.
+<>Microsoft still can't get their heads round making their software available for everyone.
+<>Ok, will go Google...
+}
+
+{
+Valid: 1
+Index: 35
+Rating: 4
+Title: Reasonable
+Review: 
+<>It works, but the zoom sometimes puts the active control slightly off center.
+<>So you have to press a button, say, a bit down and to the left of the control depending on the zoom.
+<>Only happens 1 out of 8 times tho.
+}
+
+{
+Valid: 1
+Index: 36
+Rating: 5
+Title: Very useful app!
+Review: 
+<>I downloaded this when we had a server issue with our VSA.
+<>I was unable to instruct a technician through the fix by phone, they didn't have proper access.
+<>I was able to log into our RDS and perform necessary steps to restart the VM while in Pier One.
+<>Very useful and after an hour of use, had barely made a dent in my battery!
+}
+
+{
+Valid: 1
+Index: 37
+Rating: 2
+Title: Bad mouse input
+Review: 
+<>Works great on my tablet but it hates my phone.
+<>Multi touch input is worthless due to my 3.5" 480p screen.
+<>Mouse input works, but when I lift my thumb the cursor jumps to where it was, making it no more useful other than the ability to zoom.
+<>I thought this only affected the beta version but it happens on the stable version too.
+}
+
+{
+Valid: 1
+Index: 38
+Rating: 4
+Title: 
+Review: 
+<>Is there a chance how to let the sounds work on the source computer?
+<>I'd like to use this app to control my radio player on my pc but it so far it turns off my speakers and goes to remote audio instead.
+<>Pc to pc rdp works fine, I can choose my sound output from the drop-down menu.
+<>Thx for answer.
+}
+
+{
+Valid: 1
+Index: 39
+Rating: 4
+Title: Great except the mouse keeps hopping
+Review: 
+<>I use this often, on my nexus 5 a lot of the time when I take my finger away from the screen the mouse pointer moves.
+<>I then have to realign and try again.
+}
+
+{
+Valid: 1
+Index: 40
+Rating: 5
+Title: Very good
+Review: 
+<>Good to see that Microsoft has started to produce quality software for platforms other than windows.
+<>This works like a treat.
+<>I use it to access my desktop from anywhere.
+<>A simple port forward on the router and tweak on its firewall and I can access it from anywhere I got internet.
+}
+
+{
+Valid: 1
+Index: 41
+Rating: 5
+Title: The best
+Review: 
+<>It is an incredible piece of work.
+<>Microsoft's integration onto all platforms with high quality software is getting me to use and enjoy Microsoft products again no matter what hardware or OS I am using.
+}
+
+{
+Valid: 1
+Index: 42
+Rating: 4
+Title: Does the job
+Review: 
+<>The touch screen doesn't work well but luckily there is mouse pointer mode which takes a little bit to get used to but is much better then touch.
+<>I would also like to be able to zoom in more.
+<>But all in all it is good.
+}
+
+{
+Valid: 1
+Index: 43
+Rating: 1
+Title: Problems exiting a Remote Desktop
+Review: 
+<>I'm having problems exiting a Remote Desktop.
+<>Backspace on the keyboard just opens help on the Remote Desktop.
+<>Only an App Force Close ends the RDP session.
+<>Please Help!
+}
+
+{
+Valid: 1
+Index: 44
+Rating: 3
+Title: Keyboard doesn't work right
+Review: 
+<>I've run into the same issue in the Roku app.
+<>What you type is apparently not what ends up in the password field because it keeps saying you've typed the wrong password, but if you type the same password elsewhere then paste it into the field, it works.
+<>Maybe just something hinky going on with the Galazy S III.
+<>Other than that, works great.
+}
+
+{
+Valid: 1
+Index: 45
+Rating: 2
+Title: No menu button for Galaxy Tab2 7.0
+Review: 
+<>I use a Galaxy Tab2 7.0 which does not have the menu button.
+<>Most programs show an alternate menu button so I can get to additional settings, but not MS Remote Desktop, so I can't configure in-session settings like using touch versus mouse.
+}
+
+{
+Valid: 1
+Index: 46
+Rating: 5
+Title: Incredibly Awesome!!!
+Review: 
+<>Very well thought out app.
+<>Provides the best possible experience for remote controlling a Windows 7 pc from an Android tablet.
+<>On Samsung Note, S-pen is supported.
+<>App allows touch or "mouse" navigation.
+<>It's not necessary to drag a mouse pointer around the screen unless you want to.
+<>Tried to explain its awesomeness to my wife.
+<>Her eyes glazed over.
+<>But if you use RDP, you'll feel like you have to tell someone, too.
+}
+
+{
+Valid: 1
+Index: 47
+Rating: 1
+Title: It is great.  Excellent except..
+Review: 
+<>Ok.
+<>Microsoft did the same thing they always do.
+<>Make a great application that has almost all the features you need, except for a super critical one.
+<>The worse part,  they have this missing feature on IOS.
+<>Which I wouldnt touch with a 10ft pole.
+<>The missing feature???
+<>Scaling...
+<>That simple,  Scaling support and resolution settings.
+}
+
+{
+Valid: 1
+Index: 48
+Rating: 5
+Title: So Far, so good.
+Review: 
+<>Followed the directions from the help menu.
+<>Took a few minutes, it works fine.
+<>I don't use it to stream videos or audio (not even sure that's a feature), I just use it to 'remote control' my PC.
+}
+
+{
+Valid: 1
+Index: 49
+Rating: 2
+Title: No mouse pointer
+Review: 
+<>The finger tap mode is only barely usable, because one cannot zoom in far enough to be sure to hit the right spot and not the one next to it, which can be dangerous.
+<>The mouse pointer mode would solve this problem, if only it worked.
+<>My mouse pointer is apparently there, but it is invisible.
+<>Thus both modes are either misdesigned or defective.
+}
+
+{
+Valid: 1
+Index: 50
+Rating: 1
+Title: Was good
+Review: 
+<>Worked perfectly on my Moto x.
+<>Now on my Droid turbo it's a completely different program.
+<>Can't disconnect, won't type consistently and the pointer won't change styles.
+<>Disappointing it was a staple now I'm left to find something else.
+}
+
+{
+Valid: 1
+Index: 51
+Rating: 5
+Title: Very Good
+Review: 
+<>Works really well from my Nexus 10.  Switching from mouse to touch mode could be made easier, but overall a really well sorted and useful App.
+<>Update - 5 Dec 2014. Sadly, since I installed Lollipop this App no longer works, hopefully someone is working on a fix?
+}
+
+{
+Valid: 1
+Index: 52
+Rating: 4
+Title: Great replacement for PocketCloud
+Review: 
+<>Just switched to this from PocketCloud RDP, which DELL in its wisdom has decided to withdraw completely instead of release to community.
+<>Great touch interface!
+<>Only suggestions (for improve on small screens): 1) Allow pinch-zoom-pan mode (a la PocketCloud) when zoomed in, instead of the fiddly scroll widget that appears.
+<>2) Allow customise screen res - at moment forces use the desktop's native resolution.
+}
+
+{
+Valid: 1
+Index: 53
+Rating: 2
+Title: What's wrong?
+Review: 
+<>It connects fast and easy and I see my desktop clearly but the touch screen does not work I cannot click anything.
+<>Nexus 7 2013 with windows 8 remote desktop.
+}
+
+{
+Valid: 1
+Index: 54
+Rating: 4
+Title: Awesome app but require minor improvement.
+Review: 
+<>This is an awesome app.could be perfect if you guys could add an option to arrange the remote desktop resolution.
+<>eg I access my remote pc on my Galaxy Note Pro 12.2 having resolution 2560 x 1600.At This resolution The icons &amp; Text on remote desktop appear very tiny.
+<>Though a zoom option is there but That shows only part of whole screen and one has To continuously scroll.
+<>Please add something like changing resolution or one-click size increase of Text &amp; icons.
+<>That would be 5 stars Then.
+}
+
+{
+Valid: 1
+Index: 55
+Rating: 5
+Title: Works as advertised
+Review: 
+<>Fast connection on enter fast disconnection on exit, nice response from app, a fast zoom and click feature would be nice and a zoom to choose feature as google chrome for android does...when 2 or more buttons are really close the app zooms by itself fast to let you click easier but its ok we zoom manually.
+}
+
+{
+Valid: 1
+Index: 56
+Rating: 3
+Title: Great app. But I want more
+Review: 
+<>Well ,now I'm using my PC with my TV so I want a app.
+<>that make my phone become a remote ,but this app.
+<>will log out my account in my PC, so ~can I just make my phone or surface just like a input device via some app.?
+}
+
+{
+Valid: 1
+Index: 57
+Rating: 4
+Title: 
+Review: 
+<>This app and RDP itself is amazing.
+<>On the Note III?
+<>Phenomenal.
+<>I get to use my S Pen on Windows!
+<>The cursor follows my pen as I hover on-screen!
+<>Exactly what I need but a way to choose the display resolution would be appreciated.
+}
+
+{
+Valid: 1
+Index: 58
+Rating: 2
+Title: Works good
+Review: 
+<>Works good, but cant select resolution what is really annoying in fact.
+<>Resolution is bigger than my tablet and in result i get fuzzy text and lower performance.
+}
+
+{
+Valid: 1
+Index: 59
+Rating: 5
+Title: If u know your Microsoft log in
+Review: 
+<>Unbelievable!
+<>I loved right on to my desktop.
+<>Put my desktop right on my note and used my pen as a touchscreen.
+<>I wish you could move around a bit more but I'm truly blown away.
+<>Not even sure how I'll use it but very cool Microsoft app.
+}
+
+{
+Valid: 1
+Index: 60
+Rating: 1
+Title: Does not work with RD Gateway
+Review: 
+<>Will not connect via Server 2012 R2 RD Gateway...
+<>useless app unless you want to open up ports on your firewall to every computer on your network.
+<>Known issue by Micrsoft...
+}
+

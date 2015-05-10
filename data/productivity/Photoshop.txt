@@ -1,0 +1,691 @@
+{
+Valid: 1
+Index: 1
+Rating: 1
+Title: Purchased features no longer available
+Review: 
+<>I bought one of their packs to get access to advanced features and for the past few days the lock symbol was back on these features.
+<>It allowed me to use them for a bit but now I can't use defog and reduce noise.
+}
+
+{
+Valid: 1
+Index: 2
+Rating: 4
+Title: good. all the features are not free
+Review: 
+<>its good.
+<>unlike photoshop in pc, it works fast.
+<>but, all the features should be provided for free.
+<>while other editing apps are availble with every features available free, everyone goes for it.
+}
+
+{
+Valid: 1
+Index: 3
+Rating: 1
+Title: Yep
+Review: 
+<>Just gets the job done.
+<>**UPDATE** Used to handle raw images just fine, now it crashes at least 5 times per edit.
+<>I'm not sure what changed, but fixing it will get your rating back.
+<>I've been using Snapseed as a great alternative until this is fixed.
+}
+
+{
+Valid: 1
+Index: 4
+Rating: 3
+Title: 
+Review: 
+<>For some reason I'll be halfway through editing a picture and the app crashes.
+<>I realize its a big file but i have more then enough space on my phone for that.
+}
+
+{
+Valid: 1
+Index: 5
+Rating: 3
+Title: It's okay but need more tools.
+Review: 
+<>I have used the application.
+<>This application just given me only basic tools.
+<>Please improve this app by adding more tools such as brush, color replacement.
+}
+
+{
+Valid: 1
+Index: 6
+Rating: 5
+Title: Love!
+Review: 
+<>Was looking for a similar photo editor to the one in my previous phone- the LG G2. Since switching to Note 4, I was a little disappointed at the given photo editor.
+<>This app seems to be the closest thing!
+}
+
+{
+Valid: 1
+Index: 7
+Rating: 3
+Title: 
+Review: 
+<>Altering dogs eyes doesn't work Tapping on complexion doesn't work and inserts another part of the pic in the spot you're trying to correct!
+<>Crashes also.
+<>It needs a lot of improvement.
+}
+
+{
+Valid: 1
+Index: 8
+Rating: 1
+Title: You stole my money?
+Review: 
+<>I've had this app on both my iPhone and my new phone.
+<>When I got my new phone I paid for all the extra filters and reduce noise and all that.
+<>Two separate payments.
+<>One for the filters.
+<>The other for the extra touch up stuff.
+<>Used it yesterday no problems, go to use it today and now suddenly I have to repay for it all?
+<>I'm not very happy about this.
+}
+
+{
+Valid: 1
+Index: 9
+Rating: 4
+Title: Good Editing App
+Review: 
+<>I've been using this app for a while now and I like it.
+<>It seems like there are limitations, but there are filters in this app that I don't have in another that I like to use.
+}
+
+{
+Valid: 1
+Index: 10
+Rating: 4
+Title: Really good app but...
+Review: 
+<>Some of the extras you have to pay (ok i got it) but the problem that you have to be online to actually use them and sometimes i need it in areas where I dont have signal.
+}
+
+{
+Valid: 1
+Index: 11
+Rating: 5
+Title: Everything in 1
+Review: 
+<>I have been using this app for a few months now.
+<>And I still love it.
+<>To get the results you get from this app you'd have to use at least 2 others.
+<>So why not use this one instead?
+}
+
+{
+Valid: 1
+Index: 12
+Rating: 5
+Title: Works awesome
+Review: 
+<>It's free and easy to use.
+<>It's not "pro" but I love it.
+<>I love using Adobe products and this is an amazing free app.
+<>Sometimes if you are editing a picture extensively,  it'll stop working,  but all things considered,  not a huge deal.
+}
+
+{
+Valid: 1
+Index: 13
+Rating: 4
+Title: Great but can be greater!
+Review: 
+<>Simple choices to touch up or fix your photos.
+<>There is a good array of options to enhance and design.
+<>It's one of the best apps out there but it can get better.
+<>Some people are stating that it has issues, but it works just fine on my Nexus 7 2nd edition w/Lollipop.
+}
+
+{
+Valid: 1
+Index: 14
+Rating: 1
+Title: What happened to this app
+Review: 
+<>Its gone from being great, to producing grainy pictures after editing and now they won't store even though it says its been saved.
+<>Will no longer be saved into any album at all.
+<>Highly disappointed &amp; may as well delete the app.
+}
+
+{
+Valid: 1
+Index: 15
+Rating: 4
+Title: It is ok
+Review: 
+<>Jus can't really do anything except for one pic at a time                                                         plz make it so u can copy a piece of a pic and paste it on to another.
+}
+
+{
+Valid: 1
+Index: 16
+Rating: 3
+Title: Best Editor App Except...
+Review: 
+<>I use photoshop express exclusively to edit my photos however on my most recent purchase,  Samsung Note Pro 12.2 running Kit Kat 32 gb, it keeps unexpectedly quitting...
+<>A lot.
+<>Very frustrating.
+<>If the app could stay open I would give it a perfect rating.
+}
+
+{
+Valid: 1
+Index: 17
+Rating: 5
+Title: My favorite.
+Review: 
+<>I absolutely love taking pictures.
+<>This app has the most  editing choices, and probably the best.
+<>Every time I try something new, I always prefer this app.
+<>I've possibly edited 7,xxx photos on this.
+<>#photonerd #lol #bestfotoeditor.
+}
+
+{
+Valid: 1
+Index: 18
+Rating: 3
+Title: In App Purchases will nickle and dime you.
+Review: 
+<>Once you buy/unlock all the features, and if you have a solid BB connection,retty useful.
+<>However, the app keeps telling me I have to purchase this or that feature (which I've bought 2 expansion packs for $5 and then $3).
+<>Should be free to those of us who paid for Photoshop &amp; Lightroom CC.
+<>Also, it crashes a lot (4 times:  2 on my Note 10.2 and 2 on Note 4)...
+}
+
+{
+Valid: 1
+Index: 19
+Rating: 1
+Title: Can't find the saved pictures
+Review: 
+<>Has all the editing features I need but doesn't do me any good if I can find the saved edited pictures.
+<>They don't seen to reside on the phone.
+<>I don't use the cloud and just want the edited pictures to show in the gallery so I can download them to the computer or show them to friends on the phone.
+<>I believe this app is just a gimmick to promote use of the Adobe Cloud.
+}
+
+{
+Valid: 1
+Index: 20
+Rating: 4
+Title: Great app.
+Review: 
+<>I do like using this.
+<>It is high quality photo editing.
+<>Only 4 stars though  because it could use some updates, as other apps have a greater selection of corrections.
+<>The red eye tool is fairly useless.
+<>And the app always crashes.
+<>The individual editing tools though are quite awesome.
+}
+
+{
+Valid: 1
+Index: 21
+Rating: 5
+Title: Love this free app!!!
+Review: 
+<>So handy to have for touch ups to those immediate fb uploads.
+<>So many different filters so you don't need to use the Instagram ones.
+<>Subtle edits and easy to use!!
+<>Love this app!!!!
+}
+
+{
+Valid: 1
+Index: 22
+Rating: 5
+Title: 
+Review: 
+<>This is literally the best mobile editor I have ever used its not designed strictly for putting colorful text in a picture for instagram or other forms of social media.
+<>This is a good legitimate editor for professional photography on the go.
+}
+
+{
+Valid: 1
+Index: 23
+Rating: 1
+Title: So not worth it
+Review: 
+<>This app is not worthy of being called Photoshop.
+<>I can use similar apps and get more out of them.
+<>This is nothing like the Photoshop im used to.
+<>You cannot freely crop by hand like the computer allows u too it is all pre constrained.
+<>Its a terrible app.
+<>I'm sorry but it just doesn't live up to what im used to with adobe.
+}
+
+{
+Valid: 1
+Index: 24
+Rating: 1
+Title: Works better on ios
+Review: 
+<>doesn't seem to work properly and crashes all the time.
+<>The worst thing is that every time it updates it makes me suffer the tutorial pop ups all the time as if it was the first time i have used it and don't know how to use it.
+<>Well, i've been using it for 3 years and i'm sick and tired of your stupid pop ups, the tools disappear quite often in the middle of an edit and you have to switch it off and back on to get them back it's great in ios but this application doesn't really work properly on android.
+}
+
+{
+Valid: 1
+Index: 25
+Rating: 5
+Title: Amazing App
+Review: 
+<>Reducing Noise and Fog from photos original set is perfect than buying the $40 software for computers.
+<>Adobe is always making products like this perfect for the photographer.
+<>I recommend Adobe!
+}
+
+{
+Valid: 1
+Index: 26
+Rating: 5
+Title: Love this app
+Review: 
+<>Works great for me taking old family photos you could barely see and enhance them.
+<>The fact that it's free is icing on the cake.
+<>I have no trouble saving my photos!
+<>Thank you.
+}
+
+{
+Valid: 1
+Index: 27
+Rating: 3
+Title: Can't find 'raw' files (.NEF's)
+Review: 
+<>Just another app for applying presets to a jpeg.
+<>I was under the impression from the description that it could read raw files.
+<>It opens the 'Gallery' on my Android tablet which only displays jpeg files.
+}
+
+{
+Valid: 1
+Index: 28
+Rating: 5
+Title: WOW
+Review: 
+<>Simply put, the best app I've ever purchased.
+<>I use Photoshop for work so I expected to feel like the app was a bit useless but it is very robust and has improved my mobile photos by a shocking amount.
+<>It's addicting!!!!
+}
+
+{
+Valid: 1
+Index: 29
+Rating: 3
+Title: Needs some bugs worked out
+Review: 
+<>This is a great editing app, but crashes so much.
+<>I'll get a photo just the way I want it and then the app will crash before I get a chance to save it.
+<>PLEASE fix this issue.
+<>Otherwise, it's the best photo editing app out there.
+}
+
+{
+Valid: 1
+Index: 30
+Rating: 5
+Title: Great Pictures!!!!
+Review: 
+<>I went to the Philadelphia zoo and my pictures turned out fantastic.
+<>I actually made a book with over 100 pictures.
+<>I also love the fireworks on the 4th of July and I really had fun with those pics too.
+<>Enjoy this app!!!!
+}
+
+{
+Valid: 1
+Index: 31
+Rating: 4
+Title: Great except for the crashing
+Review: 
+<>I use this a lot, I love this app!
+<>I am a photography enthusiast and this has some nice features for the more advanced but also very basic in its ease of use and functionality.
+<>The only problem is, it crashes almost every time I use it.
+<>Also the picture's display has a lag while adjusting levels.
+}
+
+{
+Valid: 1
+Index: 32
+Rating: 3
+Title: Great start
+Review: 
+<>Seems there are quite a few limitations on what you are able to do,  even if you have an Adobe account and have the full photoshop CC version subscription.
+<>Would be great to have a way (on android devices) of having more to play with without forking out more for your mobile editing than what you do for a full fat version of photoshop on a PC??
+}
+
+{
+Valid: 1
+Index: 33
+Rating: 3
+Title: A good app
+Review: 
+<>Working with RAW files are processor intense, but it's bad when it crashes just working .jpg  files.
+<>Nothing worse then getting the photo just as you wanted and after a crash, not be able to duplicate it.
+}
+
+{
+Valid: 1
+Index: 34
+Rating: 5
+Title: This App Is Pretty Good!
+Review: 
+<>I mainly use it to crop photos, but the other free editing options are really nice too.
+<>I recommend it to anyone who wants a simple picture editing app.
+}
+
+{
+Valid: 1
+Index: 35
+Rating: 1
+Title: App keeps restarting
+Review: 
+<>Great app except for...
+<>If I am editing a picture for longer than 5 minutes the screen goes white and the app restarts to it home page.
+<>I loose any work on the photo.
+<>Why is this?
+<>I have a Google Nexus 9 tablet with the latest version of Android.
+}
+
+{
+Valid: 1
+Index: 36
+Rating: 3
+Title: Sort of a let down
+Review: 
+<>I was hoping for a photo editor that would actually do something different.
+<>But it was the same old same old.
+<>I know there must be good photo editor apps out there for android .
+<>I just haven't found them yet.
+}
+
+{
+Valid: 1
+Index: 37
+Rating: 1
+Title: Keeps crashing
+Review: 
+<>This app is great!!!
+<>But keeps crashing while I'm editing my pics and get them back.
+<>I uninstalled it and just reinstalled it right now.
+<>I hope this fixes it...
+<>After installing and reinstalling this app I rate it a 0 it just kept crashing and crashing.
+<>The need to fix this.
+<>I have a Note 4. Someone please fix this Asap....
+}
+
+{
+Valid: 1
+Index: 38
+Rating: 5
+Title: Perfect App
+Review: 
+<>I love it.The pictures look and feel like they are done professional.I like all the filters even the black n white are awesome.I am glad I downloaded this app.It's been over 6months I've been using it and I  I'm glad I did.Great n fun app.
+}
+
+{
+Valid: 1
+Index: 39
+Rating: 2
+Title: 
+Review: 
+<>Purchased the app $6 and some change later only to discover that it only unlocked the defog.
+<>It states purchase unlocked all but it didn't.
+<>Don't recommend.
+}
+
+{
+Valid: 1
+Index: 40
+Rating: 5
+Title: Best colour editing tool possible by a simple app
+Review: 
+<>Includes most colour editing features in the simples and the most convenience way.
+<>There are no advance functions such as channel mixer or selective colour but produces the most desired effect on the image by indirectly use of those features.
+}
+
+{
+Valid: 1
+Index: 41
+Rating: 5
+Title: Multi-tools = perfect edit
+Review: 
+<>Absolutely in love with the editing tools!
+<>The filters might not be as nice as vsco, and the loading takes time, but the outcome/effect is definitely worth the few seconds drag wait!
+<>:-).
+}
+
+{
+Valid: 1
+Index: 42
+Rating: 5
+Title: 
+Review: 
+<>It's an excellent photo editing application can say, every body must satisfy with this usd and friendly application, thank you and hope more from you.
+}
+
+{
+Valid: 1
+Index: 43
+Rating: 1
+Title: Images not stored on device.
+Review: 
+<>After the debacle when Adobe Servers were hacked and credit/debit card numbers and email and home addreses were stolen; Adobe's way of dealing with it was to say 'tough, we are not compensating our customers and if they dont like it we will be happy to disable their accounts.
+<>Which they did for the vast majority.
+<>I would rather uninstall this pile of shat then have them ever store anything else of mine on adobe servers.
+<>Please adobe, go bankrupt quickly and never return.
+}
+
+{
+Valid: 1
+Index: 44
+Rating: 2
+Title: This is NOT photoshop
+Review: 
+<>As others have pointed out this is more a gimmick to push ppl into their cloud service.
+<>I'm a photographer and I'm dreading the day I have to pay there monthly service and then have to have a constant internet connection.
+<>Back to the app.
+<>Even if I just open the file and quit, only way I know to save, the picture looks like the resolution was lowered.
+<>In others like the days of 640k cameras.nit 50 mega pixel Canon's.
+<>Poor software implementation  riding on the coat tails of Photoshop.
+}
+
+{
+Valid: 1
+Index: 45
+Rating: 4
+Title: Love this program.
+Review: 
+<>I have used this app repeatedly with excellent results.
+<>However, I bought the premium features, used them once and have not been able to access them since.
+<>Would love to see a zoom or decrease size feature!
+}
+
+{
+Valid: 1
+Index: 46
+Rating: 4
+Title: Nice app
+Review: 
+<>Some features  given as same as desktop mode which is easy to edit handy.The full version gets max all the options of destop n many  super good look options for easy editings...
+}
+
+{
+Valid: 1
+Index: 47
+Rating: 2
+Title: Schnell bitte ..
+Review: 
+<>Disappointingly lags, behaves like an insufficient RAM HP 486 desktop running DOS 3.2. I am Sticking with Aviary.
+<>Every bloody effect lags like its server-dependent.
+<>Running Note3 with a 30gig card, and still no umph.
+<>Yes - great effects, UI appeals but otherwise if you're impatient like me, stick with Aviary.
+}
+
+{
+Valid: 1
+Index: 48
+Rating: 5
+Title: Amazing!
+Review: 
+<>I downloaded this app recently and its hilarious in the greatest of ways!
+<>Plz keep it up, and don't give in, although it is quit confusing but in general I like it :).
+}
+
+{
+Valid: 1
+Index: 49
+Rating: 5
+Title: Great great app!!!
+Review: 
+<>Just have nothing but praise for this little app.
+<>Fantastic processing futures as for mobile phone.
+<>I am  using CS6 on desktop but processing images quickly on the go after taking them on my HTC One M8 makes a world of difference.
+<>Great app,  highly recommended.
+}
+
+{
+Valid: 1
+Index: 50
+Rating: 3
+Title: I have a problem with the blemish remover
+Review: 
+<>I have to tap way more than 2 times for the tool to work.
+<>Sometimes I have to press it really hard or the tool doesn't work at all.
+<>Why won't it work?
+}
+
+{
+Valid: 1
+Index: 51
+Rating: 4
+Title: Great app, waiting for more features
+Review: 
+<>Great editor for free, and on a phone.
+<>Everything works pretty smooth, and I can even make custom filters.
+<>It works pretty great, especially taking pictures of my car.
+<>I have one for sunny days, cloudy ones etc.
+<>I would love to see the ability to make everything B&amp;W and have one color popping out.
+<>Not sure of the name for it.
+<>Great app, if you want a free photo editor this is the one to get.
+}
+
+{
+Valid: 1
+Index: 52
+Rating: 5
+Title: Love at first sight!
+Review: 
+<>Best editor ever...!
+<>Love at first sight is true...
+<>Oh #PS...
+<>Thank you soomuch for these app.
+<>Now I won't be shy showing my old pix.turned to a pro shot.
+<>#TwoThumbsUp.
+}
+
+{
+Valid: 1
+Index: 53
+Rating: 4
+Title: Sudden Crash of the app has to be checked.
+Review: 
+<>Pretty good app for post processing which doesn't change image's nature a lot.
+<>But getting error as not responding and automatically coming out of the app is annoying.
+<>If thats fixed its a 5star App.
+}
+
+{
+Valid: 1
+Index: 54
+Rating: 5
+Title: Nice,  but ALMOST NO PHOTOSHOP FEATURES.
+Review: 
+<>Needs a LOT more features for todays 5inch phones.
+<>Come on Adobe!
+<>Still fun to use, but a bit simple.
+<>Even kids would say, "where are the features?!".
+}
+
+{
+Valid: 1
+Index: 55
+Rating: 3
+Title: It's ok
+Review: 
+<>I like this app however I purchased the upgrade and it "unlocked" the filters.
+<>But now they're all "locked" again.
+<>. so boo to getting scamed for sure.
+}
+
+{
+Valid: 1
+Index: 56
+Rating: 5
+Title: Photoshop addict
+Review: 
+<>It's wonderful for editing videos and picture's as well as a number of other things.
+<>I  pay for the Photoshop extra but it's so worth it you get tons of features that no other editor software has Photoshop is one of the best software's out in my mind.
+}
+
+{
+Valid: 1
+Index: 57
+Rating: 1
+Title: Photographet
+Review: 
+<>Utter garbage.
+<>Can't even crop an image correctly.
+<>You select the crop area.
+<>It crops the image and shows you the crop.
+<>You save it and what is saved is about 20% of the actual cropped area.
+<>Useless.
+}
+
+{
+Valid: 1
+Index: 58
+Rating: 5
+Title: "Phone-o-shop"
+Review: 
+<>Just because it's a cell phone picture doesn't mean it has to look like it!
+<>Straighten horizons, custom crops, filters for people who don't want to make the adjustments themselves, and plenty of options for those who do.
+<>Saves all edited photos in a separate folder so you don't have to search through your camera roll to find that last edit to share.
+<>I wish more people took the minute and a half it takes to make their pictures into photographs....
+<>Plus it's FREEEEEEEEE!
+<>Can't beat that!
+}
+
+{
+Valid: 1
+Index: 59
+Rating: 5
+Title: The Best EVER
+Review: 
+<>Being able to savè  simply duting the editing process is very convenient and not to mention customizig ur on edit choices for later use.
+<>All other editing apps are now uninstalled...thank for making photo editing so much more fun, easy to learn and f@#*ing amazing!!!
+}
+
+{
+Valid: 1
+Index: 60
+Rating: 5
+Title: This app is truly thr best.
+Review: 
+<>The only possible way this app received a low rating is if the person reviewing it didn't give photoshop any real time of their day to get the hang of it.
+<>I haven't completly mastered this app but the more I learn about it the more I fall in love with it.
+<>I have tried several different photo editing apps and this, by far is my absolute favorite and one of the more professional of its kind.
+<>Thank you Adobe!
+}
+

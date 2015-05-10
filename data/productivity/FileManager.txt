@@ -1,0 +1,694 @@
+{
+Valid: 1
+Index: 1
+Rating: 5
+Title: Great!
+Review: 
+<>Icons could be a bit more stylish.
+<>But other than that it's a great app!
+<>Love it!
+<>I've seen some other apps that can check out network folders on WIFI as well.
+<>Would be a great feature to be added!
+}
+
+{
+Valid: 1
+Index: 2
+Rating: 3
+Title: Ok
+Review: 
+<>Like most file managers I've tried there's something missing.
+<>I'd really like to be able to select multiple files faster.
+<>A "select all" option coupled with what QuickPic has; long-press one file and long press another will select every file between the two.
+<>I don't want to just look at my files--i want to interact with them.
+}
+
+{
+Valid: 1
+Index: 3
+Rating: 5
+Title: Works very well with my Gmail
+Review: 
+<>With it installed, I can attach any files stored in my phone or SD card or USB thumb drive when using Gmail.
+<>When you press 'add photo' or 'add video' in attachment function of Gmail, you can easily select OI file manager for your file.
+<>Tried others but only this one work with Gmail.
+<>It basically turned my phone to a real mobile computer for my own work.
+<>Thank you!
+}
+
+{
+Valid: 1
+Index: 4
+Rating: 5
+Title: Great and Simple ...
+Review: 
+<>Simple but moderate interface and great features like compression exclude from media scan etc.
+<>And best part.....
+<>its free....!!!
+<>Recommend it to everyone....
+}
+
+{
+Valid: 1
+Index: 5
+Rating: 5
+Title: My everyday app
+Review: 
+<>There is one problem I'd like to report.
+<>When I cut a file, a very big field appears telling "1 item to move".
+<>If the screen is horisontal, it is just impossible to scroll, this field obstructs almost everything!
+<>I solve this by turning the screen vertical.
+}
+
+{
+Valid: 1
+Index: 6
+Rating: 4
+Title: Simple and works
+Review: 
+<>I have been using this application over 2 years now and I really like its simplicity and clean interface.
+<>However, with the next update all file icons have disappeared.
+<>Please fix it and I would give 5 stars.
+}
+
+{
+Valid: 1
+Index: 7
+Rating: 1
+Title: Plz fix
+Review: 
+<>I am using this file manager since 3 yrs now.
+<>Bt after this update, thumbnails of PDF, apk etc files are not loading.
+<>Only thumbnails of pics are loading.
+<>Plz fix this...
+}
+
+{
+Valid: 1
+Index: 8
+Rating: 3
+Title: Doesn't work with external SD on KitKat
+Review: 
+<>From its description about writing to external cards, and it's notes about KitKat fixes, I'd hoped it really would write to external SD cards, but alas...
+<>It's another Google "security" vicitim.
+}
+
+{
+Valid: 1
+Index: 9
+Rating: 5
+Title: Great App.
+Review: 
+<>This app does exactly as promised.
+<>It even recovered photos I thought were gone due to my phone automatically deleted when it unexpectedly crashed.
+<>When I checked the picture folders in this app I was surprised to find all photos were there.
+<>To the Dev team Awesome work!
+<>Please add a device memory compression feature.
+<>It's been 5 mos since the last update was released.
+<>**Is this app still supported??**.
+}
+
+{
+Valid: 1
+Index: 10
+Rating: 5
+Title: Nexus 7
+Review: 
+<>Great app u can do so much with this app but u have to know how to work It cuz if u hit the wrong button u can erase important files and destroy ur fon or tablet.
+}
+
+{
+Valid: 1
+Index: 11
+Rating: 5
+Title: Folder location finder
+Review: 
+<>Should come standard for devices.
+<>Works well in 4.4.2 locating directory and folder rather than typing location to save etc.
+<>Recommended by Strykers Lounge Aus [FB].
+}
+
+{
+Valid: 1
+Index: 12
+Rating: 4
+Title: My Favorite File Manager Ever!
+Review: 
+<>A bit buggy running on my trablet with android 4.4.2 Graphic issues while selecting multiple files to copy paste.
+<>Bluetooth sending not working from couple updates back.
+}
+
+{
+Valid: 1
+Index: 13
+Rating: 5
+Title: Decent File Browser.
+Review: 
+<>Don't remember downloading this so it must have piggy-backed or it's OS shovelware.
+<>Ad free and works fine.
+<>Previous objection to bright background colour has vapourised so what's not to like?
+}
+
+{
+Valid: 1
+Index: 14
+Rating: 5
+Title: Needs black theme
+Review: 
+<>When I saw the screenshots the first thing I thought was, "hopefully there is a dark or black theme that goes with my Galaxy Nexus" updated the app &amp; I immediately went to settings to find no such option.
+<>:(.
+}
+
+{
+Valid: 1
+Index: 15
+Rating: 5
+Title: Best
+Review: 
+<>I am using it since 2011, it is one of best file managers for Android with minimalistic UI intended for power users that can understand Linux directory structure.
+}
+
+{
+Valid: 1
+Index: 16
+Rating: 4
+Title: Some bugs
+Review: 
+<>Works OK, but there's no rescan button (nor taping the actual folder works) and the back button doesn't work always correctly (to go up), sometimes it closes the whole application instead.
+}
+
+{
+Valid: 1
+Index: 17
+Rating: 5
+Title: Simple and Sweet
+Review: 
+<>Nice!
+<>And the permissions are minimal.
+<>What's with the handicap of not being able to sort by extension though?
+<>Ah well, back to File Manager.
+<>I'll be watching though.
+}
+
+{
+Valid: 1
+Index: 18
+Rating: 4
+Title: Cut and paste
+Review: 
+<>Hope dev can make the ability to cut a file from internal memory and then paste in external memory.
+<>When I need to move a file from internal to external,I have to copy it from internal then paste on external.
+<>Then delete the file on internal.
+<>Please make the ability to move a file from internal to external and vice versa.
+<>Thanks.
+}
+
+{
+Valid: 1
+Index: 19
+Rating: 2
+Title: Five star app though troubles with UI on tablets
+Review: 
+<>Previous version was definitely a 5 star app, since the last update the list of files has weird horizontal margin from left and right display border..
+<>thus seems as not optimized for tablets anymore.
+<>Issue still remain..
+}
+
+{
+Valid: 1
+Index: 20
+Rating: 5
+Title: Finally a File Manager Without Network Access Needs
+Review: 
+<>The developers must think we're crazy to give a simple file manager network access.
+<>Well I guess it's to download ads that are generally obnoxious.
+<>This file manager doesn't need this.
+<>Yay!
+<>They get my download and full support.
+<>The ads steal your personal info, slow the machine down and give you generally annoying content.
+<>This file manager is fast and easy and doesn't need network or internet access and doesn't download crappy ads..
+<>I give it an A+.
+}
+
+{
+Valid: 1
+Index: 21
+Rating: 4
+Title: Easy to use, few permissions. Please fix Rename.
+Review: 
+<>Allows me to do all file management, (including on external SD card), with small footprint and minimal permissions, except Rename crashes the app every time it's attempted.
+<>Sometimes has graphic issues after long press.
+<>Not at all landscape friendly.
+<>Please fix Rename!
+}
+
+{
+Valid: 1
+Index: 22
+Rating: 5
+Title: Simple, effective.
+Review: 
+<>I appreciate the fact that there are no ads to get in the way, the straightforward appearance with no unneeded UI to clutter things up and it's simplicity and minimalist design.
+}
+
+{
+Valid: 1
+Index: 23
+Rating: 3
+Title: Tablet optimization needed!
+Review: 
+<>it's the best android file explorer, imho.
+<>does what it says in the tin, but, please consider making an update wich can be optimized for tablets also.
+<>it doesn't fill the screen, and folder icons are rather small.
+<>3 estars until optimization ;).
+}
+
+{
+Valid: 1
+Index: 24
+Rating: 5
+Title: Translation.
+Review: 
+<>Hi, thanks for great app  I've translated your app to Azerbaijani in launchpad and waiting for new version with it ;)   You've updated to 2.0.5 and still doesn't exist my translations, I'm waiting for almost ~3 weeks and still nothing.
+<>Please include it.
+}
+
+{
+Valid: 1
+Index: 25
+Rating: 5
+Title: A nice, little, lightweight file manager.
+Review: 
+<>The app has a simple 'no-frills' design, and is ad-free, permission-lite and open source.
+<>It's designed for smartphones, though it might also be good on a phablet.
+<>Unsurprisingly, it would be rather basic for tablet use, unless you're the kind of user that prefers their apps spartan and minimalistic.
+<>Definitely worth taking for a spin.
+}
+
+{
+Valid: 1
+Index: 26
+Rating: 2
+Title: Was good, useless now
+Review: 
+<>It was a great file manager, easy to navigate,  simple to use.
+<>Now it doesnt seem to work.
+<>I can view my files, but I cant move, copy or delete them without using my computer.
+<>Please fix it, and add a search bar please!
+}
+
+{
+Valid: 1
+Index: 27
+Rating: 1
+Title: WARNINGS APPEAR
+Review: 
+<>I loaded this app on a brand new Smartphone.
+<>Two warning messages appeared: "The internal memory is full" and "Warning.
+<>Virus" Don't "buy" this free app.
+<>It comes with a warning about buying programs to fix the problems it probably brought in as a trojan horse virus.
+}
+
+{
+Valid: 1
+Index: 28
+Rating: 5
+Title: Thank you
+Review: 
+<>Best app ever I copied my SD card data to my tablet so now I don't have to be taking off my chip and putting in my tablet I copied it so now I'm good thanks.
+}
+
+{
+Valid: 1
+Index: 29
+Rating: 3
+Title: 
+Review: 
+<>In older version it can copy and paste downloaded data to ext sd card in later version can't .
+<>Please fix it.
+<>It only work in samsung galaxy note 8 but not in my galaxy note 2. Please fix it.
+}
+
+{
+Valid: 1
+Index: 30
+Rating: 5
+Title: Fast
+Review: 
+<>It's a file manager, it doesn't try to wash your dishes, clean the house, do your homework or anything, it's just a file manager, I just need a file manager!
+<>:p.
+}
+
+{
+Valid: 1
+Index: 31
+Rating: 3
+Title: Good, but....
+Review: 
+<>The program recognizes the internal SD card and shows it with the SD card icon, BUT the real SD card is shown as a folder instead of using the SD card icon.
+<>Also, there is no exit button!
+<>PLEASE add an Exit button to the menu, there's plenty of space and IT IS REQUIRED to close the app and reduce battery usage.
+<>Most apps are not adding the Exit button.
+}
+
+{
+Valid: 1
+Index: 32
+Rating: 1
+Title: DO NOT DOWNLOAD
+Review: 
+<>Renamed my movies and it changed all their file types.
+<>Now ALL MY MOVIES ARE USELESS!!
+<>Dont ever even consider downloading.
+<>Devs need to get theirnshit together.
+}
+
+{
+Valid: 1
+Index: 33
+Rating: 5
+Title: Love it.
+Review: 
+<>Although I use ES File Explorer most of the time, it doesn't allow me to make changes and edit files on the external memory card.
+<>This app allows me to do it so it's awesome!
+}
+
+{
+Valid: 1
+Index: 34
+Rating: 4
+Title: Simply Yes
+Review: 
+<>I use this app for a long time.
+<>Everything was ok, but sometimes when  view list of apk files, it seems to be slow to show up the icon.
+<>~Great App by the way.
+<>:).
+}
+
+{
+Valid: 1
+Index: 35
+Rating: 5
+Title: Excellent App
+Review: 
+<>Out of all my 350+ apps, this one is my very favorite by far.
+<>I have tons of beautiful wallpapers from many sources downloaded.
+<>With this as my home screen, I can just sit &amp; watch all the pretty wallpapers change every 15 seconds.
+<>This gives me a calm breather while I work with my other apps/tasks in between.
+<>I use a regular wallpaper for my lock screen, which I can set as wallpapers scroll by, (so it doesn't eat my battery).
+<>I found this with my Galaxy S Vibrant years ago.
+<>I'm glad to see it still works.
+}
+
+{
+Valid: 1
+Index: 36
+Rating: 2
+Title: 2
+Review: 
+<>It says "Some or all items couldn't be copied" and cancels the whole process of copying.
+<>I haven't seen the pattern of this issue.
+<>The build-in file manager works without that issue.
+}
+
+{
+Valid: 1
+Index: 37
+Rating: 4
+Title: Nice slim file manager
+Review: 
+<>This is a simple file manager with icons big enoug so that I can touch them with my thumb.
+<>Hence very agreable to look at, and with the included bookmarks you'll easily find your faviroutes.
+<>Only problem: It replaces the term "sdcard" with the symbol of an SD card in the path.
+<>That's really nice to look at, but I've got two SC card (/mnt/scard and /mnt/scdard2) so I can't tell them apart.
+}
+
+{
+Valid: 1
+Index: 38
+Rating: 3
+Title: Galaxy note 3 4.4kitkat
+Review: 
+<>Im having some problem in which im unable to copy or transfer file from either sd to device or device to sd..
+<>i also unable to delete my file in sd card..
+}
+
+{
+Valid: 1
+Index: 39
+Rating: 4
+Title: Simple and Neat
+Review: 
+<>Thanks for making a simple and clean file manager app, especially great for someone using stock Android.
+<>Everything is great except no progress bar while copying or moving files.
+}
+
+{
+Valid: 1
+Index: 40
+Rating: 5
+Title: This is my favrotie file manager
+Review: 
+<>Thank you for taking the time to create this Application and give it to the masses for free, it is absolutely appreciated by myself and others.
+<>I use it all the time for when I need to browse my phones directories.
+<>Some Roms come with their own file managers, but this one just blows them all out of the water with it's elegant interface and fast responsiveness.
+<>Never change.
+}
+
+{
+Valid: 1
+Index: 41
+Rating: 1
+Title: Crash...
+Review: 
+<>WhF...???
+<>Something wrong in New update...
+<>When i moved my 4tos frm folder to another one., all of that 4tos deleted automatically...
+<>It crashed my valuble memory....
+<>F___ this app again...
+<>Fix it as well as possible..
+}
+
+{
+Valid: 1
+Index: 42
+Rating: 2
+Title: Unstable
+Review: 
+<>Using this on a tablet.
+<>OK for file browsing but not sure I can trust it with making changes to files or folders.
+<>Doesn't detect external changes e.g.
+<>new downloads and crashes when you try to rename a folder.
+}
+
+{
+Valid: 1
+Index: 43
+Rating: 2
+Title: Sony Xperia Z2
+Review: 
+<>This doesn't work on my Sony Xperia Z2. When I try to move my files from internal memory to SD memory , it forbid me from doing so.
+<>Just curious is it the software problem or do I need to do any setting in the phone to make this work?
+<>Any recommendation?
+}
+
+{
+Valid: 1
+Index: 44
+Rating: 5
+Title: I trust
+Review: 
+<>this app more than any of the other ones similar to it.
+<>It has more options than the app that comes preinstalled on the GS3, and it runs a lot better in my opinion.
+}
+
+{
+Valid: 1
+Index: 45
+Rating: 5
+Title: OI is the S***!
+Review: 
+<>I've been using this app for over 2 years now.
+<>I love the ease of use and the minimalistic UI.
+<>Oh yeah, and its FREE!
+<>I definitely suggest this file browser for new as well as longtime Android users!
+<>Thanks Open Intents!
+}
+
+{
+Valid: 1
+Index: 46
+Rating: 4
+Title: Problem with folder icons...!
+Review: 
+<>Folder icons not visible apps, music, video icons not visible and cannot move files its showing "Some and all items cannot be moved" a very big bug cannot even able to paste the options are ovrlapping.
+}
+
+{
+Valid: 1
+Index: 47
+Rating: 5
+Title: All I need, that's it.
+Review: 
+<>All I need, that's it.
+<>I've been using it for a while.
+<>It does what the description says.
+<>No more, no less.
+<>Efficient and easy to use.
+<>So far, all updates request privileges that match the functionality - i.e.
+<>no privacy leakage (no "full network access",  no "read your contacts", etc).
+}
+
+{
+Valid: 1
+Index: 48
+Rating: 2
+Title: Not best update
+Review: 
+<>Sorry after using for ages...
+<>Thought about time updated...
+<>Wish I hadn't...
+<>Now no icons showing against non-picture files?
+<>What has happened?
+<>Also thought I'd send email to support...
+<>Email sending failed - returned by gmail stating no such mailbox....
+<>Great guess I'll have to try another app instead...
+<>Disappointed.
+}
+
+{
+Valid: 1
+Index: 49
+Rating: 5
+Title: Love it!!
+Review: 
+<>I honestly love this this.
+<>Simple, free, easy to use, and now I have a way to Bluetooth music to my friends xD I'd give this like 40 stars if I could.
+}
+
+{
+Valid: 1
+Index: 50
+Rating: 4
+Title: Good
+Review: 
+<>I really like this app thanks to its minimalistic look.
+<>Simple, clean and fast.
+<>The only problem with the latest update is that now when I copy an item, the bar at the bottom which appears seems to have overlapping text which cannot be read and gets quite annoying.
+}
+
+{
+Valid: 1
+Index: 51
+Rating: 3
+Title: Open source but why is it so bad
+Review: 
+<>I guess I shouldn't be surprised.
+<>File managers on android are even worse than Windows.
+<>Cut is basically worthless Berwyn sdcard and internal because it fails.
+<>But copy and delete works fine.
+<>Figure that one out.
+<>There's no way to resize the display of icons so I can see more than 32 pixels of an image.
+<>It's impossible to find which image I want to move.
+<>Come on, seriously?
+<>Use a good file manager like Dolphin (KDE) and get back to me with those missing features you need.
+}
+
+{
+Valid: 1
+Index: 52
+Rating: 5
+Title: Best app in its category
+Review: 
+<>This app is in my opinion one of the finest apps available for users.
+<>Is complete with every feature you'll ever need.
+<>Good for both new users and power users alike.
+<>And it's open source!
+}
+
+{
+Valid: 1
+Index: 53
+Rating: 5
+Title: 
+Review: 
+<>Haven't tried any others, and I have used this for such a long time...
+<>This results in not wanting to learn a whole new ui of another program doing the same thing.
+<>So yes, I'd be lost without OpenIntents, I gladly admit it.
+<>Hah!
+<>Never ever have I had any issues with notepad and especially their file manager, which is the very first thing I install after doing a factory reset, etc.
+}
+
+{
+Valid: 1
+Index: 54
+Rating: 4
+Title: Awesome file search
+Review: 
+<>File search is really good and bookmarks are easy and fast to choose from.
+<>Is not my only file manager because of file sort.
+<>Files sort  has a lot of importunity for improvements.
+<>In my humble opinion file sort is a fundamental attribute of any file manager although fast search do help.
+}
+
+{
+Valid: 1
+Index: 55
+Rating: 5
+Title: Simple and small size
+Review: 
+<>Better then other apps with their bigger file size and the multiple uses.
+<>Sometimes I just what the one thing I want it for and not the additional stuff that other default apps do.
+}
+
+{
+Valid: 1
+Index: 56
+Rating: 5
+Title: Just! What I needed
+Review: 
+<>This is what I needed for downloading files from the internet.
+<>That isn't all,for all those minecraft pe users then this the right app your looking for to download maps on it.
+<>5 STARS!
+}
+
+{
+Valid: 1
+Index: 57
+Rating: 2
+Title: Was great until..
+Review: 
+<>The last update.
+<>Now there are 2 vertical margins which looks terrible on a tablet.
+<>Really hoping the Dev fixes this soon.
+<>This used to be the best file manager hands down.
+}
+
+{
+Valid: 1
+Index: 58
+Rating: 3
+Title: no Select All function
+Review: 
+<>Works fine and you can view all the folders you have including hidden ones but there is a major lack in the app, it does not have any select all function which is required.
+}
+
+{
+Valid: 1
+Index: 59
+Rating: 4
+Title: 2.0.4 version issues
+Review: 
+<>difficulty loading my apks from a usbstorage from the middle list point and down it constantly brought up the quit/report /close/crash app dialog ,chosen wait instead of close the app lagging nanaged slowly to progress downwards and execute my desired task.but in new version that lagg close diolog issue worsen in my apk file.and when trying to browsing in my usb storage on same apk file it didn't load the app icons 1icon loaded for 10voids null icons,but it pre.
+}
+
+{
+Valid: 1
+Index: 60
+Rating: 2
+Title: SGN3 w/KK4.4:
+Review: 
+<>Won't write/paste to external sd (browse/copy only - which is functionally useless).
+<>If you took the kitkat update, don't bother looking here for a solution.
+}
+
