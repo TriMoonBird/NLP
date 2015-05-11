@@ -47,10 +47,10 @@ public class JTextTile {
 	 * @param w Window size
 	 * @param step Step size
 	 */
-	public JTextTile(Sentences c, Stopword s, int w, int step) {
-		C = c;
-		S = s;
-		this.w = w;
+	public JTextTile(Sentences sentence, Stopword stopwords, int window, int step) {
+		C = sentence;
+		S = stopwords;
+		this.w = window;
 		this.s = step;
 		Debugx.msg("JTextTile", "Lemmatization...");
 		preprocess();

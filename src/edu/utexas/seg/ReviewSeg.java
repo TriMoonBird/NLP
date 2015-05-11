@@ -12,11 +12,10 @@ import edu.utexas.crawler.ReviewItem;
 
 class ReviewSeg {
 	public static void main(String[] args) {
-		Debugx.header("This is JTextTile.");
 
 		Argx arg = new Argx(args);
-		int window = arg.get("-w", 2, "Window size");
-		int step = arg.get("-s", 20, "Step size");
+		int window = arg.get("-w", 20, "Window size");
+		int step = arg.get("-s", 10, "Step size");
 		String stopwordList = "stopwords.txt";
 		String reviewFile = "review.txt";
 		arg.displayHelp();
