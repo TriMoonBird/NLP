@@ -160,16 +160,6 @@ Review:
 
 {
 Valid: 1
-Index: 15
-Rating: 5
-Title: Good game
-Review: 
-<o>Fun game, I'm already kind of addicted.
-<p>The only issue I find is that it easily loses my Wi-Fi connection when that doesn't happen with any other app.
-}
-
-{
-Valid: 1
 Index: 16
 Rating: 5
 Title: Awesome mobile game.
@@ -237,15 +227,6 @@ Review:
 }
 
 {
-Valid: 1
-Index: 22
-Rating: 1
-Title: Dammn it
-Review: 
-<p>Even after the update....after I clicked "I'm new"...it will continue until the beard guy said "gather around, gather around!" And nothing happens after that...everything is still.
-}
-
-{
 Valid: 2
 Index: 23
 Rating: 1
@@ -255,17 +236,6 @@ Review:
 <p>I got burned by battery acid and the then the whole phone shriveled up..
 <p>lol in all seriousness though this app over heated the hell out of my phone in just 1 match like wtf..
 <c>my note 4s supposed to run these games with no probems.
-}
-
-{
-Valid: 1
-Index: 24
-Rating: 5
-Title: Its hearthstone on your phone
-Review: 
-<o>Best game on android.
-<c>Bring a decent price of hardware, playable on Nexus 5, but a bit slow.
-<p>Makes my phone warm and my battery empty very quickly.
 }
 
 {
@@ -314,15 +284,6 @@ Review:
 
 {
 Valid: 1
-Index: 29
-Rating: 3
-Title: It's OK
-Review: 
-<f>Good card game with cloud sync and great presentation including immersive full screen, but no Google Play Game Features and poor back button support (can't gracefully close/exit game).
-}
-
-{
-Valid: 1
 Index: 30
 Rating: 3
 Title: Good game  - poor functionality
@@ -355,16 +316,6 @@ Review:
 }
 
 {
-Valid: 1
-Index: 33
-Rating: 5
-Title: Surprisingly Good Performance on 2012 Nexus 7
-Review: 
-<c>Runs better than expected on my 2012 Nexus 7, but not perfect obviously.
-<o>Thrilled to finally have this on Android!
-}
-
-{
 Valid: 2
 Index: 34
 Rating: 5
@@ -383,7 +334,7 @@ Rating: 1
 Title: Make sure you have deep pockets!!
 Review: 
 <s>In the end, it's about who spent the most money buying cards.
-<o>- No way to block people with "annoying" decks.
+<o>No way to block people with "annoying" decks.
 <o>So repetitive.
 <o>Wish I can give it zero stars.
 <o>Awful!
@@ -434,7 +385,7 @@ Index: 39
 Rating: 3
 Title: It doesn't work sadly
 Review: 
-<c>Google play says hearthstone can work on my phone but when i installed it it said that it doesn't support android 4.4 if you can make it work for older versions i will give 5 stars ^^ .
+<c>Google play says hearthstone can work on my phone but when i installed it it said that it doesn't support android 4.4 if you can make it work for older versions i will give 5 stars.
 <o>Pleaseeeee make it work!!!!!!
 }
 
@@ -483,7 +434,7 @@ Review:
 <p>Great game but slow on tablets.
 <p>Some of my friends and I have same problem of slowness with tablets and preferred the mobile version for these devices.
 <p>I like blizzard and there games but we get stricter requirements for border line phones aka small tablets.
-<o>Please and thank you:-).
+<o>Please and thank you.
 }
 
 {
@@ -492,8 +443,8 @@ Index: 44
 Rating: 5
 Title: Loved the game but...
 Review: 
-<o>Well....Im being honest when i say i never played this till today and someone is using my Email ._.
-<o>Idc who it is please delete their profile if there is someone playing the game with my email if not well i cant play cause it says my email is all ready in use sooo...please help me out here and screw over whover did this to me.
+<o>Well, Im being honest when i say i never played this till today and someone is using my Email.
+<o>Idc who it is please delete their profile if there is someone playing the game with my email if not well i cant play cause it says my email is all ready in use so please help me out here and screw over whoever did this to me.
 }
 
 {

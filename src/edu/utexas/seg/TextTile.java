@@ -2,7 +2,9 @@ package edu.utexas.seg;
 
 import java.util.ArrayList;
 import java.util.Enumeration;
+import java.util.HashSet;
 import java.util.Hashtable;
+import java.util.Set;
 import java.util.Vector;
 
 import uk.ac.man.cs.choif.extend.Debugx;
@@ -10,13 +12,19 @@ import uk.ac.man.cs.choif.nlp.doc.basic.RawText;
 import uk.ac.man.cs.choif.nlp.doc.basic.Sentences;
 import uk.ac.man.cs.choif.nlp.surface.Stemmer;
 import uk.ac.man.cs.choif.nlp.surface.Stopword;
+import edu.utexas.wordnet.WordNet;
 
 /**
  * An implementation of Marti Hearst's text tiling algorithm.
  * Creation date: (07/12/99 01:31:36)
+ * Modified by: Yuepeng Wang
  * @author: Freddy Choi
  */
-public class JTextTile {
+public class TextTile {
+	//======================
+	protected WordNet mWordNet;
+	//======================
+	
 	/* Program parameters */
 	protected int w = 100; // Size of the sliding window
 	protected int s = 10; // Step size
@@ -47,11 +55,14 @@ public class JTextTile {
 	 * @param w Window size
 	 * @param step Step size
 	 */
-	public JTextTile(Sentences sentence, Stopword stopwords, int window, int step) {
+	public TextTile(Sentences sentence, Stopword stopwords, int window, int step) {
 		C = sentence;
 		S = stopwords;
 		this.w = window;
 		this.s = step;
+		//=============
+		mWordNet = new WordNet();
+		//=============
 		Debugx.msg("JTextTile", "Lemmatization...");
 		preprocess();
 		Debugx.msg("JTextTile", "Similarity scores...");
@@ -76,40 +87,67 @@ public class JTextTile {
 
 		B.put(term, freq);
 	}
+	//==================================
+	private float blockCosine(final Hashtable<String, Integer> B1, final Hashtable<String, Integer> B2) {
+		int equiCount = 0;
+		for (String word : B1.keySet()) {
+			//
+			// Equal word number: using WordNet
+			HashSet<String> synset = new HashSet<String>(mWordNet.getAllRelatedWords(word));
+			synset.retainAll(B2.keySet());
+			//System.out.println("B1\n" + B1);
+			//System.out.println("B2\n" + B2);
+			//System.out.println("synset\n" + synset);
+			if (!synset.isEmpty()) {
+				if (!B2.contains(word)) equiCount += B1.get(word);
+				else equiCount += Math.min(B1.get(word), B2.get(word));
+			}
+			//
+			/*
+			// Equal word number: without WordNet
+			if (B2.containsKey(word)) {
+				equiCount += Math.min(B1.get(word), B2.get(word));
+			}
+			*/
+		}
+		float sim = ((float) equiCount) / w;
+		return sim;
+	}
+	//==================================
 	/**
 	 * Compute the cosine similarity measure for two blocks
 	 * Creation date: (07/12/99 01:49:16)
 	 * @return float
 	 * @param B1 java.util.Hashtable
 	 * @param B2 java.util.Hashtable
-	 */
+	 *
 	private float blockCosine(final Hashtable B1, final Hashtable B2) {
-		/* 1. Declare variables */
+		// 1. Declare variables
 		int W; // Weight of a term (temporary variable)
 		int sq_b1 = 0; // Sum of squared weights for B1
 		int sq_b2 = 0; // Sum of squared weights for B2
 		int sum_b = 0; // Sum of product of weights for common terms in B1 and B2
 
-		/* 2. Compute the squared sum of term weights for B1 */
+		// 2. Compute the squared sum of term weights for B1
 		for (Enumeration e=B1.elements(); e.hasMoreElements();) {
 			W = ((Integer) e.nextElement()).intValue();
 			sq_b1 += (W * W);
 		}
 
-		/* 3. Compute the squared sum of term weights for B2 */
+		// 3. Compute the squared sum of term weights for B2 
 		for (Enumeration e=B2.elements(); e.hasMoreElements();) {
 			W = ((Integer) e.nextElement()).intValue();
 			sq_b2 += (W * W);
 		}
 
-		/* 4. Compute sum of term weights for common terms in B1 and B2 */
+		// 4. Compute sum of term weights for common terms in B1 and B2
 
-		/* 4.1. Union of terms in B1 and B2 */
+		// 4.1. Union of terms in B1 and B2 
 		Hashtable union = new Hashtable(B1.size() + B2.size());
 		for (Enumeration e=B1.keys(); e.hasMoreElements();) union.put((String) e.nextElement(), new Boolean(true));
 		for (Enumeration e=B2.keys(); e.hasMoreElements();) union.put((String) e.nextElement(), new Boolean(true));
 
-		/* 4.2. Compute sum */
+		// 4.2. Compute sum 
 		Integer W1; // Weight of a term in B1 (temporary variable)
 		Integer W2; // Weight of a term in B2 (temporary variable)
 		String term; // A term (temporary variable)
@@ -119,13 +157,14 @@ public class JTextTile {
 			W2 = (Integer) B2.get(term);
 			if (W1!=null && W2!=null) sum_b += (W1.intValue() * W2.intValue());
 		}
-
-		/* 5. Compute similarity */
+		
+		// 5. Compute similarity
 		float sim;
 		sim = (float) sum_b / (float) Math.sqrt(sq_b1 * sq_b2);
 
 		return sim;
 	}
+	*/
 	/**
 	 * Remove a term from the block
 	 * Creation date: (07/12/99 01:46:39)
@@ -409,6 +448,14 @@ public class JTextTile {
 			sim_score[j] = (((Float) score.elementAt(j)).floatValue() + ((Float) score.elementAt(j+1)).floatValue() + ((Float) score.elementAt(j+2)).floatValue()) / 3;
 			site_loc[j] = ((Integer) site.elementAt(j+1)).intValue();
 		}
-
+		//====================================
+		/*
+		sim_score = new float[score.size()];
+		site_loc = new int[site.size()];
+		for (int j=0; j<sim_score.length; j++) {
+			sim_score[j] = ((Float) score.elementAt(j)).floatValue();
+			site_loc[j] = ((Integer) site.elementAt(j)).intValue();
+		}
+		*/
 	}
 }

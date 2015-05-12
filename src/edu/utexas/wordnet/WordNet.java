@@ -49,6 +49,7 @@ public class WordNet {
 		allRelatedWords.addAll(getRelatedWords(Pointer.SIMILAR_TO, query));
 		allRelatedWords.addAll(getRelatedWords(Pointer.HOLONYM_MEMBER, query));
 		allRelatedWords.addAll(getRelatedWords(Pointer.MERONYM_MEMBER, query));
+		if (!allRelatedWords.contains(query)) allRelatedWords.add(query);
 		return allRelatedWords;
 	}
 	
@@ -60,7 +61,7 @@ public class WordNet {
 		if (idxWord == null) idxWord = mDict.getIndexWord(query, POS.VERB);
 		if (idxWord == null) idxWord = mDict.getIndexWord(query, POS.ADJECTIVE);
 		if (idxWord == null) idxWord = mDict.getIndexWord(query, POS.ADVERB);
-		if (idxWord == null) return null;
+		if (idxWord == null) return synonyms;
 		// get Synset
 		IWordID wordID = idxWord.getWordIDs().get(0); // 1st meaning
 		IWord word = mDict.getWord(wordID);
@@ -80,7 +81,7 @@ public class WordNet {
 		if (idxWord == null) idxWord = mDict.getIndexWord(query, POS.VERB);
 		if (idxWord == null) idxWord = mDict.getIndexWord(query, POS.ADJECTIVE);
 		if (idxWord == null) idxWord = mDict.getIndexWord(query, POS.ADVERB);
-		if (idxWord == null) return null;
+		if (idxWord == null) return relatedWords;
 		// get Synset
 		IWordID wordID = idxWord.getWordIDs().get(0); // 1st meaning
 		IWord word = mDict.getWord(wordID);
