@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Hashtable;
 
@@ -23,6 +24,7 @@ public class TileFeature {
 	protected String mStopwordFile;
 	protected HashSet<String> mStopwords;
 	protected SnowballStemmer mStemmer;
+	protected HashSet<String> mPronounSet;
 	
 	public boolean useWordNet() { return mUseWordNet; }
 	public boolean useStopword() { return mUseStopword; }
@@ -42,6 +44,7 @@ public class TileFeature {
 		mStopwordFile = "stopwords.txt";
 		mStopwords = new HashSet<String>();
 		mStemmer = new englishStemmer();
+		mPronounSet = buildPronounSet();
 	}
 	
 	protected void loadStopwords() {
@@ -89,7 +92,49 @@ public class TileFeature {
 		return stat;
 	}
 	
-	protected double computeSimilarity(Hashtable<String, Integer> first, Hashtable<String, Integer> second) {
+	protected ArrayList<Hashtable<String, Integer> > parseAllSentences(ReviewItem item) {
+		ArrayList<Hashtable<String, Integer> > allSentences = new ArrayList<Hashtable<String, Integer>>();
+		for (TaggedSentence sen : item.sentences()) {
+			allSentences.add(parseSentence(sen.sentence()));
+		}
+		return allSentences;
+	}
+	
+	protected HashSet<String> buildPronounSet() {
+		String[] str = {"it", "its", "this", "these", "those", "their"};
+		HashSet<String> pronoun = new HashSet<String>(Arrays.asList(str));
+		return pronoun;
+	}
+	
+	protected double pronounSimilarity(Hashtable<String, Integer> block) {
+		HashSet<String> tokens = new HashSet<String>(block.keySet());
+		tokens.retainAll(mPronounSet);
+		return (double) tokens.size();
+	}
+	
+	protected double cutSimilarity(ArrayList<Hashtable<String, Integer> > all, int first, int window) {
+		int start = first + 1;
+		int end = Math.min(first + window, all.size() - 1);
+		int cutCount = 0;
+		HashSet<String> tokens = new HashSet<String>();
+		for (int i = start; i <= end; ++i) {
+			tokens.addAll(all.get(i).keySet());
+		}
+		for (String word : all.get(first).keySet()) {
+			if (tokens.contains(word)) cutCount++;
+		}
+		return (double) cutCount;
+	}
+	
+	protected double lengthSimilarity(Hashtable<String, Integer> block) {
+		int wordsCount = 0;
+		for (String word : block.keySet()) {
+			wordsCount += block.get(word);
+		}
+		return (double) wordsCount;
+	}
+	
+	protected double equiSimilarity(Hashtable<String, Integer> first, Hashtable<String, Integer> second) {
 		int equiCount = 0;
 		int firstCount = 0;
 		int secondCount = 0;
@@ -125,14 +170,22 @@ public class TileFeature {
 	
 	public void computeOneReview(ReviewItem item) {
 		int precision = 4;
+		int window = 2;
 		ArrayList<TaggedSentence> sentences = item.sentences();
+		ArrayList<Hashtable<String, Integer> > all = parseAllSentences(item);
 		Hashtable<String, Integer> first = null;
-		Hashtable<String, Integer> second = parseSentence(sentences.get(0).sentence());
+		Hashtable<String, Integer> second = all.get(0);
+		//Hashtable<String, Integer> second = parseSentence(sentences.get(0).sentence());
+		// features of all sentences
+		sentences.get(0).addFeature(scoreToString(lengthSimilarity(second), 0));
+		// features that first sentence does not have
 		for (int i = 1; i < sentences.size(); ++i) {
 			first = second;
-			second = parseSentence(sentences.get(i).sentence());
-			double similarity = computeSimilarity(first, second);
-			sentences.get(i).setRel(scoreToString(similarity, precision));
+			second = all.get(i);
+			sentences.get(i).addFeature(scoreToString(lengthSimilarity(second), 0));
+			sentences.get(i).addFeature(scoreToString(equiSimilarity(first, second), precision));
+			sentences.get(i).addFeature(scoreToString(pronounSimilarity(second), 0));
+			sentences.get(i).addFeature(scoreToString(cutSimilarity(all, i-1, window), 0));
 		}
 	}
 	

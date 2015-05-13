@@ -17,7 +17,7 @@ Review:
 <o>its good.
 <p>unlike photoshop in pc, it works fast.
 <s>but, all the features should be provided for free.
-<s>while other editing apps are availble with every features available free, everyone goes for it.
+<s>while other editing apps are available with every features available free, everyone goes for it.
 }
 
 {
@@ -459,7 +459,7 @@ Review:
 <f>Would love to see a zoom or decrease size feature!
 }
 
-﻿{
+{
 Valid: 1
 Index: 1
 Rating: 3
@@ -931,7 +931,7 @@ Review:
 <f>Most programs show an alternate menu button so I can get to additional settings, but not MS Remote Desktop, so I can't configure in-session settings like using touch versus mouse.
 }
 
-﻿{
+{
 Valid: 1
 Index: 1
 Rating: 2
