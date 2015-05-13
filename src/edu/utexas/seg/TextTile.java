@@ -87,7 +87,7 @@ public class TextTile {
 
 		B.put(term, freq);
 	}
-	//==================================
+	/*==================================
 	private float blockCosine(final Hashtable<String, Integer> B1, final Hashtable<String, Integer> B2) {
 		int equiCount = 0;
 		for (String word : B1.keySet()) {
@@ -108,11 +108,12 @@ public class TextTile {
 			if (B2.containsKey(word)) {
 				equiCount += Math.min(B1.get(word), B2.get(word));
 			}
-			*/
+			//
 		}
 		float sim = ((float) equiCount) / w;
 		return sim;
 	}
+	*/
 	//==================================
 	/**
 	 * Compute the cosine similarity measure for two blocks
@@ -120,7 +121,7 @@ public class TextTile {
 	 * @return float
 	 * @param B1 java.util.Hashtable
 	 * @param B2 java.util.Hashtable
-	 *
+	 */
 	private float blockCosine(final Hashtable B1, final Hashtable B2) {
 		// 1. Declare variables
 		int W; // Weight of a term (temporary variable)
@@ -164,7 +165,7 @@ public class TextTile {
 
 		return sim;
 	}
-	*/
+	//
 	/**
 	 * Remove a term from the block
 	 * Creation date: (07/12/99 01:46:39)
@@ -441,7 +442,7 @@ public class TextTile {
 			step = s;
 		}
 
-		/* Smoothing with a window size of 3 */
+		/* Smoothing with a window size of 3 
 		sim_score = new float[score.size()-2];
 		site_loc = new int[site.size()-2];
 		for (int j=0; j<sim_score.length; j++) {
@@ -449,13 +450,13 @@ public class TextTile {
 			site_loc[j] = ((Integer) site.elementAt(j+1)).intValue();
 		}
 		//====================================
-		/*
+		*/
 		sim_score = new float[score.size()];
 		site_loc = new int[site.size()];
 		for (int j=0; j<sim_score.length; j++) {
 			sim_score[j] = ((Float) score.elementAt(j)).floatValue();
 			site_loc[j] = ((Integer) site.elementAt(j)).intValue();
 		}
-		*/
+		//
 	}
 }

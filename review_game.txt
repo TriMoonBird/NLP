@@ -1,0 +1,521 @@
+{
+Valid: 1
+Index: 1
+Rating: 3
+Title: Love this game, but atm too many issues
+Review: 
+<p>It's an awesome game, can take it everywhere with me, uses only a couple megabytes (relatively low, compared to a youtube video or soundcloud) on 3G.
+<p>However, my daily challenges where all achieved, but on my phone it did not update how far along i was with my dailies, which meant i had to complete them on my computer.
+<p>Also, i still dont think the look of the mobile game is perfectionised, but on the other hand it is functional.
+<p>There are some bugs and issues that need to be addressed, but it's early days.
+}
+
+{
+Valid: 1
+Index: 2
+Rating: 1
+Title: Lack of available devices...?
+Review: 
+<c>I get this app just to find out that the verified items list doesn't include my devices.
+<c>That's pretty crappy that I had to delete all my apps and games just to wait forever and it not even work.
+}
+
+{
+Valid: 1
+Index: 3
+Rating: 1
+Title: Be warned
+Review: 
+<o>Blizzard has been known to ban player accounts without warning or explination.
+<o>I had my account banned with no warning email, and when I asked them why, they refused to tell me.
+<o>As far as I know I did nothing wrong, and was unable to defend myself in the matter.
+<o>Again, just giving everyone a heads up.
+}
+
+{
+Valid: 1
+Index: 4
+Rating: 1
+Title: DO NOT INSTALL
+Review: 
+<o>I have been playing HS since it came out, and have several thousand matches under my belt.
+<p>I enjoy this game, but not this unstable build.
+<p>I have lost matches due to disconnects because of a phone call, and even a text.
+<p>It is also slow, and lags quite often.
+<o>Samsung S6 Edge.
+<a>I would say play it to get your free pack of 1st patch cards, but do not play unless frustration is your game.
+<o>Of course, if you don't play against real people, then I suppose it doesn't matter and install away!
+}
+
+{
+Valid: 1
+Index: 5
+Rating: 5
+Title: Help pls
+Review: 
+<c>I know the game is good but why can't I play it.It say I don't meet the requirement but I think I do.
+<c>I have 1.7 dual core tablet with android 4.4 KitKat.
+<o>Pls help.
+}
+
+{
+Valid: 1
+Index: 6
+Rating: 4
+Title: Excellent game but too big!
+Review: 
+<p>Really love the game on PC and on the phone it's about the same, just so slow to respond.
+<p>I would much prefer a small file size at lower resolution that played smoother.
+}
+
+{
+Valid: 1
+Index: 7
+Rating: 5
+Title: Hearthstone 4 lyf
+Review: 
+<o>Great game to play on computer or mobile.
+<o>Buying cards can help a lot but learn the game before spending.
+<p>The frames per second are a little low, but its new to mobile so I forgive you Blizzard.
+}
+
+{
+Valid: 1
+Index: 8
+Rating: 5
+Title: Great game
+Review: 
+<a>Clean user interface.
+<o>Easy to learn game.
+<a>The more specific components are explained through a hint mechanic.
+<a>Doesn't get very complicated, but still rich in novelty due to different hero/deck combinations and strategies.
+}
+
+{
+Valid: 1
+Index: 9
+Rating: 5
+Title: People having probs with your stuff on pc not showing up!
+Review: 
+<p>When your logging in or if your already logged in, log out and when your at the log in screen look at the top right of screen or where ever on your screen, it might say europe so what you want to do is tap on in   select american/something else(i dont remember) then log in with your pc account and all your cards should be there.
+<o>Hope this helps and enjoy!
+<o>I Highly recommend this to anyone, expecially to people with powerful phones for the best experiance!
+}
+
+{
+Valid: 1
+Index: 10
+Rating: 1
+Title: was great but unplayable with recent update
+Review: 
+<c>it was great played it so much, but now is unplayable om my s4. game gets stuck at the hearthstone splash logo and doesnt load into the game.
+<o>please fix it so i can play again :(.
+}
+
+{
+Valid: 1
+Index: 11
+Rating: 4
+Title: Really good but...
+Review: 
+<o>The game itself is excellent and I play it quite a lot on my gaming rig.
+<p>Recently I've noticed that sometimes during gaming on my Nexus 5 weird glitches occur like screen freeze and lagging graphics.
+<o>Hope Blizz fix some of them.
+}
+
+{
+Valid: 1
+Index: 12
+Rating: 3
+Title: Game is good, battery drainage is bad
+Review: 
+<o>I love the game, it is exactly like the PC version.
+<p>But my only problem, and it is a big one, is the battery drainage.
+<p>It nearly kills my battery after just a few games.
+<o>Please fix this issue.
+}
+
+{
+Valid: 2
+Index: 13
+Rating: 4
+Title: Great game!
+Review: 
+<o>I had to reinstall the game though, since because of whatever reason the app got really big.
+<o>Like &amp;gt;2gb.
+<o>Now it's about 1.5 gb which might still be too much for a mobile app.
+<o>But nevertheless I'm really really happy with hearthstone!
+}
+
+{
+Valid: 1
+Index: 14
+Rating: 3
+Title: Great yet annoying.
+Review: 
+<p>Why is this game so needy on a network connection?
+<p>It seem that ANY drop in signal quality will cause it to think it has no signal at all.
+<o>Very frustrating because it keeps putting the game in limbo where nothing at all happens till the signal improves.
+}
+
+{
+Valid: 1
+Index: 16
+Rating: 5
+Title: Awesome mobile game.
+Review: 
+<o>OK, to clear some nonsense that i saw in a few comments.
+<o>Blizzard will not ban you for no reason.
+<o>They email you with the reason for being banned and how long.
+<o>And to all the people crying about having to pay for naxx and black rock mountain, you don't have to pay real money.
+<o>Just in game gold and your precious time.
+<o>Yes it is pay to win if you want, but that's how they make money.
+<p>The only downside i can think of is amount of memory this game takes up.
+}
+
+{
+Valid: 1
+Index: 17
+Rating: 3
+Title: Not enough space
+Review: 
+<p>Im stuck at unpacking crates.
+<p>Apparently you need to have 1Gb free INTERNAL space in order to play this game, because it wont extract those crates on SD card.
+<o>Nice programming blizzard.
+<p>Good luck finding low to mid range phones with 1gb free internal space.
+}
+
+{
+Valid: 1
+Index: 18
+Rating: 4
+Title: Great game, just let me select tablet U I if I want!
+Review: 
+<a>I love the game, but I much prefer the look of the tablet interface.
+<a>With as big as phones are anymore, I can easily use the full interface.
+<f>The app has both setups built in, so just give me an in app option to switch.
+}
+
+{
+Valid: 1
+Index: 19
+Rating: 5
+Title: Surprisingly great!
+Review: 
+<a>Never been a fan of card games but this one has so much to offer.
+<a>The battles are great and the satisfaction of winning a hard fought fight is awesome.
+}
+
+{
+Valid: 2
+Index: 20
+Rating: 5
+Title: HTC One M7
+Review: 
+<p>Works fine a little laggy at the menus but ingame is fine, Dont know what people are talking about heat its your phone that controls clock speed so if your phone melts its because it didnt downclock the cores on your Note4 blame samsung....
+<p>Update: works fine with no lag at all on my galaxy s4 running CM11 and no heating issue.
+}
+
+{
+Valid: 1
+Rating: 2
+Title: Great but...
+Review: 
+<p>But I cant craft more than one card without having to force close the app and go back in to do one more card for dust.
+<p>Will change if fixed but it does it on my pc too and cleared the cache on the apps and everything.
+<o>Hoping this is fixed.
+}
+
+{
+Valid: 2
+Index: 23
+Rating: 1
+Title: MELTED PHONE
+Review: 
+<p>Melted my Samsung note 4 After 2 matches!!
+<p>I got burned by battery acid and the then the whole phone shriveled up..
+<p>lol in all seriousness though this app over heated the hell out of my phone in just 1 match like wtf..
+<c>my note 4s supposed to run these games with no probems.
+}
+
+{
+Valid: 1
+Index: 25
+Rating: 5
+Title: Pleasantly Surprised
+Review: 
+<o>I came from PC to get my free pack expecting the game to be worse than the tablet version.
+<c>Turns out it works just fine, even on an S4. Things are understandably more cramped on screen but still very playable.
+<o>Great job Blizzard.
+}
+
+{
+Valid: 1
+Index: 26
+Rating: 1
+Title: Requires too strong of a connection
+Review: 
+<p>I lose most of my matches because my turn ropes out before hearthstone acknowledges my actions.
+<o>All other mobile games run fine on my connection.
+<p>There is no reason why it should require such a strong connection for such a simple game.
+}
+
+{
+Valid: 1
+Index: 27
+Rating: 3
+Title: Great game (obvi), hugley unopptimised app though.
+Review: 
+<a>No complaints about the game itself, and the port has everthying the other versions do which is great.
+<a>however, I know polish comes at a price, but unless this is made with 4k phone displays in mind it's incredibly large (most of which it won't let you move to the external mem) for a game that's essentially 2D.
+<p>C'mon Card Wars is 219MB and is easliy as polished as this visually and audiably.
+<p>Don't tell me card faces take up this much, I have folders of thousands of HDphotos that take up less.
+}
+
+{
+Valid: 2
+Index: 28
+Rating: 1
+Title: Too largest
+Review: 
+<c>I like this game but its toooooo big for tablet even don't want saport I did installed in my HP tablet its just don't want work.
+<p>fight at first computer attack me on my turned its just don't want sow anything's.
+}
+
+{
+Valid: 1
+Index: 30
+Rating: 3
+Title: Good game  - poor functionality
+Review: 
+<p>I enjoyed playing the game, however, when I went to move the additional files to the SD card, the game no longer recognised the fact that I already downloaded the extra files.
+<o>Please fix this, as all other games with extra files I've played let me move them freely.
+}
+
+{
+Valid: 1
+Index: 31
+Rating: 1
+Title: Just awful
+Review: 
+<o>Don't bother with it if you're on the EU servers.
+<p>It only worked the night I installed it and then I could never log in.
+<o>US and Asia worked fine, but not EU.
+<p>Uninstalled/reinstalled several times, the "support" link wasn't working..
+<o>not worth it.
+}
+
+{
+Valid: 1
+Index: 32
+Rating: 5
+Title: Blizzard wins again.  Watch E-Sports!
+Review: 
+<o>I've been a Blizzard fan boy since the  WarCraft, StarCraft and Diablo trifecta.
+<a>Their spin on card based games is easy to learn and has enough class and card variations to keep it entertaining for many,  many hours.
+}
+
+{
+Valid: 2
+Index: 34
+Rating: 5
+Title: Same Great Game
+Review: 
+<o>I play hearthstone all the time on my PC at home and when I heard it came out for phones I was ecstatic.
+<f>Its literally the same experience you get from playing on a computer.
+<f>Sign in was easy and I got to keep all my cards.
+<o>I'm gonna sink many hours to this game.
+}
+
+{
+Valid: 1
+Index: 35
+Rating: 1
+Title: Make sure you have deep pockets!!
+Review: 
+<s>In the end, it's about who spent the most money buying cards.
+<o>No way to block people with "annoying" decks.
+<o>So repetitive.
+<o>Wish I can give it zero stars.
+<o>Awful!
+}
+
+{
+Valid: 1
+Index: 36
+Rating: 5
+Title: Just like the Desktop version
+Review: 
+<o>By far the best mobile version of computer game I've played.
+<o>Best Free game on mobile yet.
+<p>Only downside is that it won't find an opponent while on WiFi at work, at home I don't have any issues.
+}
+
+{
+Valid: 1
+Index: 37
+Rating: 1
+Title: Screw you blizzard
+Review: 
+<o>Do not spend a dime on this game.
+<o>I had a lot of fun with free play then spent  $27  on the first solo adventure pack.
+<a>I was able to beat 2 of the missions and then it became one of those "opponent has a perfect card for any situation" type of deals and I couldn't win a single battle no matter how I built my deck.
+<a>Screw you blizzard I can't believe I fell for your bs and wasted more money for your in balanced worthless crap.
+<o>I will never again spend a dime on anything with the name blizzard attached to it.
+}
+
+{
+Valid: 2
+Index: 38
+Rating: 5
+Title: Great game
+Review: 
+<o>On PC on my ipad.
+<o>And now phone.
+<o>Addictive and insane fun.
+<o>Just watch out for the RNG!!
+<o>And don't get to salty..
+<o>been playing since beta release on pc.
+<o>A little P2W but still recommended.
+}
+
+{
+Valid: 1
+Index: 39
+Rating: 3
+Title: It doesn't work sadly
+Review: 
+<c>Google play says hearthstone can work on my phone but when i installed it it said that it doesn't support android 4.4 if you can make it work for older versions i will give 5 stars.
+<o>Pleaseeeee make it work!!!!!!
+}
+
+{
+Valid: 1
+Index: 40
+Rating: 2
+Title: Great Game - Not Optimized
+Review: 
+<o>I've been able to get back into the game now thanks to the convenience of having it on my phone!
+<p>The problem is that after I close the game I can not open any other function or app on my phone without restarting it.
+<p>Also, as with a lot of people, my phone gets laggy and extremely hot.
+<o>Will give a 5 star if Blizzard adds lower graphics option and fixes bugs.
+}
+
+{
+Valid: 1
+Index: 41
+Rating: 5
+Title: Great game, uses hardly any data
+Review: 
+<p>This game is brilliant been playing for a couple hours and I'm amazed how little data it uses on mobile devices.
+<a>The ui is just the same as on PC and the mechanics are easy to pick up and learn.
+<o>This will be a great time waster at work.
+<o>Thanks Blizzard.
+}
+
+{
+Valid: 1
+Index: 42
+Rating: 3
+Title: It's Arrived!
+Review: 
+<o>Still needs some work.
+<o>Careful when visiting the arena...
+<p>You'll lose too many turns due to being dumped out of the game during your turn and then having it time out before restarting.
+<o>Extremely Frustrating!
+}
+
+{
+Valid: 2
+Index: 43
+Rating: 4
+Title: Amazing but slow
+Review: 
+<p>Great game but slow on tablets.
+<p>Some of my friends and I have same problem of slowness with tablets and preferred the mobile version for these devices.
+<p>I like blizzard and there games but we get stricter requirements for border line phones aka small tablets.
+<o>Please and thank you.
+}
+
+{
+Valid: 1
+Index: 44
+Rating: 5
+Title: Loved the game but...
+Review: 
+<o>Well, Im being honest when i say i never played this till today and someone is using my Email.
+<o>Idc who it is please delete their profile if there is someone playing the game with my email if not well i cant play cause it says my email is all ready in use so please help me out here and screw over whoever did this to me.
+}
+
+{
+Valid: 1
+Index: 45
+Rating: 2
+Title: App is unstable
+Review: 
+<p>This game is so unstable its not funny.
+<p>I've lost 3 ranked matches just because the game decided to drop the connection (nothing wrong with my WiFi).
+<p>Just recently the game crashed my entire phone (forced reboot), it was such a bad crash that when I rebooted my google play services app got corrupted.
+<o>I have just finished uninstalling and reinstalling the services app.
+<o>Such a pain just because I want to play hearthstone....
+}
+
+{
+Valid: 2
+Index: 46
+Rating: 4
+Title: Cards of the Game
+Review: 
+<s>An awesome game that can be very fun, but it can get a bit grindy at some points if you don't want to pay for card packs.
+<s>It would A LOT better if Blizzard made it so you got more than only 10 gold every 3 wins.
+}
+
+{
+Valid: 1
+Index: 47
+Rating: 5
+Title: Huzzah!
+Review: 
+<p>From my computer to my Note 10.1 to my S5 this app works with little lag!
+<o>Sometimes my fingers get clumsy but only when deck building.
+<p>The file is a bit big but I think it's from using a 3d engine.
+<a>In terms of the game I love that the mechanics are simple and straightforward.
+<o>In some ways it reminds me of when I played pokemon tcg and tried to learn yugioh...
+<o>but with the visual punch that comes from the digital medium.
+}
+
+{
+Valid: 1
+Index: 48
+Rating: 5
+Title: Amazing game
+Review: 
+<f>Wish it could run off SD card tho.
+<p>Doesn't recognise files if moved.
+<a>Great job on the phone UI.
+<p>Only issue I have is not seeing the full board, like on pc version.
+<p>So can't get all interactions.
+<o>Otherwise amazing.
+}
+
+{
+Valid: 1
+Index: 49
+Rating: 4
+Title: Yay. (Lol phone)
+Review: 
+<s>Good game overall, only issue is its "pay to win" format all of the decks used in high ranks have 2-3 legendary cards.
+<s>After playing for 2 months without spending any money, I have ZERO legendarys.
+<s>Furthermore, the odds of getting the legendary I want are next to nothing.
+<o>Other then that its an awesome game.
+}
+
+{
+Valid: 1
+Index: 50
+Rating: 2
+Title: HELP ME
+Review: 
+<o>I have downloaded game from google play store and it has 600 mb and thats ok,cuz my internal card has 16 gb but when i open the game it seems that additional file is downloading direct on my phone memory that has 500 mb left, and now i cant download it completely.
+}
+

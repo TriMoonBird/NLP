@@ -15,8 +15,8 @@ Index: 2
 Rating: 1
 Title: Internet
 Review: 
-<o>I tried to get in the game right.
-<o>Well it requires internet.
+<p>I tried to get in the game right.
+<p>Well it requires internet.
 <p>I had 5 bars with 4g but it said i couldnt play cause i didnt have a good network connection.
 }
 
@@ -36,7 +36,7 @@ Rating: 4
 Title: Gr8 game. But...
 Review: 
 <p>Few things bug me, why does the units sent in combat are not recovered (if survived) when the attack ends.
-<o>Thus if we put in all units in the field, you will have to recruit new ones no matter you win or loose or even when no unit gets killed...
+<p>Thus if we put in all units in the field, you will have to recruit new ones no matter you win or loose or even when no unit gets killed...
 <o>Strange...
 <o>Still a good game.
 }
@@ -130,7 +130,6 @@ Review:
 <a>Its alot of fun to play but im so sick of these pay to play.
 <s>You can either spend $20 now for 4000 coins or wait 9hrs for your building to build.
 <s>I will play till my special tokens run out and will do with this Game as I have the rest...
-<o>DELETE!
 <s>Would rather play a lite version,  decide I like it then pay ome time $15 fee to purchase full version than this pay as you play BS.
 }
 
@@ -141,7 +140,6 @@ Rating: 1
 Title: Very disappointing experience recently
 Review: 
 <a>Got attacked by a player..he managed to get 18% of resources and overall damage as 25%..but instead of losing..result shows he won ..even though available loot was 18k each..result shows 100% victory n gold looted as 30lakhs...oil as 5 lakhs...
-<o>My gold is now zero..
 <p>I had 12lakhs of it...a bug or cheating..whatever it is..now im losing interest in this game..either solve this problem or it will be better to stop wasting time in an game where cheating is allowed.
 }
 
@@ -195,7 +193,7 @@ Title: Lines through all bases.
 Review: 
 <p>I just updated my phone and now there are static lines running through my base.
 <p>When I click on another base to view or fight, they have them too.
-<o>Please fix so I can rate 5 stars.
+<p>Please fix so I can rate 5 stars.
 }
 
 {
@@ -296,8 +294,8 @@ Rating: 1
 Title: Unplayable
 Review: 
 <p>Freezes.....cant get anywhere or get anything done with out it locking up.
-<o>If you could fix the problems it might be a good game.
-<o>Until then its a waist of space on my phone.
+<p>If you could fix the problems it might be a good game.
+<p>Until then its a waist of space on my phone.
 }
 
 {

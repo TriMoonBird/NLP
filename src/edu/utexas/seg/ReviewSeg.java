@@ -45,7 +45,7 @@ class ReviewSeg {
 					System.exit(1);
 				}
 
-				TextTile texttile = new TextTile(rawtext, stopwords, window, step);
+				SentenceTile texttile = new SentenceTile(rawtext, stopwords, window, step);
 				ArrayList<ArrayList<String> > topics = texttile.genTile(rawtext, texttile.boundaries);
 				printTopics(topics);
 				eval.setSegment(formBoundaries(topics));
