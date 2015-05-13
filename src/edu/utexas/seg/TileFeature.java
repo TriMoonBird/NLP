@@ -7,6 +7,9 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Hashtable;
 
+import org.tartarus.snowball.SnowballStemmer;
+import org.tartarus.snowball.ext.englishStemmer;
+
 import edu.utexas.crawler.ReviewItem;
 import edu.utexas.crawler.TaggedSentence;
 import edu.utexas.wordnet.WordNet;
@@ -14,25 +17,31 @@ import edu.utexas.wordnet.WordNet;
 public class TileFeature {
 	protected boolean mUseWordNet;
 	protected boolean mUseStopword;
+	protected boolean mUseStemmer;
 	protected WordNet mWordNet;
 	protected ArrayList<ReviewItem> mReviewItems;
 	protected String mStopwordFile;
 	protected HashSet<String> mStopwords;
+	protected SnowballStemmer mStemmer;
 	
 	public boolean useWordNet() { return mUseWordNet; }
 	public boolean useStopword() { return mUseStopword; }
+	public boolean useStemmer() { return mUseStemmer; }
 	public ArrayList<ReviewItem> items() { return mReviewItems; }
 	
 	public void setWordNet(boolean flag) { mUseWordNet = flag; }
 	public void setStopword(boolean flag) { mUseStopword = flag; }
+	public void setStemmer(boolean flag) { mUseStemmer = flag; }
 	
 	public TileFeature(ArrayList<ReviewItem> items) {
 		mUseWordNet = true;
 		mUseStopword = true;
+		mUseStemmer = true;
 		mWordNet = new WordNet();
 		mReviewItems = items;
 		mStopwordFile = "stopwords.txt";
 		mStopwords = new HashSet<String>();
+		mStemmer = new englishStemmer();
 	}
 	
 	protected void loadStopwords() {
@@ -57,6 +66,11 @@ public class TileFeature {
 	
 	protected String getStem(String word) {
 		String token = word.toLowerCase();
+		if (mUseStemmer) {
+			mStemmer.setCurrent(token);
+			mStemmer.stem();
+			token = mStemmer.getCurrent();
+		}
 		return token;
 	}
 	

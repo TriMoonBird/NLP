@@ -2,166 +2,1596 @@
 Valid: 1
 Index: 1
 Rating: 1
-Title: Error And Only Works With WIFI
+Title: Purchased features no longer available
 Review: 
-<o>Every time i click on something like oil rig or goldmine etc.
-<c>It keeps saying something about error and it only works with my wifi connection even when i have 4glte and all the bars.
-<o>The game was awesome until this started happening if it doesnt stop im just going uninstall.
+<s>I bought one of their packs to get access to advanced features and for the past few days the lock symbol was back on these features.
+<s>It allowed me to use them for a bit but now I can't use defog and reduce noise.
 }
 
 {
 Valid: 1
 Index: 2
-Rating: 1
-Title: Internet
+Rating: 4
+Title: good. all the features are not free
 Review: 
-<p>I tried to get in the game right.
-<p>Well it requires internet.
-<p>I had 5 bars with 4g but it said i couldnt play cause i didnt have a good network connection.
+<o>its good.
+<p>unlike photoshop in pc, it works fast.
+<s>but, all the features should be provided for free.
+<s>while other editing apps are availble with every features available free, everyone goes for it.
 }
 
 {
 Valid: 1
 Index: 3
-Rating: 5
-Title: 
+Rating: 1
+Title: Yep
 Review: 
-<a> Epic game that really draws you in allowing you to emerse yourself into the battles and build an awesome base to be able to attack everything and everyone.
+<o>Just gets the job done.
+<p>**UPDATE** Used to handle raw images just fine, now it crashes at least 5 times per edit.
+<p>I'm not sure what changed, but fixing it will get your rating back.
+<p>I've been using Snapseed as a great alternative until this is fixed.
 }
 
 {
 Valid: 1
 Index: 4
-Rating: 4
-Title: Gr8 game. But...
+Rating: 3
+Title: 
 Review: 
-<p>Few things bug me, why does the units sent in combat are not recovered (if survived) when the attack ends.
-<p>Thus if we put in all units in the field, you will have to recruit new ones no matter you win or loose or even when no unit gets killed...
-<o>Strange...
-<o>Still a good game.
+<p>For some reason I'll be halfway through editing a picture and the app crashes.
+<p>I realize its a big file but i have more then enough space on my phone for that.
 }
 
 {
 Valid: 1
 Index: 5
-Rating: 2
-Title: Seriously
+Rating: 3
+Title: It's okay but need more tools.
 Review: 
-<p>Why am I dropping tiers even thought I have the same battle points everyday which is 151 and every time I try to attack someone else's base it says searching then reconnecting for some reason and the game sometimes crashes but I didn't even attack and I lose 210 oil.
-}
-
-{
-Valid: 1
-Index: 6
-Rating: 4
-Title: Good ga,me 4o5
-Review: 
-<a>Its a clash of clans call of duty style game with pvp and a campaign, its not boring but its a time waiting game like coc.
-<f>Its also got a global chat.
+<o>I have used the application.
+<f>This application just given me only basic tools.
+<f>Please improve this app by adding more tools such as brush, color replacement.
 }
 
 {
 Valid: 1
 Index: 7
-Rating: 1
-Title: It dosent work
+Rating: 3
+Title: 
 Review: 
-<c>I been trying in several times to run this app on my nexus 6 and it always say that I'm not connected to the internet even though I have all my bars and 4G LTE please fix , you guys are losing players.
+<f>Altering dogs eyes doesn't work.
+<f>Tapping on complexion doesn't work and inserts another part of the pic in the spot you're trying to correct!
+<p>Crashes also.
+<o>It needs a lot of improvement.
 }
 
 {
-Valid: 0
+Valid: 1
 Index: 8
-Rating: 5
-Title: Wow what I never new was true the mw1 till aw remade to 1 date
+Rating: 1
+Title: You stole my money?
 Review: 
-<a>All problems with heroes are easily ignored but I want u activision to add 3 things.
-<a>Resnov because he is a beast fan favorite, repair drones (cost 50,000 gold and oil to make 1, max two and heals entire base but it needs to get to the structure first) so you can fix ur base in combat, and add a mobile drone center (only one max, spawns at a max 10 combat drones each doing 30 damage range 3 rest of stats ur desire) so this game gets even better than ALL OTHER THINKING GAMES THAN ITS RIGHT NOW!
-<a>(if u want 2 know real stradegy games have the rpg element allow free roam but this game understands that and I respect that).
+<s>I've had this app on both my iPhone and my new phone.
+<s>When I got my new phone I paid for all the extra filters and reduce noise and all that.
+<s>Two separate payments.
+<s>One for the filters.
+<s>The other for the extra touch up stuff.
+<s>Used it yesterday no problems, go to use it today and now suddenly I have to repay for it all?
+<s>I'm not very happy about this.
 }
 
 {
 Valid: 1
 Index: 9
 Rating: 4
-Title: It is good
+Title: Good Editing App
 Review: 
-<a>It not bad but their are some things we stuff fly over base and get in your way or when you put your men down they go evey ware they should go where you tell them to go.
+<o>I've been using this app for a while now and I like it.
+<f>It seems like there are limitations, but there are filters in this app that I don't have in another that I like to use.
 }
 
 {
 Valid: 1
 Index: 10
-Rating: 3
-Title: Needs a few improvements
+Rating: 4
+Title: Really good app but...
 Review: 
-<p>I love this game but it could use some optimizations so the game is less laggy, if they made the game all smoother then I would love the game even more.
+<s>Some of the extras you have to pay (ok i got it) 
+<f>But the problem is that you have to be online to actually use them and sometimes i need it in areas where I dont have signal.
 }
 
 {
 Valid: 1
 Index: 11
-Rating: 1
-Title: 
+Rating: 5
+Title: Everything in 1
 Review: 
-<p>Don't get wrong I like c o d games but u Really have to fix the bugs cus it's not fear to use to play a game that's halfway working.I hate your game it will not let me play am only able to do a little before the game cuts off now u lost a player and future how put this I would payed but no u just ignore.my comment now am passed I was hoping it was going to be a good game not can't even play it u need to fix or I leave.,,....
+<o>I have been using this app for a few months now.
+<o>And I still love it.
+<f>To get the results you get from this app you'd have to use at least 2 others.
+<f>So why not use this one instead?
 }
 
 {
 Valid: 1
 Index: 12
-Rating: 1
-Title: Lollipop Update
+Rating: 5
+Title: Works awesome
 Review: 
-<p>After update I now have shadow like lines covering everything in the game.
-<p>Almost like the earth and buildings are striped.
-<p>When I open the chat bar it does not cover that, just the map.
-<p>Adjusted graphics setting to lowest and did not fix either.
-<p>Would like fixed because it is annoying.
-<o>Thank you.
+<o>It's free and easy to use.
+<o>It's not "pro" but I love it.
+<o>I love using Adobe products and this is an amazing free app.
+<p>Sometimes if you are editing a picture extensively,  it'll stop working,  but all things considered,  not a huge deal.
 }
 
 {
-Valid: 1
+Valid: 2
 Index: 13
-Rating: 3
-Title: Fun
+Rating: 4
+Title: Great but can be greater!
 Review: 
-<a>Its alot of fun to play but im so sick of these pay to play.
-<s>You can either spend $20 now for 4000 coins or wait 9hrs for your building to build.
-<s>I will play till my special tokens run out and will do with this Game as I have the rest...
-<s>Would rather play a lite version,  decide I like it then pay ome time $15 fee to purchase full version than this pay as you play BS.
+<o>Simple choices to touch up or fix your photos.
+<f>There is a good array of options to enhance and design.
+<o>It's one of the best apps out there but it can get better.
+<c>Some people are stating that it has issues, but it works just fine on my Nexus 7 2nd edition w/Lollipop.
 }
 
 {
 Valid: 1
 Index: 14
 Rating: 1
-Title: Very disappointing experience recently
+Title: What happened to this app
 Review: 
-<a>Got attacked by a player..he managed to get 18% of resources and overall damage as 25%..but instead of losing..result shows he won ..even though available loot was 18k each..result shows 100% victory n gold looted as 30lakhs...oil as 5 lakhs...
-<p>I had 12lakhs of it...a bug or cheating..whatever it is..now im losing interest in this game..either solve this problem or it will be better to stop wasting time in an game where cheating is allowed.
+<p>Its gone from being great, to producing grainy pictures after editing and now they won't store even though it says its been saved.
+<p>Will no longer be saved into any album at all.
+<p>Highly disappointed &amp; may as well delete the app.
 }
 
 {
 Valid: 1
 Index: 15
 Rating: 4
-Title: Great
+Title: It is ok
 Review: 
-<f>I just want you guys to make the button for finding another base to attack a little bigger, I keep accidently sending  my troops onto a player I don't want to attack I just want to see if I can damage them well enough but if I can't, I move onto the next one but instead I accudently drop a soilder in to attack.
+<f>Jus can't really do anything except for one pic at a time.
+<f>plz make it so u can copy a piece of a pic and paste it on to another.
+}
+
+{
+Valid: 1
+Index: 16
+Rating: 3
+Title: Best Editor App Except...
+Review: 
+<c>I use photoshop express exclusively to edit my photos however on my most recent purchase,  Samsung Note Pro 12.2 running Kit Kat 32 gb, it keeps unexpectedly quitting...a lot.
+<c>Very frustrating.
+<c>If the app could stay open I would give it a perfect rating.
+}
+
+{
+Valid: 1
+Index: 17
+Rating: 5
+Title: My favorite.
+Review: 
+<o>I absolutely love taking pictures.
+<f>This app has the most  editing choices, and probably the best.
+<o>Every time I try something new, I always prefer this app.
+<o>I've possibly edited 7,xxx photos on this.
+}
+
+{
+Valid: 1
+Index: 18
+Rating: 3
+Title: In App Purchases will nickle and dime you.
+Review: 
+<s>Once you buy/unlock all the features, and if you have a solid BB connection,retty useful.
+<s>However, the app keeps telling me I have to purchase this or that feature (which I've bought 2 expansion packs for $5 and then $3).
+<s>Should be free to those of us who paid for Photoshop &amp; Lightroom CC.
+<p>Also, it crashes a lot (4 times:  2 on my Note 10.2 and 2 on Note 4)...
+}
+
+{
+Valid: 1
+Index: 19
+Rating: 1
+Title: Can't find the saved pictures
+Review: 
+<f>Has all the editing features I need but doesn't do me any good if I can find the saved edited pictures.
+<f>They don't seen to reside on the phone.
+<f>I don't use the cloud and just want the edited pictures to show in the gallery so I can download them to the computer or show them to friends on the phone.
+<f>I believe this app is just a gimmick to promote use of the Adobe Cloud.
+}
+
+{
+Valid: 1
+Index: 20
+Rating: 4
+Title: Great app.
+Review: 
+<o>I do like using this.
+<o>It is high quality photo editing.
+<f>Only 4 stars though  because it could use some updates, as other apps have a greater selection of corrections.
+<f>The red eye tool is fairly useless.
+<p>And the app always crashes.
+<f>The individual editing tools though are quite awesome.
 }
 
 {
 Valid: 2
-Index: 16
-Rating: 1
-Title: Hey stupid !!!!!
+Index: 21
+Rating: 5
+Title: Love this free app!!!
 Review: 
-<p>I wasted my 32 mb data in downloading game content when downloading completed and I again start game, again needed game content !!!!!!!
-<p>First solve game's loading problem after upload ur game on play store !
-<o>Plz do not download this game !
-<o>Don't waste ur data !
+<o>So handy to have for touch ups to those immediate fb uploads.
+<f>So many different filters so you don't need to use the Instagram ones.
+<o>Subtle edits and easy to use!!
+<o>Love this app!!!!
+}
+
+{
+Valid: 1
+Index: 22
+Rating: 5
+Title: 
+Review: 
+<o>This is literally the best mobile editor I have ever used its not designed strictly for putting colorful text in a picture for instagram or other forms of social media.
+<o>This is a good legitimate editor for professional photography on the go.
+}
+
+{
+Valid: 2
+Index: 24
+Rating: 1
+Title: Works better on ios
+Review: 
+<p>doesn't seem to work properly and crashes all the time.
+<f>The worst thing is that every time it updates it makes me suffer the tutorial pop ups all the time as if it was the first time i have used it and don't know how to use it.
+<f>Well, i've been using it for 3 years and i'm sick and tired of your stupid pop ups.
+<f>The tools disappear quite often in the middle of an edit and you have to switch it off and back on to get them back.
+<o> It's great in ios but this application doesn't really work properly on android.
+}
+
+{
+Valid: 1
+Index: 25
+Rating: 5
+Title: Amazing App
+Review: 
+<f>Reducing Noise and Fog from photos original set is perfect than buying the $40 software for computers.
+<o>Adobe is always making products like this perfect for the photographer.
+<o>I recommend Adobe!
+}
+
+{
+Valid: 1
+Index: 27
+Rating: 3
+Title: Can't find 'raw' files (.NEF's)
+Review: 
+<f>Just another app for applying presets to a jpeg.
+<f>I was under the impression from the description that it could read raw files.
+<f>It opens the 'Gallery' on my Android tablet which only displays jpeg files.
+}
+
+{
+Valid: 1
+Index: 28
+Rating: 5
+Title: WOW
+Review: 
+<o>Simply put, the best app I've ever purchased.
+<o>I use Photoshop for work so I expected to feel like the app was a bit useless but it is very robust and has improved my mobile photos by a shocking amount.
+<o>It's addicting!!!!
+}
+
+{
+Valid: 1
+Index: 29
+Rating: 3
+Title: Needs some bugs worked out
+Review: 
+<p>This is a great editing app, but crashes so much.
+<p>I'll get a photo just the way I want it and then the app will crash before I get a chance to save it.
+<p>PLEASE fix this issue.
+<p>Otherwise, it's the best photo editing app out there.
+}
+
+{
+Valid: 1
+Index: 30
+Rating: 5
+Title: Great Pictures!!!!
+Review: 
+<o>I went to the Philadelphia zoo and my pictures turned out fantastic.
+<o>I actually made a book with over 100 pictures.
+<o>I also love the fireworks on the 4th of July and I really had fun with those pics too.
+<o>Enjoy this app!!!!
+}
+
+{
+Valid: 1
+Index: 31
+Rating: 4
+Title: Great except for the crashing
+Review: 
+<o>I use this a lot, I love this app!
+<f>I am a photography enthusiast and this has some nice features for the more advanced but also very basic in its ease of use and functionality.
+<p>The only problem is, it crashes almost every time I use it.
+<p>Also the picture's display has a lag while adjusting levels.
+}
+
+{
+Valid: 2
+Index: 32
+Rating: 3
+Title: Great start
+Review: 
+<f>Seems there are quite a few limitations on what you are able to do,  even if you have an Adobe account and have the full photoshop CC version subscription.
+<f>Would be great to have a way (on android devices) of having more to play with without forking out more for your mobile editing than what you do for a full fat version of photoshop on a PC??
+}
+
+{
+Valid: 1
+Index: 33
+Rating: 3
+Title: A good app
+Review: 
+<p>Working with RAW files are processor intense, but it's bad when it crashes just working .jpg  files.
+<p>Nothing worse then getting the photo just as you wanted and after a crash, not be able to duplicate it.
+}
+
+{
+Valid: 1
+Index: 34
+Rating: 5
+Title: This App Is Pretty Good!
+Review: 
+<f>I mainly use it to crop photos, but the other free editing options are really nice too.
+<o>I recommend it to anyone who wants a simple picture editing app.
+}
+
+{
+Valid: 1
+Index: 35
+Rating: 1
+Title: App keeps restarting
+Review: 
+<p>Great app except for...
+<p>If I am editing a picture for longer than 5 minutes the screen goes white and the app restarts to it home page.
+<p>I loose any work on the photo.
+<p>Why is this?
+<p>I have a Google Nexus 9 tablet with the latest version of Android.
+}
+
+{
+Valid: 1
+Index: 36
+Rating: 3
+Title: Sort of a let down
+Review: 
+<o>I was hoping for a photo editor that would actually do something different.
+<o>But it was the same old same old.
+<o>I know there must be good photo editor apps out there for android .
+<o>I just haven't found them yet.
+}
+
+{
+Valid: 2
+Index: 37
+Rating: 1
+Title: Keeps crashing
+Review: 
+<o>This app is great!!!
+<p>But keeps crashing while I'm editing my pics and get them back.
+<p>I uninstalled it and just reinstalled it right now.
+<p>I hope this fixes it...
+<p>After installing and reinstalling this app I rate it a 0 it just kept crashing and crashing.
+<p>The need to fix this.
+<p>I have a Note 4. Someone please fix this Asap....
+}
+
+{
+Valid: 1
+Index: 38
+Rating: 5
+Title: Perfect App
+Review: 
+<o>I love it.
+<o>The pictures look and feel like they are done professional.
+<f>I like all the filters even the black n white are awesome.
+<o>I am glad I downloaded this app.
+<o>It's been over 6months I've been using it and I  I'm glad I did.
+<o>Great n fun app.
+}
+
+{
+Valid: 1
+Index: 39
+Rating: 2
+Title: 
+Review: 
+<s>Purchased the app $6 and some change later only to discover that it only unlocked the defog.
+<s>It states purchase unlocked all but it didn't.
+<o>Don't recommend.
+}
+
+{
+Valid: 1
+Index: 40
+Rating: 5
+Title: Best colour editing tool possible by a simple app
+Review: 
+<f>Includes most colour editing features in the simples and the most convenience way.
+<f>There are no advance functions such as channel mixer or selective colour but produces the most desired effect on the image by indirectly use of those features.
+}
+
+{
+Valid: 2
+Index: 41
+Rating: 5
+Title: Multi-tools = perfect edit
+Review: 
+<o>Absolutely in love with the editing tools!
+<f>The filters might not be as nice as vsco
+<p>The loading takes time, but the outcome/effect is definitely worth the few seconds drag wait!
+<o>:-).
+}
+
+{
+Valid: 1
+Index: 42
+Rating: 5
+Title: 
+Review: 
+<o>It's an excellent photo editing application can say, every body must satisfy with this usd and friendly application, thank you and hope more from you.
+}
+
+{
+Valid: 1
+Index: 45
+Rating: 4
+Title: Love this program.
+Review: 
+<o>I have used this app repeatedly with excellent results.
+<s>However, I bought the premium features, used them once and have not been able to access them since.
+<f>Would love to see a zoom or decrease size feature!
+}
+
+﻿{
+Valid: 1
+Index: 1
+Rating: 3
+Title: Mouse issue and needs resolution setting
+Review: 
+<p>Works great and quite fast most of the time.
+<f>Quite easy to set up and I like the fact you can set up a gateway also.
+<p>One issue I'm having is that in some sessions when using a mouse, every second click of the left mouse button brings up the pan button as if you zoomed in on the screen.
+<p>I then have to right click to get rid of it and on it goes.
+<p>I haven't been able to figure out the cause of this yet but it isn't specific to a computer I connect to as the same computer sometimes doesn't experience this.
+<f>The last issue is there should be an option select resolution.
+<f>2168x1355 even on a 12" screen is tiny!
+}
+
+{
+Valid: 1
+Index: 2
+Rating: 2
+Title: Could be perfect
+Review: 
+<f>This would get 5 stars if you could set the remote screen resolution.
+<f>Got a Nexus 7 (2013) but unfortunately this app does not connect with the full resolution of the Nexus.
+<f>So pretty useless.
+}
+
+{
+Valid: 1
+Index: 3
+Rating: 4
+Title: robust functionality with touch-friendly UI
+Review: 
+<f>brings the familiarity of the Remote Desktop functionality, Windows 8, to Android with few, if any, compromises.
+<f>Mouse navigation may be challenging depending on the form factor in use but the affordability to change to touch friendly navigation helps.
+}
+
+{
+Valid: 1
+Index: 4
+Rating: 4
+Title: Great App but got problem login due to keypad come with app got problem
+Review: 
+<p>Not able to login windows by key in symbol '@'.
+<p>Test use this app's keyboard type in notepad found that symbol '@' become ' " '.
+<p>Please check &amp; fix this bug immediately.
+<o>Thanks.
+}
+
+{
+Valid: 2
+Index: 5
+Rating: 5
+Title: Excellent
+Review: 
+<p>Very impressed with the performance and usability of this application for tablets.
+<f>It seems to select resolutions perfectly and translate traditional GUI controls into touch very well.
+}
+
+{
+Valid: 1
+Index: 6
+Rating: 4
+Title: Need inteflgration with Hotmail /live id
+Review: 
+<f>This app is nice but can be excellent if it give option to save all configuration with hotmail id.
+<f>So that If i login from another phone/ tablet.
+<f>No need to enter all rdp config files.
+<f>Make it like RDP Manager.
+}
+
+{
+Valid: 1
+Index: 7
+Rating: 1
+Title: Hotspot without mobile data
+Review: 
+<c>Create hotspot from phone.  
+<c>Turn off mobile data.
+<c>Connect computers to network.
+<c>Use the Wi-Fi hosting phone to RDP to connected computer 
+<c>Error: "no active network found".
+<c>It works and continues to work if I connect to the computer with data on, and disable after the local connection is made.
+<c>But not if data is disabled while establishing the local RDP connection.
+<c>Please fix.
+}
+
+{
+Valid: 1
+Index: 9
+Rating: 1
+Title: What a joke
+Review: 
+<f>Not only it is complicated to setup, but you can find very little info related to it online.
+<f>Couldn't find much of anything helpful to help you in the process of setting it up.
+<f>Personally I'll stay with what I'm using because it only take about 2 mins to setup, it very simple, and easy to use!
+}
+
+{
+Valid: 2
+Index: 10
+Rating: 3
+Title: Worked for me
+Review: 
+<o>It work perfect for me.
+<o>Keep up the good work.
+<o>Using samsung glaxy S3. 
+<p>Update when use and exit it will never conn again till reset the phone.
+<p>plz fix it to get more stars.
+<f>To open it again must use force stop and then it will exit.
+}
+
+{
+Valid: 1
+Index: 11
+Rating: 1
+Title: The screen does not refresh correctly
+Review: 
+<f>The keyboard needs to be shown, hidden then the back button pressed to refresh the screen correctly.
+<f>Without doing this, the new screen overlays the old, scrambling the image.
+}
+
+{
+Valid: 2
+Index: 12
+Rating: 3
+Title: Great not perfect.
+Review: 
+<o>Nexus 4 to win XP/win 7. Works well really useful.
+<p>When I remotely shut down my PC this app still thinks its connected to the machine.
+<f>Zoom when zoomed in I can't tap to click.
+}
+
+{
+Valid: 1
+Index: 13
+Rating: 1
+Title: Impossible
+Review: 
+<f>The FAQs on how to get your computer ready and set up firewalls and port forwarding, etc. are so complicated, and then after you follow everything it still doesn't work.
+<f>And there are no one step tools to set up or even test to see why it's not working.
+<f>I spent two hours, tore my hair out, and uninstalled the app.
+}
+
+{
+Valid: 1
+Index: 16
+Rating: 3
+Title: Wrong character
+Review: 
+<p>Some special characters like@!£# are wrong.
+<p>It displays correctly at keyboard and long press but if open notepad to type, you'll be surprised after latest update.
+}
+
+{
+Valid: 1
+Index: 17
+Rating: 2
+Title: Works, but becomes unresponsive
+Review: 
+<p>This app works, but becomes unresponsive after a few seconds of use.
+<p>It stays working, but the desktop does not respond to common actions.
+<p>Please fix as soon as possible.
+}
+
+{
+Valid: 1
+Index: 18
+Rating: 4
+Title: A must have.
+Review: 
+<o>It works great but sometimes I wish there was a guide for the controls.
+<f>I love to use the pointer in the screen but it's hard to do things without a mouse.
+}
+
+{
+Valid: 1
+Index: 19
+Rating: 2
+Title: 
+Review: 
+<f>No longer really functional for Android phones.
+<f>Lower menu blocks your view, too complexed to even double click on anything.
+<f>No simple way to disconnect from a working session.
+<f>Simplicity is the key and this is not.
+}
+
+{
+Valid: 1
+Index: 20
+Rating: 5
+Title: Puts other RDP apps out of business
+Review: 
+<o>Beyond compare.
+<o>This is the perfect RDP app.
+<o>Sad for other RDP app makers, as there were several, but good that MS built a perfect app to interface with their own protocol.
+<o>Can't think of a single thing I'd change!
+}
+
+{
+Valid: 1
+Index: 21
+Rating: 5
+Title: Great job
+Review: 
+<o>Remote Desktop has improved rather drastically.
+<p>Everything is fluid.
+<f>The controls are more intuitive than ever.
+<p>Minor hitch: there's a lag in the cursor movement sometimes.
+}
+
+{
+Valid: 1
+Index: 22
+Rating: 5
+Title: Wow - very nice.
+Review: 
+<o>This app works so nicely on my Samsung Note 3. 
+<f>Easy to setup, fantastic functionality.
+<f>Love the way pointer works and how you can zoom and move the screens around.
+<o>I plan to try with a BT keyboard and mouse.
+<o>Couldn't be happier.
+}
+
+{
+Valid: 1
+Index: 23
+Rating: 4
+Title: Very good RDP client
+Review: 
+<f>This is a very good RDP client that is easy to use and rich on features.
+<f>I have 2 requests for the Dev Team: I would like to be able to connect to multiple servers at the same time and easily switch between them, maybe using the toolbar that be shown by clicking the profile name at the top.
+<p>For some reason there is a miscommunication between my keyboard and what is actually interpreted at the server, meaning to write &amp; on the server I have to press ^ on my Android keyboard and other keys fail as well.
+}
+
+{
+Valid: 1
+Index: 24
+Rating: 5
+Title: Great. must have app!
+Review: 
+<o>I Use it all the time with win 7 and 8.1 hosts.
+<o>Google Chrome browser, chromecast and RDP for Android make a great combination (especially on your local network).
+<o>Highly Recommend!
+}
+
+{
+Valid: 2
+Index: 25
+Rating: 1
+Title: New low resolution connections breaks the app
+Review: 
+<f>Please revert "Remote experience optimized for high resolution displays" which was added in v805.  
+<f>I can no longer connect at the client's native resolution, which matches that of the host.
+<f>This makes the usable area of the desktop much smaller, creating a negative experience.
+<f>And when the Windows On-Screen Keyboard is opened I can only see a small sliver of the desktop, making the RD connection completely useless.
+<f>If the desktop appears too small on the Android device due to a high resolution we can zoo.
+}
+
+{
+Valid: 1
+Index: 26
+Rating: 5
+Title: Amazing UI and Controls
+Review: 
+<o>I love using this app.
+<o>Microsoft got this app right to support us couch potatoes or business users/IT Tech who are off site.
+<o>Heck, even on site.
+<o>Anyways great app.
+}
+
+{
+Valid: 1
+Index: 27
+Rating: 1
+Title: Far from the easiest solution
+Review: 
+<f>I'm not an expert with computers and networks but I can usually troubleshoot.
+<f>This app seems like it's experts only.
+<f>After 20 mins of tinkering I wasn't any closer to remotely controlling my desktop than I was when I started.
+<f>Frankly am not familiar enough to even know where these usernames and passwords and ports can even be found.
+<f>So instead I  downloaded teamviewer on both devices and was connected in literally 30 seconds.
+<f>Maybe this is somehow better but forgive me for wanting the simplest solution.
+}
+
+{
+Valid: 1
+Index: 28
+Rating: 5
+Title: Made IT On-Site Work Better
+Review: 
+<f>This app ultimately led to my work reimbursing me for my NVIDIA Shield Tablet...
+<f>I was able to carry that with me wherever I go instead of my laptop and do local PC work while being on the server if necessary...
+<f>its amazing how much bigger my doors in the IT world are because of this app combined with the SHIELD.
+}
+
+{
+Valid: 1
+Index: 30
+Rating: 5
+Title: Please Microsoft...
+Review: 
+<f>Give us a way to connect to mobile devices using stored credentials.
+<f>Make this app like most of the Android RDP apps...allow us to "pair" devices, then easily connect without needing a host ip.
+}
+
+{
+Valid: 1
+Index: 31
+Rating: 2
+Title: Not working.
+Review: 
+<p>I tried to establish a remote desktop connection to my pc with this app but initially is showed error  "connection failed".
+<p>After few hours when I again tried, the app tried to connect but after a few seconds it showed error again and displayed message saying to check the pc for correct settings and and didn't established remote connection.
+}
+
+{
+Valid: 1
+Index: 32
+Rating: 1
+Title: blah
+Review: 
+<o>NO type of help at all.
+<o>If you do not know how to setup and run a RDP then this is not the app for you.
+<o>The link for the faq is not helpful for new users at all.
+}
+
+{
+Valid: 2
+Index: 33
+Rating: 5
+Title: Scales well
+Review: 
+<c>I was surprised at how well this app scales to smaller screen sizes.
+<f>In addition it handles touch very well.
+<f>On Windows 7 devices it also handles mouse movements using touch well.
+}
+
+{
+Valid: 1
+Index: 34
+Rating: 1
+Title: Usual Microsoft
+Review: 
+<o>Yes, of course you need to have a Pro or Enterprise edition PC operating system.
+<o>Microsoft still can't get their heads round making their software available for everyone.
+<o>Ok, will go Google...
+}
+
+{
+Valid: 1
+Index: 35
+Rating: 4
+Title: Reasonable
+Review: 
+<p>It works, but the zoom sometimes puts the active control slightly off center.
+<p>So you have to press a button, say, a bit down and to the left of the control depending on the zoom.
+<p>Only happens 1 out of 8 times tho.
+}
+
+{
+Valid: 2
+Index: 36
+Rating: 5
+Title: Very useful app!
+Review: 
+<o>I downloaded this when we had a server issue with our VSA.
+<o>I was unable to instruct a technician through the fix by phone, they didn't have proper access.
+<o>I was able to log into our RDS and perform necessary steps to restart the VM while in Pier One.
+<o>Very useful and after an hour of use, had barely made a dent in my battery!
+}
+
+{
+Valid: 2
+Index: 37
+Rating: 2
+Title: Bad mouse input
+Review: 
+<c>Works great on my tablet but it hates my phone.
+<c>Multi touch input is worthless due to my 3.5" 480p screen.
+<f>Mouse input works, but when I lift my thumb the cursor jumps to where it was, making it no more useful other than the ability to zoom.
+<f>I thought this only affected the beta version but it happens on the stable version too.
+}
+
+{
+Valid: 1
+Index: 38
+Rating: 4
+Title: 
+Review: 
+<o>Is there a chance how to let the sounds work on the source computer?
+<o>I'd like to use this app to control my radio player on my pc but it so far it turns off my speakers and goes to remote audio instead.
+<o>Pc to pc rdp works fine, I can choose my sound output from the drop-down menu.
+<o>Thx for answer.
+}
+
+{
+Valid: 2
+Index: 39
+Rating: 4
+Title: Great except the mouse keeps hopping
+Review: 
+<p>I use this often, on my nexus 5 a lot of the time when I take my finger away from the screen the mouse pointer moves.
+<p>I then have to realign and try again.
+}
+
+{
+Valid: 1
+Index: 40
+Rating: 5
+Title: Very good
+Review: 
+<o>Good to see that Microsoft has started to produce quality software for platforms other than windows.
+<o>This works like a treat.
+<o>I use it to access my desktop from anywhere.
+<o>A simple port forward on the router and tweak on its firewall and I can access it from anywhere I got internet.
+}
+
+{
+Valid: 1
+Index: 41
+Rating: 5
+Title: The best
+Review: 
+<o>It is an incredible piece of work.
+<o>Microsoft's integration onto all platforms with high quality software is getting me to use and enjoy Microsoft products again no matter what hardware or OS I am using.
+}
+
+{
+Valid: 2
+Index: 42
+Rating: 4
+Title: Does the job
+Review: 
+<p>The touch screen doesn't work well but luckily there is mouse pointer mode which takes a little bit to get used to but is much better then touch.
+<f>I would also like to be able to zoom in more.
+<o>But all in all it is good.
+}
+
+{
+Valid: 2
+Index: 43
+Rating: 1
+Title: Problems exiting a Remote Desktop
+Review: 
+<f>I'm having problems exiting a Remote Desktop.
+<f>Backspace on the keyboard just opens help on the Remote Desktop.
+<f>Only an App Force Close ends the RDP session.
+<f>Please Help!
+}
+
+{
+Valid: 1
+Index: 44
+Rating: 3
+Title: Keyboard doesn't work right
+Review: 
+<p>I've run into the same issue in the Roku app.
+<p>What you type is apparently not what ends up in the password field because it keeps saying you've typed the wrong password, but if you type the same password elsewhere then paste it into the field, it works.
+<p>Maybe just something hinky going on with the Galazy S III.
+<o>Other than that, works great.
+}
+
+{
+Valid: 2
+Index: 45
+Rating: 2
+Title: No menu button for Galaxy Tab2 7.0
+Review: 
+<f>I use a Galaxy Tab2 7.0 which does not have the menu button.
+<f>Most programs show an alternate menu button so I can get to additional settings, but not MS Remote Desktop, so I can't configure in-session settings like using touch versus mouse.
+}
+
+﻿{
+Valid: 1
+Index: 1
+Rating: 2
+Title: Can't see the excitement
+Review: 
+<o>I've tried over and over to get this keyboard to remember a username for a website.
+<o>It remembers for a time, but then it seems to completely forget it.
+<o>I even upgraded today, but with no luck.
+<o>I'm now removing this app, in frustration.
+<o>I don't see what the excitement is over this keyboard; I found it at the bottom of the heap of the swipe-style keyboards I've tried.
+}
+
+{
+Valid: 1
+Index: 2
+Rating: 1
+Title: Why I think Swiftkey sucks.
+Review: 
+<f>It just literally tries to do anything for you, it puts spaces after every punctuation and comma, if you have 2 or more languages set it will autocorrect almost every single word to the first of the 2 languages.
+<o>This came as bloatware on my OnePlus One and I utterly hate it right now.
+}
+
+{
+Valid: 1
+Index: 4
+Rating: 3
+Title: Still no shortcuts like Google keyboard
+Review: 
+<f>Up till not SwiftKey still doesn't have shortcuts personalisation like Google keyboard.
+<f>On GK I have shortcuts where I just type "idk" and my personalise shortcut predicts it as "I don't know".
+<f>Add this function then I'll move back to you guys but for now I'm sticking with GK.
+}
+
+{
+Valid: 2
+Index: 5
+Rating: 1
+Title: Have some suggestions.
+Review: 
+<o>I am currently wrighting with this keyboard and I must say that I have seen better.
+<f>It is a pain due to the size of the keyboard that makes it harder for me to read the text and I have had to re write this three times already due to it writing BACKWARDS!
+<f>I will be uninstalling until you email me that you have fixed the problem.
+}
+
+{
+Valid: 1
+Index: 6
+Rating: 3
+Title: It's better than the alternative
+Review: 
+<o>I tried the other keyboards and this one is the best of them.
+<f>BUT my biggest complaint is when I hit a number or letter next to a letter I meant to hit it doesn't predict the word.
+<f>I have seen other keyboards on older phones do this, so I know it's possible.
+<f>I spend a lot of time fixing it's predictions....
+<o>WTH!!!
+}
+
+{
+Valid: 1
+Index: 7
+Rating: 4
+Title: Emojis?
+Review: 
+<p>I'm not quite sure when, but the emojis stopped working?
+<p>They used to work fine, but now when I go to that section of the keyboard, everything is invisible...
+<p>Please help!
+<o>:(.
+}
+
+{
+Valid: 1
+Index: 8
+Rating: 5
+Title: Great keyboard app!
+Review: 
+<f>Combine predictive text with the ability to swipe across the keyboard to form words, and you get a really good keyboard application.
+<o>I'm pretty impressed with the speed I'm able to type now, so I'd definitely recommend SwiftKey.
+}
+
+{
+Valid: 2
+Index: 9
+Rating: 5
+Title: 
+Review: 
+<o>I was extremely frustrated with Samsung's swipe.
+<o>This is soo much nicer!
+<p>Better predictions...
+<p>Actually deletes words you don't want...
+<p>Overall smoother!
+}
+
+{
+Valid: 1
+Index: 10
+Rating: 4
+Title: Excellent alternative to Google keyboard
+Review: 
+<o>Excellent secondary option and I have used it for a quite some time.
+<f>I dislike the fact that I have to sign into my SwiftKey account to get certain features and the occasional nag to sign into the cloud.
+<f>Nonetheless,  I can live with it and will not penalize the app.
+}
+
+{
+Valid: 2
+Index: 11
+Rating: 4
+Title: More Sounds
+Review: 
+<a>This app is super amazing but the sound sometimes gets annoying and I don't wanna turn off the sound.
+<f>Is it ok if u guys add more sounds thanks.
+<f>If u guys do I will totally give this app 5 stars.
+}
+
+{
+Valid: 1
+Index: 12
+Rating: 4
+Title: New version breaks vibration system wide on OnePlus One
+Review: 
+<p>Typing a few words and vibration suddenly stops,and is disabled system wide until I shake or lightly smack the phone (I'm assuming the accelerometer activates something). 
+<p>Tested other keyboards, and vibration keeps working all day just fine with those.
+<p>The problem only happens with the newest version of Swiftkey.
+<p>Before this I loved the app.
+<a>Cobalt theme if that matters.
+}
+
+{
+Valid: 1
+Index: 13
+Rating: 5
+Title: MUCH better than stock Lollipop keyboard.
+Review: 
+<f>I've tried out a lot of keyboards, but this seems much easier to navigate through.
+<a>I especially love the different layouts and themes!
+<p>On my Nexus 6, sometimes it doesn't vibrate and it always has to be up past 20 to even feel anything.
+}
+
+{
+Valid: 1
+Index: 14
+Rating: 5
+Title: Absolutely love this app
+Review: 
+<p>The predictive text on this thing is wonderful.
+<f>And not just in English but afrikaans as well.
+<o>This is the first app that gets installed on any of my new devices.
+<o>Lol wish they had a version for the PC.
+}
+
+{
+Valid: 1
+Index: 15
+Rating: 5
+Title: the perfect keyboard.
+Review: 
+<p>the predictive text is the best I have ever seen.
+<f>once you've used it for a while and it learns your typing style,  you can dang near type total gibberish  and somehow this keyboard still knows what you meant to type.
+<f>great for someone like me,  who can't type two letters without one of them being a typo!!!
+}
+
+{
+Valid: 1
+Index: 16
+Rating: 4
+Title: The best keyboard
+Review: 
+<o>Ths is the best keyboard so far, i've try so many keyboard before but ths is the best keyboard ever.
+<a>Anyway i want to give ths keyboard 5 star, but before tht can u guys make fitur to change the background?
+<a>Thanks i hope u guys consider it.
+}
+
+{
+Valid: 1
+Index: 17
+Rating: 3
+Title: Keyboard not working!
+Review: 
+<p>The Swift key keyboard has disappeared and for some reason I can't get it enabled back onto my phone.
+<p>I've uninstalled the app and reinstalled it.
+<p>I've rebooted my phone and that didn't work either.
+<o>I have an AT&amp;T LG G2 phone.
+<o>Thanks for your help.
+}
+
+{
+Valid: 2
+Index: 18
+Rating: 5
+Title: Great app
+Review: 
+<o>Well worth the pennies I spent on the full version.
+<f>If you let it learn from your old conversations, you can just keep accepting the suggestions and see where it takes you.
+<f>It can get quite spooky.
+<o>I myself can't get to grips with the swiping but I'm told it works very well.
+}
+
+{
+Valid: 1
+Index: 19
+Rating: 4
+Title: Japanese language
+Review: 
+<f>This keyboard is really good to use but lacking the Japanese language input.
+<f>Please include it in the near future as it's troublesome to switch back and forth between keyboards.
+<f>It would also be nice to see a kaomoji keyboard in addition to emoji.
+}
+
+{
+Valid: 1
+Index: 20
+Rating: 4
+Title: Great with Dragon speech to text engine.
+Review: 
+<o>It's wonderful app.
+<o>Since nothing is perfect and there is always, repeat always, room for improvement I give 4 Stars.
+<o>Otherwise it's more than 5 stars.
+<o>Presto.!
+<o>Is there any provision for 10 stars.
+<o>Lol 😁.
+}
+
+{
+Valid: 1
+Index: 21
+Rating: 4
+Title: INTUITIVE &amp; Smart
+Review: 
+<f>I would've rated it 5 stars because of its features compared to stock keyboard.
+<f>But, it still lags behind some other keyboards as it misses the ".com"  button on the keyboard.
+}
+
+{
+Valid: 1
+Index: 22
+Rating: 5
+Title: The ultimate keyboards available!
+Review: 
+<o>SwiftKey  has made some very nice improvements lately.
+<o>Purchasing Fleksy and TouchPal were a real waste of money.
+<o>If you want the best, SwiftKey is the only way to go.
+}
+
+{
+Valid: 1
+Index: 23
+Rating: 5
+Title: Working better
+Review: 
+<p>After my previous review following a problem with predictions and other things, Swiftkey responded very quickly.
+<p>The fix they suggested appears to of worked as predictions have improved again and Swiftkey is a joy to use once again.
+<o>Thanks.
+}
+
+{
+Valid: 1
+Index: 24
+Rating: 1
+Title: Sucks
+Review: 
+<o>That's about all I glitzy about this app.
+<o>I stopped this comment  &amp;  will not make the corrections.
+<o>See how many words here,  it came even very the words right.
+}
+
+{
+Valid: 1
+Index: 25
+Rating: 4
+Title: Mostly great .
+Review: 
+<a>Needs a better layouts interface than being solely about selling shiny new things (I can forgive this as there is a profit motive involved).
+<f>You loose a star for the following, there needs to be an option for "never remember" and a user defined dictionary so you can go in and add once words you use often that the predictive interface fails to pull up.
+}
+
+{
+Valid: 1
+Index: 26
+Rating: 4
+Title: Superb keyboard! Close to perfect.
+Review: 
+<f>Truly multi-language keyboard.
+<f>It actually auto toggle between languages without a need to switch manually.
+<p>As such, would not be able to type as fast as Fleksy if typing in 1 language.
+<a>Keyboard sound not nice.
+<o>But overall fantastic!
+<o>A must have keyboard app for any phone!
+}
+
+{
+Valid: 2
+Index: 28
+Rating: 4
+Title: Great experience with a glitch
+Review: 
+<o>Great, intuitive and we'll designed and developed.
+<c>Developers: there's a glitch on Google Nexus 6 where half of the time key stroke sounds seem to double.
+<c>Comes on and off randomly.
+}
+
+{
+Valid: 2
+Index: 29
+Rating: 4
+Title: Needs more themes + hard to type
+Review: 
+<f>I always type wrong since keys are close to each other and narrow.
+<a>And I really wish it would have more themes Material design theme.
+<o>Other than that it's perfect.
+}
+
+{
+Valid: 1
+Index: 30
+Rating: 5
+Title: Swift key
+Review: 
+<o>I definitely recommend it!
+<o>Better than my stock LG g3 keyboard,  better than the google keyboard and better than Swype .
+<p>The predictions are excellent, you don't have to switch between English and French  and the looks are great!
+<o>Excellent!
+}
+
+{
+Valid: 1
+Index: 31
+Rating: 4
+Title: Better than GoPro keyboard
+Review: 
+<f>Love the extra features that GoPro didn't think were important such as the 'enter'  key or word suggestion.
+<f>Would have rated 5 stars if it had some other features like double space adds a period or better emoji's ...
+<f>Little things like that but otherwise would definitely recommend this to friends.
+}
+
+{
+Valid: 2
+Index: 32
+Rating: 5
+Title: Great One
+Review: 
+<o>The thing you'd better buy.
+<p>Predictions are very good.
+<f>It really remembers how you combine words.
+<f>+cloud - must-have feature when you got a lot of devices.
+}
+
+{
+Valid: 1
+Index: 33
+Rating: 5
+Title: Best keyboard ever!!
+Review: 
+<o>Been using this for about 3 years now, works great on my Oneplus one running android Lollipop.
+<o>It's also nice to see that OnePlus has made this the default keyboard on all their devices through an update, hats off to them!
+}
+
+{
+Valid: 2
+Index: 34
+Rating: 1
+Title: John Bates
+Review: 
+<o>I'm revising my opinion!
+<o>Please take some advice from a long-term user of Swiftkey.
+<p>DO NOT INSTALL THE LATEST VERSION OF THIS APP, IT WILL PROBABLY DRIVE YOU INSANE!
+<p>The Predictive Texting &amp; Corrections Actions are ABSOLUTELY AWFUL.
+<p>I have got to the point of considering removing swiftkey &amp; going back to the 'WORSE' Android keyboard!
+<o>FORGET IT!
+<o>As for any help you need: NIL!
+}
+
+{
+Valid: 1
+Index: 36
+Rating: 4
+Title: Still the best keyboard
+Review: 
+<f>I've tried some of the new ones lately and they are all still very annoying to some degree.
+<f>SwiftKey can be irritating sometimes when it bogs down or when it refuses to let me use a particular combination of letters and periods, but it's still miles ahead of the competition, even Google's keyboard which I think is 2nd best best but still reminiscent of something a couple high school students would make for the science fair.
+}
+
+{
+Valid: 1
+Index: 37
+Rating: 5
+Title: Great keyboard.
+Review: 
+<o>Really.
+<o>It's an awesome keyboard.
+<o>Better than all the rest n stuff.
+<o>And by "rest",  I mean Swype and Samsung Keyboard,  both of which came with my S3.  I mean,  Swype was a great alternative,  and nice of them to stock,  but SwiftKey is where it's at, baby!
+<o>DOWNLOAD IT!
+<o>NOW!!!
+}
+
+{
+Valid: 1
+Index: 38
+Rating: 4
+Title: Best of a Bad Lot
+Review: 
+<f>Like Swype,  punctuation and symbols are overlaid on the keys.
+<p>Unfortunately,  it's predictive capabilities are more hit and miss.
+<p>The correct word pops up suddenly or,  as now,  it took me almost a minute to get the word 'pops'  to come up.
+<p>Google keyboard is better predictably,  Swype second.
+<p>SwiftKey doesn't have as many failures as Swype when in Facebook,  but it's word recognition has a long way to go.
+}
+
+{
+Valid: 1
+Index: 39
+Rating: 3
+Title: Great keyboard, still needs works and some explaining.
+Review: 
+<o>I really love this onscreen keyboard app.
+<o>What I don't like is that I paid for this app, and the other apps from this developer and they now published it for free and put all together in one app.
+<o>Next to that, you have to reselect it as default input methode after updating.
+}
+
+{
+Valid: 1
+Index: 40
+Rating: 4
+Title: Still missing shortcut gestures
+Review: 
+<f>Despite being in development for years now it still lacks the shortcut gestures of others.
+<f>Could you add the ability to copy selection by swiping from (123) to c, paste p, select all a, capitalization shift.
+<f>Swipe left from delete key to delete last word.
+<f>Could be a.0.99p addon.
+}
+
+{
+Valid: 2
+Index: 41
+Rating: 5
+Title: Best keyboard enhancement
+Review: 
+<o>Updated to the new version when i got my Samsung Galaxy Note 4. 
+<o>I like the new look/feel/features,  even tho their new branding confused me as to whether i was downloading the same app.
+<f>One of the things that drove me crazy was having no arrows on the native keyboard.
+<f>Found them as an option in swiftkey!
+<f>Also like the option of keeping the numbers on the main keyboard.
+<f>Now,  if you can find a place to keep ".com" on there,  too!
+}
+
+{
+Valid: 1
+Index: 42
+Rating: 4
+Title: 
+Review: 
+<f>There's Chinese language setting, which means this app is totally capable of displaying Kanji, yet there's still no Japanese keyboard support.
+<f>I'll give five stars when it's available.
+}
+
+{
+Valid: 2
+Index: 44
+Rating: 5
+Title: Most accurate keyboard that I have come across
+Review: 
+<p>There is no other way to put this, this app really has the worlds best auto complete engine.
+<f>As it learns your typing pattern it will within a week have become your best friend.
+<f>But nothing is 100 percent perfect and this keyboard app lacks a few features. 
+<p>It has a strange behavior that I have noticed.
+<p>The settings is kind of slow.
+<f>The app lacks the feature to change the size of the keyboard.
+<o>Overall this app is a must have and has been my friend since I bought it many months ago.
+}
+
+
+{
+Valid: 1
+Index: 1
+Rating: 5
+Title: Brilliant recorder
+Review: 
+<o>It's quick, intuitive, efficient, simple, reliable and high quality.
+<f>This is so well designed, easy to setup, jumping from record to playback is a snap.
+<p>Disposal of the recording is mere drag and drop.
+<o>I recommend it.
+}
+
+{
+Valid: 1
+Index: 2
+Rating: 4
+Title: 
+Review: 
+<o>Ok for a free ap.
+<p>Has improved clarity over many basic lowfi recorders.
+<f>Doesn't record its own clicks when stopping rec.
+<f>Works with Drive so what's not to like?
+}
+
+{
+Valid: 1
+Index: 3
+Rating: 5
+Title: Very useful
+Review: 
+<p>Sound quality is good.
+<p>I use it to record music informally for practice.
+<p>It's also great to record what doctors say during a visit or when family members have procedures done.
+<p>Helps you recall complicated details.
+}
+
+{
+Valid: 2
+Index: 4
+Rating: 5
+Title: Perfect
+Review: 
+<o>I really recommend this application.
+<o>It's works very good and its perfect for record and for manager the recordings...
+<o>I loved it and I'll probably gonna buy the pro version.
+<f>If this app could record stream would be more than perfect!
+}
+
+{
+Valid: 1
+Index: 5
+Rating: 4
+Title: Record calls, sing, make audiobooks.....
+Review: 
+<o>This little recorder works great for a simple minded user like me.
+<f>Maybe I do not know how to use it yet, but the one bad thing is you cannot attach larger files to an email.
+<f>Thus you have to use a better email than Gmail, or limit files to 20 MB.
+<f>There are other ways, eg., Drive; Beam, etc.
+<f>I am sure there is a better way to send the file to a person or device, but I do not know how to use them.
+<f>They must be getting backed up somewhere, but I do not know where my backups go!!!!!
+<f>google tried to steal them from my phone company backup, and I think they may be lost in the Cloud.
+<o>In many States it is legal to tape any conversation that one party consents to.
+<o>That would be....YOU!
+<o>I think the Feds allow this if the State does, but I would not swear to it..
+}
+
+{
+Valid: 1
+Index: 6
+Rating: 5
+Title: Very useful
+Review: 
+<o>I use this to record choir solos at rehearsal so I can learn the music at home.
+<o>It's really helpful and incredibly easy to use.
+}
+
+{
+Valid: 1
+Index: 7
+Rating: 5
+Title: Awesome recorder
+Review: 
+<p>Even when whispering it picked the audio up clear and sharp, nothing was lost and playback was bery loud even with conversations recorded at a distance and very low.
+<o>Love this app.
+}
+
+{
+Valid: 1
+Index: 8
+Rating: 5
+Title: Great but fix requested
+Review: 
+<o>Works great!
+<o>Simple and easy to use.
+<f>Only thing I don't like is that when the pop up window appears to rate the app, it automatically stops the recording.
+<f>i thought I had captured 30 min of recording, but it only captured 8 seconds.
+<f>i didnt notice this because I was not looking at the screen.
+<f>when I finally did go to stop the recording, I was met with the pop up to rate the app and that's when I realized I had only 8 seconds of content.
+<f>:(   now that I've rated it, hoping it will be a non issue.
+}
+
+{
+Valid: 1
+Index: 9
+Rating: 4
+Title: 
+Review: 
+<o>Love this for recording my new music for Midwest Crossroad Chorus.
+<p>Use it all the time, but the play back cuts out and then comes back a few times in my recording playback.
+<p>Wish I knew why!
+}
+
+{
+Valid: 1
+Index: 10
+Rating: 4
+Title: Functional, but lacks visual redesign
+Review: 
+<a>Despite the app doing what it's meant to do, it could really use some redesign to fit Google's Material Design.
+<a>I mean, the app itself is really functional, and does what it's supposed to with perfection, but its aesthetics are too old-fashioned.
+<a>As soon as a visual redesign comes out, I'll be glad to rate it 5-stars.
+}
+
+{
+Valid: 1
+Index: 11
+Rating: 5
+Title: True to its title
+Review: 
+<o>A good app, very useful and user friendly!
+<o>Installing the widget on the home screen makes it especially efficient for capturing those important thoughts.
+}
+
+{
+Valid: 1
+Index: 12
+Rating: 5
+Title: Samsung Tablet
+Review: 
+<p>This app is easy to use and the sound is as good as any of the other recorders l have downloaded.
+<o>I also like how you reply to people giving only 1 or 2 stars.
+<o>It would be more fair to the dev if people with technical issues would email the dev first to let them work with the issue.
+<o>The ratings would be near perfect if that was done first!
+}
+
+{
+Valid: 1
+Index: 13
+Rating: 3
+Title: Good one but not the best..
+Review: 
+<o>I've used inbuilt preinstalled voice recorders in micromax, Samsung and Nokia phones.
+<o>Moto G does not come with one.
+<f>I am still looking for a recorder that can record voice or from FM and give a good output with enough volume.
+}
+
+{
+Valid: 1
+Index: 14
+Rating: 5
+Title: Big red button widget is perfect
+Review: 
+<o>This is without a doubt my favorite quick and easy recording app that I've ever used.
+<f>The resizable quick record button widget is perfect to capture ideas on the fly.
+}
+
+{
+Valid: 1
+Index: 15
+Rating: 4
+Title: Great app
+Review: 
+<o>One of the first apps I downloaded on my new phone after switching to the new Droid turbo.
+<o>It worked well on my old phone.
+<o>It is very handy and I use it quite often.
+<p>It is not very good for leveling and EQ when recording drum rhythms.
+<p>Otherwise I would have given 5 stars.
+<p>Other than that I love it.
+}
+
+{
+Valid: 1
+Index: 16
+Rating: 4
+Title: Very useful
+Review: 
+<o>I use this all the time to take quick audio memos and make simple recordings.
+<o>Clean and easy.
+<f>But I have to upload and edit on my PC to make the wave files into MP3s thus far.
 }
 
 {
@@ -170,2676 +1600,859 @@ Index: 17
 Rating: 5
 Title: 
 Review: 
-<a>Way vetter than allbthese negitve people say it a really good game they just need to add like allies an dall that till then ill still give em 5 stars.
+<p>Great sound quality; still playing around with it, but I haven't encountered any issues.
+<p>Just user error ;) Very helpful tool!
+<o>I'm glad I installed this app.
 }
 
 {
-Valid: 2
+Valid: 1
 Index: 18
-Rating: 3
-Title: Needs more features (1.5)
+Rating: 5
+Title: Great app
 Review: 
-<a>-Would be better  if heroes monves immediately after ordering to move and not having a 1second delay before it moves.
-<s>-More diamond uses.
-<a>-REMOVE that 10-15 pvp normal loot battles  per day.
-<a>We don't know if retaliate or an unsuccessfull seige is counted on that 10-15 pvp limit.
+<o>Particularly useful when you use it in conjunction with an automatic file syncing app so your voice recordings automatically appear on your computer.
 }
 
 {
 Valid: 1
 Index: 19
-Rating: 3
-Title: Lines through all bases.
+Rating: 5
+Title: Very good quality for an app
 Review: 
-<p>I just updated my phone and now there are static lines running through my base.
-<p>When I click on another base to view or fight, they have them too.
-<p>Please fix so I can rate 5 stars.
+<o>Considering the fact it's a free app, it's hard to find anything to grumble about here.
+<o>Well done: it's a welcome addition to my apps, and I often use it to record stuff.
 }
 
 {
 Valid: 1
 Index: 20
-Rating: 4
-Title: So far so good
-Review: 
-<a>I just started today and its great..its just like clash of clans but military/army based..don't listen to tha Downer's...
-<a>This game iz good..
-}
-
-{
-Valid: 1
-Index: 21
-Rating: 5
-Title: Awesome
-Review: 
-<a>Easy tutorial you get all the basics like command and conquer.
-<a>Only draw back is time for building and leveling up if you want to play free some structures take up to a 3 days to build.
-<f>Other than that it a great game with alliances and chat rooms.
-}
-
-{
-Valid: 1
-Index: 22
 Rating: 3
-Title: Game lags the frame
+Title: Crashed and stopped recording
 Review: 
-<p>This game is awesome but it lags while zooming and it is not smooth feels like it is loosing frames i request the devloper please make it smooth we don't need detailed graphics we just need the performance of the game....
+<o>I have used this app quite a lot to record my lectures.
+<f>I like it so much because it is easy to record and transfer to drive.
+<p>The sound is very clear.
+<p>However, the last update drained the battery life even when not using it.
+<p>Also, it keeps crashing and stop recording in the middle of the lecture.
+<p>It is so disappointing cause I noticed that after the end of lecture as I was busy taking notes :( this never happened on the previous update.
+<p>I have it on my Asus nexus 7 tablet.
+<p>Please fix it.
 }
 
 {
 Valid: 1
-Index: 23
-Rating: 3
-Title: 4g network error, i have a fix for error.
-Review: 
-<c>I have unlimited 4g data and it wont connect to game.
-<c>Only way to connect is to enable wifi and connect to a wifi network.
-<o>I see robert milton is having the exact same error as me.
-<o>I would of rated this a 5...
-<c>my tip to others with 4g error like myself is to enable wifi and connect to the game that way, once connected and your at your base, swipe down ur status bar and disable wifi and make sure mobile date is enabled.
-<c>Wait 10 seconds then go back to game and problem solved, you can now enjoy game with 4g.
-}
-
-{
-Valid: 1
-Index: 24
+Index: 1
 Rating: 5
-Title: Awesome
+Title: Great!
 Review: 
-<o>This is a pretty good game.
-<a>Different than how I normally play call of duty games but interesting and fun.
-<o>Good work.
-<a>I love this game its freaking tight.
-}
-
-{
-Valid: 2
-Index: 25
-Rating: 1
-Title: Doesn't work anymore
-Review: 
-<a>Wow...ive spent money on this game and spent the last 5 weeks leveling up this hero just to have you guys nerf him completely with this update..good move.
-}
-
-{
-Valid: 2
-Index: 26
-Rating: 5
-Title: Call of duty
-Review: 
-<o>Really enjoy playing this game.
-<o>It's exactly the type of game I prefer to play.
-<p>Doesn't move as smoothly as other games, but still works for me.
-<a>If you like strategy games then give it a try.
+<a>Icons could be a bit more stylish.
+<o>But other than that it's a great app!
+<o>Love it!
+<f>I've seen some other apps that can check out network folders on WIFI as well.
+<f>Would be a great feature to be added!
 }
 
 {
 Valid: 1
-Index: 27
-Rating: 2
-Title: Not that great...
-Review: 
-<o>If I knew how to report in-game I would.
-<a>But anyway, I keep getting my base attacked by level 50+ players and I'm only level 42, and there's nothing I can do.
-<a>That's not cool...
-<f>And I think a new parameter should be implemented such that the level of someone attacking your base...
-<f>should be no higher or lower than +/-5 your own level .
-<f>And vice versa.
-}
-
-{
-Valid: 1
-Index: 28
-Rating: 1
-Title: Unplayable
-Review: 
-<p>Freezes.....cant get anywhere or get anything done with out it locking up.
-<p>If you could fix the problems it might be a good game.
-<p>Until then its a waist of space on my phone.
-}
-
-{
-Valid: 1
-Index: 29
-Rating: 4
-Title: Facebook friends missing
-Review: 
-<f>I gave the game 4 stars but if there is Facebook friends I would give 5 stars so why u don't put Facebook friends because the main fun when we see the progress of our friends.
-}
-
-{
-Valid: 2
-Index: 30
+Index: 2
 Rating: 3
-Title: Fun for a bit
+Title: Ok
 Review: 
-<a>The game starts out well but after a bit you have to start waiting hours or days for thing to build or spend real cash to speed things up.
-<s>If you're not looking to drain your bank account, I'd recommend finding something else to play.
+<f>Like most file managers I've tried there's something missing.
+<f>I'd really like to be able to select multiple files faster.
+<f>A "select all" option coupled with what QuickPic has; long-press one file and long press another will select every file between the two.
+<f>I don't want to just look at my files--i want to interact with them.
+}
+
+{
+Valid: 1
+Index: 3
+Rating: 5
+Title: Works very well with my Gmail
+Review: 
+<f>With it installed, I can attach any files stored in my phone or SD card or USB thumb drive when using Gmail.
+<f>When you press 'add photo' or 'add video' in attachment function of Gmail, you can easily select OI file manager for your file.
+<f>Tried others but only this one work with Gmail.
+<o>It basically turned my phone to a real mobile computer for my own work.
+<o>Thank you!
+}
+
+{
+Valid: 1
+Index: 4
+Rating: 5
+Title: Great and Simple ...
+Review: 
+<f>Simple but moderate interface and great features like compression exclude from media scan etc.
+<o>And best part is its free.
+<o>Recommend it to everyone.
 }
 
 {
 Valid: 2
-Index: 31
-Rating: 2
-Title: What's up wit the lag b.s. ?
+Index: 5
+Rating: 5
+Title: My everyday app
 Review: 
-<p>The game still has no improvement still need more improvement wit the stars clearly if u get at least 50% u don't get a star which is stupid and still can't get 4G to work on this game and when r they gonna let me know when my army train?
-<a>Plus this game lag to the point it's unplayable or if u in battle it bearly let ur troops out which is bad and data error 0 wtf when I search that's all I see.
+<c>There is one problem I'd like to report.
+<c>When I cut a file, a very big field appears telling "1 item to move".
+<c>If the screen is horisontal, it is just impossible to scroll, this field obstructs almost everything!
+<c>I solve this by turning the screen vertical.
 }
 
 {
-Valid: 1
-Index: 32
+Valid: 2
+Index: 6
 Rating: 4
-Title: This game is pretty cool
+Title: Simple and works
 Review: 
-<f>I think this game was cool the only thing I think they should of added a first person mode while in battle as being a hero.
-<o>This fix would of made it a 5 stars.
+<a>I have been using this application over 2 years now and I really like its simplicity and clean interface.
+<p>However, with the next update all file icons have disappeared.
+<p>Please fix it and I would give 5 stars.
 }
 
 {
-Valid: 1
-Index: 33
+Valid: 2
+Index: 7
 Rating: 1
 Title: Plz fix
 Review: 
-<c>I've downloaded and installed this game 20 times now,turned my phone off and on multiple times and the game still won't work.the game looks cool and all but can't even play it..it finishes loading and just force closes every single time.
-}
-
-{
-Valid: 1
-Index: 34
-Rating: 2
-Title: Call of duty heros
-Review: 
-<p>I am still getting a 'no network 'for  my  game!!
-<p>This is too much and no one has done anything to correct this!
-<o>I want to play my GAME!
-<p>As of 4/23/15 my game came back on but not even 3 hours later, it cut off AGAIN WITH THE "NO NETWORK "BULLCRAP!!
-<o>I love this game but your company has serious issues!
-<o>My husband and I have the same phone AND carrier and when my game is messed up his  works and when my game works HIS  IS MESSED UP!
-<o>What the CRAP??!!!!!
-}
-
-{
-Valid: 1
-Index: 35
-Rating: 3
-Title: Error
-Review: 
-<p>Network error data error code 410 was playing fine till this morning fix it soon or will uninstall and find something else too many other out there to put up with this.
-}
-
-{
-Valid: 1
-Index: 36
-Rating: 1
-Title: Sheer Crap!
-Review: 
-<o>Spent ages building my guy/HQ for the stupid update to f**k it up.
-<p>Says its not connected to net when it is.
-<s>Spent good money on this game and for no reason i have nothing i bought.
-<s>Goodbye hard earned cash..
-<o>I know what i wont be spending you on again!
-}
-
-{
-Valid: 1
-Index: 37
-Rating: 5
-Title: Good game
-Review: 
-<a>Awesome game i play clash of clans and at first i thought it would be one of the many rubbish rip offs but its really good and not based purely like clash of clans.
+<o>I am using this file manager since 3 yrs now.
+<p>Bt after this update, thumbnails of PDF, apk etc files are not loading.
+<p>Only thumbnails of pics are loading.
+<p>Plz fix this...
 }
 
 {
 Valid: 2
-Index: 38
-Rating: 5
-Title: Call of duty heroes
-Review: 
-<p>Game is awesome, updates always load and I haven't had no problems.
-<p>The last update you guys fixed a lot and now this 1.5 update loaded perfectly.
-<p>Those that are having problems with the new update, install the the new updates with WiFi, the updates always load right and you DON'T lose anything.
-<p>Try it out guys, I remember the first update about a month ago didn't load and the game stopped playing so I tried it using WiFi and it loaded right away.
-<p>You guy are really fine tuning this game it's awesome, ty.
-}
-
-{
-Valid: 1
-Index: 39
-Rating: 1
-Title: 
-Review: 
-<o>Useless!!!
-<p>I thought updates were supposed to make the game better not stop it working all together.
-<o>Sort it out guys or refund the money people have spent!
-}
-
-{
-Valid: 1
-Index: 40
-Rating: 5
-Title: Best game ever
-Review: 
-<a>This game is fun you get to level up you get to level up your people level up your weapons level up pericing you get volts you get new people you can new heroes you get all that stuff its really fun and I like about this game what time is that you can do almost anything in it you can fight other people they can fight you on the only fight you when they're ready to fight like when they think they can destroy you but you can buy stuff you can do all sorts of stuff its really fun.
-}
-
-{
-Valid: 1
-Index: 41
-Rating: 2
-Title: Good game but has its problems. I KEEP GETTING ATTACKED BY PEOPLE WHO PAY THERE WAY THROUGH THE GAME ATTACKED TWICE IN 6 HOURS AND LOST 500.000 RESOURCES THIS IS NOT FAIR!! LEVEL 75 AGAINST 47 HOW IS THAT FAIR??? SORT IT OUT OR I WILL UNINSTALL! !
-Review: 
-<o>Ok so we know games favour those who pay but this is rediculouse!
-<o>My base has been levelled 13 times in 9-10 days.
-<a>It is very hard to save resources as one attack would take nearly half your resources i've had 3 attacks in the past day and i have lost nearly all my resources i had been saving to upgrade my command centre but it is people who are far in the game and who have high stats being allowed to attack small players it makes it really hard to make your way through the game.
-<s>It reminds me of a scam!
-}
-
-{
-Valid: 1
-Index: 42
-Rating: 4
-Title: Bout time!!!
-Review: 
-<o>Maybe this game has been out for a while, maybe i never saw it, but its about time i did.
-<a>Ive been waiting for a game comparable to CoClans or CoLords, and so far this on3 blows them out of the water..
-<o>we'll see how it goes as i progress through the game.
-<o>As for now, 4stars.
-}
-
-{
-Valid: 1
-Index: 43
-Rating: 3
-Title: I don't know about this
-Review: 
-<a>Seems to me call of duty is just going down I played all the cods and after black ops2 I just decided call of duty went to crap.
-<a>And this I thought it be good but seems like its starting to go down to maybe call of duty is just a dieing breed.
-}
-
-{
-Valid: 1
-Index: 44
-Rating: 5
-Title: Fun game!
-Review: 
-<s>In app purchases make this a costly game if you're impatient.
-<f>Intertwined leveling up make it interesting strategically.
-<o>Activision quick to respond to issues when you contact directly instead of whining on reviews.
-}
-
-{
-Valid: 2
-Index: 45
-Rating: 3
-Title: Yehoshua89
-Review: 
-<a>Its good could b better, maybe stages where y8u and the enemy bake for a plot of land, like red alert, u can spy on them etc befote u take them out n claim the territory.
-}
-
-{
-Valid: 1
-Index: 46
-Rating: 5
-Title: This is a great game!
-Review: 
-<o>This game is a real war game.
-<o>You control helicopters and and troops.
-<o>It's similar to clash of clans but better because you build a real army.
-<a>It's really fun especially  if you are into war games with strategy.
-}
-
-{
-Valid: 1
-Index: 47
-Rating: 5
-Title: Best game eevveeerrr!!!
-Review: 
-<a>This game makes me want to jump off a building I just play this ever day instead of playing other games.The person who made this game see me at the fewniral.
-}
-
-{
-Valid: 1
-Index: 48
-Rating: 1
-Title: 
-Review: 
-<p>Need an update i have a internet connection and it says i dont so once it gets an update I'll rate it higher because i really wanted to play it, it looks amazing.
-}
-
-{
-Valid: 1
-Index: 49
-Rating: 5
-Title: Similar to Command and Conquer
-Review: 
-<o>I gave this game an hour using my galaxy grand prime.
-<o>It ran very well with all other apps closed.
-<o>It feels solid and it plays different than any other call of duty out there.
-<a>They have your scorestreaks like missile strike and attack copter.
-<a>I highly recommend this game if you like mouse clicking (tapping sceen) rts games .
-<o>I give it 5 stars.
-<o>Edit: This is my first week playing a mobile game on a phone.
-<o>It's easy to control.
-}
-
-{
-Valid: 1
-Index: 50
-Rating: 2
-Title: Frustrated
-Review: 
-<o>It is really getting to be difficult to have any faith in this game.
-<s>every time a new update comes out it seems like I am going to have to wait another month and a half to be able to play again this after I have paid some of my own money for some celerinium.
-<o>Smdh.
-<o>This is getting to become super ridiculous.
-<o>When i email Activision they never respond and dobt seem to have a customer service line.
-<s>Its starting to feel like a scam!!!!!
-<s>I feel robbed!!!!
-<s>No access to my base after i gve them money......hmmmmm.
-}
-
-{
-Valid: 1
-Index: 1
-Rating: 1
-Title: Worthless
-Review: 
-<s>This app does nothing, its absolutely useless.
-<s>EA you should be ashame of yourself, you guys are just taking away the customers money and providing them with poor service.
-<s>There should be a way to give this app a negative 5 stars, it doesn't nothing that's in the description.
-}
-
-{
-Valid: 1
-Index: 2
-Rating: 5
-Title: ADD IN APP PURCHASES!
-Review: 
-<a>I like the ability to manage my fut team on the go, I like to open packs with FIFA points but I wish to buy them on the app to open packs as well.
-<a>PLEASE LET ME BUY POINTS FROM YOU :).
-}
-
-{
-Valid: 1
-Index: 3
-Rating: 1
-Title: 
-Review: 
-<p>What happened to the transfer market?
-<p>I spend most of my time on the road, i really dont have time to sit there in front of my tv.
-<p>Thats why i got this app, but hey what a great idea...
-<p>Lets take away the transfer market....
-<p>All you can do is buy and sell players.
-<p>Really EA, really?
-}
-
-{
-Valid: 1
-Index: 4
-Rating: 2
-Title: Wow EA
-Review: 
-<p>this app used to actually do stuff.
-<p>I can't open the TOTW, I cant do any transfer marketing, and I'm asked to verify EVERYTIME I log in.
-<p>How long is this app going to undergo maintenence?
-<p>Seriously EA, from your horrible servers in your games, to your terrible management of the games, I don't think you can be any worse.
-}
-
-{
-Valid: 1
-Index: 5
-Rating: 1
-Title: 
-Review: 
-<p>What's wrong with this app I put some player on the list for sell them now it stuck there can't not list them anymore what's wrong please fix  and I will give it 5star.
-}
-
-{
-Valid: 1
-Index: 6
-Rating: 1
-Title: 2WEEKS USELESS
-Review: 
-<p>EA WENT TO SLEEP AND 4GOT THE APP WAS UNDER MAINTENANCE HERE'S A TIP LISSEN CAREFULLY BECAUSE IT'S FREE ADVICE BEFORE SHUTTING AN APP MAKE SURE YOUR READY TO FIX IT OR UPDATED IF NOT LET IT RUN UNTIL YOU HAVE ALL THE TOOLS YOU NEED AND HIRE EMPLOYEES THAT ACTUALLY CARE.
-}
-
-{
-Valid: 1
-Index: 7
-Rating: 1
-Title: Doesn't work
-Review: 
-<p>The app opens but becomes completely unresponsive after that.
-<p>EA has been a significant dissapointment in numerouse ways with FIFA 15 on mobile and console platforms.
-}
-
-{
-Valid: 1
 Index: 8
 Rating: 3
-Title: Im generous
+Title: Doesn't work with external SD on KitKat
 Review: 
-<f>3 stars because I just open my free pack on it and I keep track of who I have listed on my transfer market, unfortunately since EA set price caps, NO ONE IS BUYING THE GOOD PLAYERS FFS.
+<c>From its description about writing to external cards, and it's notes about KitKat fixes, I'd hoped it really would write to external SD cards, but alas...
+<c>It's another Google "security" vicitim.
 }
 
 {
-Valid: 1
+Valid: 2
 Index: 9
-Rating: 1
-Title: Garbage now!
+Rating: 5
+Title: Great App.
 Review: 
-<p>Come on EA.
-<p>This is ridiculous, you actually used to kind of be good.
-<p>This whole Transfer Market issue that ya got going on here is causing everybody to delete the app.
-<s>It's getting out of hand, and the head of EA needs to think about what will pay him money.
-<s>The most you can do on this app is buy packs.
-<s>That's kind of ridiculous, don't you think?
-}
-
-{
-Valid: 1
-Index: 10
-Rating: 2
-Title: Used to work fine
-Review: 
-<p>Used to work good, but now itp closes automatically and i cant do nothing on the transfer market or even transfer list players and items.
-<p>We don't get any bonus packs, and I can't buy coins through here.
-<s>I don't mind spending money, just make the app work good.
+<o>This app does exactly as promised.
+<f>It even recovered photos I thought were gone due to my phone automatically deleted when it unexpectedly crashed.
+<f>When I checked the picture folders in this app I was surprised to find all photos were there.
+<f>To the Dev team Awesome work!
+<f>Please add a device memory compression feature.
+<o>It's been 5 mos since the last update was released.
+<o>Is this app still supported?
 }
 
 {
 Valid: 1
 Index: 11
-Rating: 2
-Title: Allow player transfers!!
+Rating: 5
+Title: Folder location finder
 Review: 
-<f>Alike many of the reviews here, I think they should allow player transfers again.
-<f>At least someplace other than the in game mode.
-<f>Player trading is a huge part of the game, and without it the app is fairly useless.
+<o>Should come standard for devices.
+<f>Works well in 4.4.2 locating directory and folder rather than typing location to save etc.
+<o>Recommended by Strykers Lounge Aus [FB].
 }
 
 {
-Valid: 1
+Valid: 2
 Index: 12
-Rating: 1
-Title: Never works properly!
+Rating: 4
+Title: My Favorite File Manager Ever!
 Review: 
-<p>It logs me after 3rd attempt and recently there are some server issues that prevent me going to the UT..
-<p>Miserable experience!
-<p>Tells me that I'm logged in to another device even when I signed out 5 min before that...
-<p>That is getting super annoying as the game itself..
+<c>A bit buggy running on my trablet with android 4.4.2 Graphic issues while selecting multiple files to copy paste.
+<c>Bluetooth sending not working from couple updates back.
 }
 
 {
 Valid: 1
 Index: 13
 Rating: 5
-Title: Very efficient app
+Title: Decent File Browser.
 Review: 
-<a>It is not "the perfect app" but for all that it offers, it is more than enough for a 5-star.
-<a>To be able to manage on the go is incredible.
-<f>The manual re-list function is even better than the console.
-<f>It's not as good as the Web version, but that shouldn't be expected.
-<o>As structured, an easy 5 stars for convenience.
-<o>Surprised this is below 4. Must be people who left it at 1 and deleted the app during a downtime that's beyond this app's control.
+<o>Don't remember downloading this so it must have piggy-backed or it's OS shovelware.
+<s>Ad free.
+<o>Works fine.
+<a>Previous objection to bright background colour has vapourised so what's not to like?
 }
 
 {
-Valid: 1
+Valid: 2
 Index: 14
-Rating: 2
-Title: Come on EA
+Rating: 5
+Title: Needs black theme
 Review: 
-<s>You guys are trying to get rid of coin selling and I get that.
-<s>But how does putting a minimum buy now "help the casual player"?
-<p>Now trading is impossible and the only way to get money is from playing a ton of games.
-<p>And this app...
-<p>I cannot believe that the market is still " under maintenance".
-<p>How about just telling us that the market won't be back.
-<p>Don't even bring back the market.
-<p>There is no point in having it when trading is impossible.
+<f>When I saw the screenshots the first thing I thought was, "hopefully there is a dark or black theme that goes with my Galaxy Nexus" updated the app &amp; I immediately went to settings to find no such option.
+<o>:(.
 }
 
 {
-Valid: 1
+Valid: 2
 Index: 15
-Rating: 3
-Title: EA changed content, app isn't bad
+Rating: 5
+Title: Best
 Review: 
-<f>EA decided to remove the transfer market from all non-console apps.
-<f>Other than this, the app works fine.
-<f>It may have lost purpose but there are probably still some uses.
+<o>I am using it since 2011, it is one of best file managers for Android with minimalistic UI
+<o>It is intended for power users that can understand Linux directory structure.
 }
 
 {
 Valid: 1
 Index: 16
-Rating: 1
-Title: It's potential is great. But. Its EA.
+Rating: 4
+Title: Some bugs
 Review: 
-<p>App looks great, feels great, but litterally nothing works.
-<p>TOTW doesn't work, transfer market doesn't work, my squads don't even load...
-<p>So what's the point?
+<p>Works OK, but there's no rescan button (nor taping the actual folder works) and the back button doesn't work always correctly (to go up), sometimes it closes the whole application instead.
 }
 
 {
 Valid: 1
 Index: 17
-Rating: 2
-Title: 
+Rating: 5
+Title: Simple and Sweet
 Review: 
-<f>The new fifa 15 app doesn't let ne change the category in the market to sear for anything else other than players.
-<a>I like the formatting and all but thats my only problem.
+<o>Nice!
+<o>And the permissions are minimal.
+<f>What's with the handicap of not being able to sort by extension though?
+<o>Ah well, back to File Manager.
+<o>I'll be watching though.
 }
 
 {
 Valid: 1
 Index: 18
-Rating: 1
-Title: FIX THE TRANSFERT
+Rating: 4
+Title: Cut and paste
 Review: 
-<s>Y should we assume the Coins seller problem??????
-<s>WHY I'VE NEVER BOUGHT COINS AND NOW I'M STUCK WITH UR FKKKKN WORTHLESS MARKET I'M SWITCHING TO PES.
+<f>Hope dev can make the ability to cut a file from internal memory and then paste in external memory.
+<f>When I need to move a file from internal to external,I have to copy it from internal then paste on external.
+<f>Then delete the file on internal.
+<f>Please make the ability to move a file from internal to external and vice versa.
+<o>Thanks.
 }
 
 {
 Valid: 1
 Index: 19
-Rating: 1
-Title: Useless
+Rating: 2
+Title: Five star app though troubles with UI on tablets
 Review: 
-<p>Every features are always down for maintenance since I installed it since few days ago.
-<p>I feel like there's no maintenance at all...
-<p>Your app just doesn't work.
+<c>Previous version was definitely a 5 star app, since the last update the list of files has weird horizontal margin from left and right display border..
+<c>thus seems as not optimized for tablets anymore.
+<c>Issue still remain..
 }
 
 {
-Valid: 1
+Valid: 2
 Index: 20
-Rating: 1
-Title: EA SUCKS
+Rating: 5
+Title: Finally a File Manager Without Network Access Needs
 Review: 
-<f>Used to be the greatest app so helpful until EA comes along and thinks: Hmm I how could I screw everything over and make people mad?
-<f>OH LET'S GET RID OF THE TRANSFER MARKET GREAT FLIPPING IDEA EA WHY NOT?
+<o>The developers must think we're crazy to give a simple file manager network access.
+<s>Well I guess it's to download ads that are generally obnoxious.
+<s>This file manager doesn't need this.
+<s>Yay!
+<s>They get my download and full support.
+<s>The ads steal your personal info, slow the machine down and give you generally annoying content.
+<s>This file manager is fast and easy and doesn't need network or internet access and doesn't download crappy ads..
+<o>I give it an A+.
 }
 
 {
-Valid: 1
+Valid: 2
 Index: 21
-Rating: 1
-Title: Transfer market still broken
+Rating: 4
+Title: Easy to use, few permissions. Please fix Rename.
 Review: 
-<f>Why would they make an update that doesn't fix the ONLY problem people have been complaining about?
-<f>I don't care about the "features" they added in the update, it's meaningless to me if i can't get coins.
-<f>Fix it EA.
+<o>Allows me to do all file management, (including on external SD card), with small footprint and minimal permissions. 
+<p>Except Rename crashes the app every time it's attempted.
+<p>Sometimes has graphic issues after long press.
+<p>Please fix Rename!
+<c>Not at all landscape friendly.
 }
 
 {
 Valid: 1
 Index: 22
-Rating: 1
-Title: Ea should stop being selfish penis's
+Rating: 5
+Title: Simple, effective.
 Review: 
-<p>First there servers are crap then they dont let u use the transfer market on the app and its still not fixed until now.
-<f>And they add price ranges and block all coin selling sites.
-<f>What next, u can only have a limited amount of coins for ur team?
-<f>Middle finger, smh.
+<s>I appreciate the fact that there are no ads to get in the way.
+<a>I appreciate the straightforward appearance with no unneeded UI to clutter things up and it's simplicity and minimalist design.
 }
 
 {
 Valid: 1
 Index: 23
-Rating: 2
-Title: Transfer Market
+Rating: 3
+Title: Tablet optimization needed!
 Review: 
-<p>Transfer market doesn't work.
-<p>Has an issue saying error with connectivity when trying to enter the transfer market when I have perfect WiFi connectivity.
+<o>it's the best android file explorer, imho.
+<c>does what it says in the tin, but, please consider making an update wich can be optimized for tablets also.
+<c>it doesn't fill the screen, and folder icons are rather small.
+<c>3 stars until optimization ;).
 }
 
 {
 Valid: 1
 Index: 24
-Rating: 4
-Title: Works great.
+Rating: 5
+Title: Translation.
 Review: 
-<f>What I would like added is comparing player pricing in the transfer market when u select ur player or item.
-<f>Please add that options to your app.
-<f>Instead I have to manually go on to the transfer market and search the player for the pricing.
-}
-
-{
-Valid: 1
-Index: 25
-Rating: 2
-Title: Wish it was better
-Review: 
-<p>This app is cool in theory, but its almost like it got released before it was finished.
-<p>TOTW is inaccessible, app loads when it feels like it, I can't even view my team's record.
-<p>Disappointed.
+<o>Hi, thanks for great app  I've translated your app to Azerbaijani in launchpad and waiting for new version with it ;)   You've updated to 2.0.5 and still doesn't exist my translations, I'm waiting for almost ~3 weeks and still nothing.
+<o>Please include it.
 }
 
 {
 Valid: 1
 Index: 26
-Rating: 4
-Title: Trading OP
+Rating: 2
+Title: Was good, useless now
 Review: 
-<a>The FIFA companion is the traders dream tool, especially during TOTS, although the app bugs out every once in a while its overall benefit outweighs the negatives.
+<o>It was a great file manager, easy to navigate,  simple to use.
+<f>Now it doesnt seem to work.
+<f>I can view my files, but I cant move, copy or delete them without using my computer.
+<f>Please fix it, and add a search bar please!
 }
 
 {
 Valid: 1
 Index: 27
-Rating: 4
-Title: Pretty good
+Rating: 1
+Title: WARNINGS APPEAR
 Review: 
-<p>few issues are the fact that if I set a maX price for say 750...
-<p>by the time I click on it the price is 1200...
-<p>so better refresh time would be good...
-<f>also not being able to buy fifa points from the app doesn't help...
-<f>otherwise it's pretty good.
+<o>I loaded this app on a brand new Smartphone.
+<s>Two warning messages appeared: "The internal memory is full" and "Warning Virus".
+<s> Don't "buy" this free app.
+<s>It comes with a warning about buying programs to fix the problems it probably brought in as a trojan horse virus.
 }
 
 {
 Valid: 1
 Index: 28
-Rating: 4
-Title: One error, but beautiful app all around!
+Rating: 5
+Title: Thank you
 Review: 
-<a>Its amazing!
-<a>I have an easier time with this,app than the console I use!!
-<a>Its so easy to use and very friendly to the user.
-<p>It does have a difficult time starting up though, other than that it is by far a very great app.
+<f>Best app ever I copied my SD card data to my tablet so now I don't have to be taking off my chip and putting in my tablet I copied it so now I'm good thanks.
 }
 
 {
 Valid: 2
 Index: 29
-Rating: 1
-Title: Nothing Works
-Review: 
-<p>The servers are always down for mantainance, all features are broken....EA IS A BIG JOKE!!!!!!!!
-<o>#EAISAJOKE #EAISTRASH #EAISTERRIBLE #ASSUSTADORAS #TRASNFERMARKETISALWAYSDOWN.
-}
-
-{
-Valid: 1
-Index: 30
-Rating: 1
-Title: Useless, fraud!
-Review: 
-<p>Fraud, it doesnt do what they claim it does...
-<p>Servers unavailable, servers down, maintenance, try again later...
-<p>tire of this crap!
-<p>Unistall, install, same crap!
-<p>UNISTALL!!!
-}
-
-{
-Valid: 2
-Index: 31
-Rating: 4
-Title: FUT getting back up to speed, and without cheaters!
-Review: 
-<f>Web app transfer market will return.
-<f>I have also since changed my opinion regarding price ranges for the good.
-<f>Price ranges are wide enough to have fun and more importantly, will stop cheaters farming coins.
-<o>Quote from EA - "You have been asking – when will Web and Companion Apps access to Transfer Market be restored?
-<o>We want to do this as quickly as possible, and we are working as hard as we can to bring them back for everyone to use…but we can’t do that until we’ve made them secure and more stable".
-}
-
-{
-Valid: 1
-Index: 32
 Rating: 3
-Title: Needs an update
+Title: 
 Review: 
-<a>I'm not getting my daily reward for logging in anymore.
-<p>And any time I try to log in, I have to back out the app and retry.
-<p>Also, the transfer market is down, you cannot access it from this app.
+<p>In older version it can copy and paste downloaded data to ext sd card in later version can't .
 <p>Please fix it.
-<p>Thanks.
-}
-
-{
-Valid: 1
-Index: 33
-Rating: 1
-Title: Froze on transfer took coins.
-Review: 
-<p>Servers usually down, Constantly freezes, re-list nevers works, and to top it off it froze after i bought cost for 25k , took my money nd gave no player.
-<p>EA hasnt responded.
-}
-
-{
-Valid: 1
-Index: 34
-Rating: 1
-Title: Was good in the past. WAS.
-Review: 
-<p>How long is the transfer market going to be down, eh?
-<p>Maybe a little explanation?
-<p>What's the point of this app if you can't access the transfer market?
-}
-
-{
-Valid: 1
-Index: 35
-Rating: 3
-Title: Fix the glitches -.-
-Review: 
-<f>One really annoying glitch where when you are in the transfer market and you press "Player Name" it brings up the number pad instead of the keyboard.
-}
-
-{
-Valid: 1
-Index: 36
-Rating: 1
-Title: Useless
-Review: 
-<p>The whole point of the app is to use ultimate team features which is unavailable.
-<p>It says server error.
-<f>The app is only good to see your friend's activities and share your activities.
-}
-
-{
-Valid: 1
-Index: 37
-Rating: 1
-Title: Nothing works
-Review: 
-<p>This app has become beyond useless.
-<p>Not only can I not use the transfer market but it won't even let me open packs any more.
-<p>I can't even open the free packs that I get each week or for this 6th birthday event.
-<p>Please update asap.
-}
-
-{
-Valid: 1
-Index: 38
-Rating: 2
-Title: Good functions but a lot of bugs
-Review: 
-<p>Login takes at least two crashes to get in.
-<p>Stuck on loading quite a few times.
-<c>And this is all happening on Nexus 5 which is quite a concern.
-<f>Love the functionality though.
-<p>Just needs a few bug fixes and crash fixes for me to give it 5 stars.
-}
-
-{
-Valid: 1
-Index: 39
-Rating: 1
-Title: 
-Review: 
-<p>This app is the biggest piece of garbage I've ever come across in my life.
-<p>Says I can't use FUT because I'm signed into a console but when I sign out of a console nothing changes.
-<o>Virtually useless to download.
-<o>Complete waste of time and data.
-}
-
-{
-Valid: 1
-Index: 40
-Rating: 5
-Title: Awesome app
-Review: 
-<o>I've been playing FUT for about a year.
-<o>There is no better way to manage your FUT than this app.
-<o>I have made thousands of coins on my downtime and plan on making even more.
-<o>Keep up the quality work!
-}
-
-{
-Valid: 1
-Index: 41
-Rating: 5
-Title: Huge improvement
-Review: 
-<f>The FUT app has improved in design and usability since last year.
-<p>Search options are much better and easier to work with.
-<p>Servers can still be improved but overall satisfied with the improvements this year.
-}
-
-{
-Valid: 1
-Index: 42
-Rating: 1
-Title: 
-Review: 
-<p>Switching from 5 stars to 1 star due to the never ending "maintenance".
-<p>This app was the only reason I bought the game.
-<f>Loved playing the transfer market when away fron console.
-<f>I heard EA did this last yr and it never came back.
-<f>I think I'm done with EA!
-}
-
-{
-Valid: 1
-Index: 43
-Rating: 4
-Title: Just a bug or two.
-Review: 
-<p>Everything works great, except I can't click on the team of the week.
-<p>Maybe its just me, but whenever I click on other stuff, like my ultimate team, it works.
-<o>Also I was wondering what the daily reward is, because I haven't gotten one at all.
-}
-
-{
-Valid: 1
-Index: 44
-Rating: 2
-Title: 
-Review: 
-<p>Does this app EVER work?
-<p>Some feature is constantly down for maintenence.
-<p>That is, if I can login at all or it doesn't boot me.
-<p>Great idea, poor execution.
-}
-
-{
-Valid: 1
-Index: 45
-Rating: 1
-Title: It's no suprise EA can't make anything in the fifa category.
-Review: 
-<p>App doesn't even open half of the time and When it does open I try to log in although when it's loading it says the servers are down.
-<p>I doubt they can be down for weeks so as of now I'm Uninstalling this app.
-<p>EA just keeps disappointing me.
-}
-
-{
-Valid: 1
-Index: 46
-Rating: 5
-Title: 
-Review: 
-<o>Can someone help me?
-<o>I cant play ultimate team on the xbox one its telling me to make a security question and i do but then it says it cannot be created.
-<o>And it kicks me out of ultimate team?!
-<o>HELP.
-}
-
-{
-Valid: 1
-Index: 47
-Rating: 1
-Title: Ea You Really Messed Up
-Review: 
-<p>Used to be the best game but ever since the update Ea Screwed up the whole transfer market and the game it's self so now Pes 2015 is gonna take over #PESIsHere!!!
-}
-
-{
-Valid: 1
-Index: 48
-Rating: 1
-Title: Transfer market is broken
-Review: 
-<p>I got this to track my transfers while i'm away from my xbox.
-<p>The app says the transfer market is down for maintenance but this message has happened for 2 days straight.
-<p>Tried reinstalling and the same message pops up.
-<p>There is no way maintenance takes this long!!!
-<p>It sucks this app cannot provide the convenience it says it's supposed to.
-}
-
-{
-Valid: 1
-Index: 49
-Rating: 1
-Title: Horrible
-Review: 
-<p>This app is crap personified.
-<p>It doesn't even launch like 60% of the time and I have to keep restarting it.
-<p>And when it works it lags terribly.
-<p>Needs fixing ASAP.
-}
-
-{
-Valid: 2
-Index: 50
-Rating: 5
-Title: 
-Review: 
-<p>FIFA Ultimate Team has its issues, no doubting that BUT this is one of the most in depth gaming experiences I've ever been offered.
-<p>Sure made a 5 hour layover and Christmas break w/ no console pretty tolerable.
-}
-
-{
-Valid: 1
-Index: 1
-Rating: 3
-Title: Love this game, but atm too many issues
-Review: 
-<p>It's an awesome game, can take it everywhere with me, uses only a couple megabytes (relatively low, compared to a youtube video or soundcloud) on 3G.
-<p>However, my daily challenges where all achieved, but on my phone it did not update how far along i was with my dailies, which meant i had to complete them on my computer.
-<p>Also, i still dont think the look of the mobile game is perfectionised, but on the other hand it is functional.
-<p>There are some bugs and issues that need to be addressed, but it's early days.
-}
-
-{
-Valid: 1
-Index: 2
-Rating: 1
-Title: Lack of available devices...?
-Review: 
-<c>I get this app just to find out that the verified items list doesn't include my devices.
-<c>That's pretty crappy that I had to delete all my apps and games just to wait forever and it not even work.
-}
-
-{
-Valid: 1
-Index: 3
-Rating: 1
-Title: Be warned
-Review: 
-<o>Blizzard has been known to ban player accounts without warning or explination.
-<o>I had my account banned with no warning email, and when I asked them why, they refused to tell me.
-<o>As far as I know I did nothing wrong, and was unable to defend myself in the matter.
-<o>Again, just giving everyone a heads up.
-}
-
-{
-Valid: 1
-Index: 4
-Rating: 1
-Title: DO NOT INSTALL
-Review: 
-<p>I have been playing HS since it came out, and have several thousand matches under my belt.
-<p>I enjoy this game, but not this unstable build.
-<p>I have lost matches due to disconnects because of a phone call, and even a text.
-<p>It is also slow, and lags quite often.
-<p>Samsung S6 Edge.
-<o>I would say play it to get your free pack of 1st patch cards, but do not play unless frustration is your game.
-<o>Of course, if you don't play against real people, then I suppose it doesn't matter and install away!
-}
-
-{
-Valid: 1
-Index: 5
-Rating: 5
-Title: Help pls
-Review: 
-<c>I know the game is good but why can't I play it.It say I don't meet the requirement but I think I do.
-<c>I have 1.7 dual core tablet with android 4.4 KitKat.
-<c>Pls help.
-}
-
-{
-Valid: 1
-Index: 6
-Rating: 4
-Title: Excellent game but too big!
-Review: 
-<p>Really love the game on PC and on the phone it's about the same, just so slow to respond.
-<p>I would much prefer a small file size at lower resolution that played smoother.
-}
-
-{
-Valid: 1
-Index: 7
-Rating: 5
-Title: Hearthstone 4 lyf
-Review: 
-<o>Great game to play on computer or mobile.
-<o>Buying cards can help a lot but learn the game before spending.
-<p>The frames per second are a little low, but its new to mobile so I forgive you Blizzard.
-}
-
-{
-Valid: 1
-Index: 8
-Rating: 5
-Title: Great game
-Review: 
-<a>Clean user interface.
-<a>Easy to learn game.
-<a>The more specific components are explained through a hint mechanic.
-<a>Doesn't get very complicated, but still rich in novelty due to different hero/deck combinations and strategies.
-}
-
-{
-Valid: 1
-Index: 9
-Rating: 5
-Title: People having probs with your stuff on pc not showing up!
-Review: 
-<p>When your logging in or if your already logged in, log out and when your at the log in screen look at the top right of screen or where ever on your screen, it might say europe so what you want to do is tap on in   select american/something else(i dont remember) then log in with your pc account and all your cards should be there.
-<o>Hope this helps and enjoy!
-<o>I Highly recommend this to anyone, expecially to people with powerful phones for the best experiance!
-}
-
-{
-Valid: 1
-Index: 10
-Rating: 1
-Title: was great but unplayable with recent update
-Review: 
-<c>it was great played it so much, but now is unplayable om my s4. game gets stuck at the hearthstone splash logo and doesnt load into the game.
-<c>please fix it so i can play again :(.
-}
-
-{
-Valid: 1
-Index: 11
-Rating: 4
-Title: Really good but...
-Review: 
-<o>The game itself is excellent and I play it quite a lot on my gaming rig.
-<p>Recently I've noticed that sometimes during gaming on my Nexus 5 weird glitches occur like screen freeze and lagging graphics.
-<p>Hope Blizz fix some of them.
-}
-
-{
-Valid: 1
-Index: 12
-Rating: 3
-Title: Game is good, battery drainage is bad
-Review: 
-<o>I love the game, it is exactly like the PC version.
-<p>But my only problem, and it is a big one, is the battery drainage.
-<p>It nearly kills my battery after just a few games.
-<p>Please fix this issue.
-}
-
-{
-Valid: 2
-Index: 13
-Rating: 4
-Title: Great game!
-Review: 
-<p>I had to reinstall the game though, since because of whatever reason the app got really big.
-<p>Like 2gb.
-<p>Now it's about 1.5 gb which might still be too much for a mobile app.
-<o>But nevertheless I'm really really happy with hearthstone!
-}
-
-{
-Valid: 1
-Index: 14
-Rating: 3
-Title: Great yet annoying.
-Review: 
-<p>Why is this game so needy on a network connection?
-<p>It seem that ANY drop in signal quality will cause it to think it has no signal at all.
-<p>Very frustrating because it keeps putting the game in limbo where nothing at all happens till the signal improves.
-}
-
-{
-Valid: 1
-Index: 15
-Rating: 5
-Title: Good game
-Review: 
-<o>Fun game, I'm already kind of addicted.
-<p>The only issue I find is that it easily loses my Wi-Fi connection when that doesn't happen with any other app.
-}
-
-{
-Valid: 1
-Index: 16
-Rating: 5
-Title: Awesome mobile game.
-Review: 
-<o>OK, to clear some nonsense that i saw in a few comments.
-<o>Blizzard will not ban you for no reason.
-<o>They email you with the reason for being banned and how long.
-<s>And to all the people crying about having to pay for naxx and black rock mountain, you don't have to pay real money.
-<s>Just in game gold and your precious time.
-<s>Yes it is pay to win if you want, but that's how they make money.
-<p>The only downside i can think of is amount of memory this game takes up.
-}
-
-{
-Valid: 1
-Index: 17
-Rating: 3
-Title: Not enough space
-Review: 
-<p>Im stuck at unpacking crates.
-<p>Apparently you need to have 1Gb free INTERNAL space in order to play this game, because it wont extract those crates on SD card.
-<p>Nice programming blizzard.
-<p>Good luck finding low to mid range phones with 1gb free internal space.
-}
-
-{
-Valid: 1
-Index: 18
-Rating: 4
-Title: Great game, just let me select tablet U I if I want!
-Review: 
-<a>I love the game, but I much prefer the look of the tablet interface.
-<a>With as big as phones are anymore, I can easily use the full interface.
-<f>The app has both setups built in, so just give me an in app option to switch.
-}
-
-{
-Valid: 1
-Index: 19
-Rating: 5
-Title: Surprisingly great!
-Review: 
-<a>Never been a fan of card games but this one has so much to offer.
-<a>The battles are great and the satisfaction of winning a hard fought fight is awesome.
-}
-
-{
-Valid: 2
-Index: 20
-Rating: 5
-Title: HTC One M7
-Review: 
-<p>Works fine a little laggy at the menus but ingame is fine, Dont know what people are talking about heat its your phone that controls clock speed so if your phone melts its because it didnt downclock the cores on your Note4 blame samsung....
-<p>Update: works fine with no lag at all on my galaxy s4 running CM11 and no heating issue.
-}
-
-{
-Valid: 1
-Rating: 2
-Title: Great but...
-Review: 
-<p>But I cant craft more than one card without having to force close the app and go back in to do one more card for dust.
-<p>Will change if fixed but it does it on my pc too and cleared the cache on the apps and everything.
-<p>Hoping this is fixed.
-}
-
-{
-Valid: 1
-Index: 22
-Rating: 1
-Title: Dammn it
-Review: 
-<p>Even after the update....after I clicked "I'm new"...it will continue until the beard guy said "gather around, gather around!" And nothing happens after that...everything is still.
-}
-
-{
-Valid: 2
-Index: 23
-Rating: 1
-Title: MELTED PHONE
-Review: 
-<p>Melted my Samsung note 4 After 2 matches!!
-<p>I got burned by battery acid and the then the whole phone shriveled up..
-<p>lol in all seriousness though this app over heated the hell out of my phone in just 1 match like wtf..
-<c>my note 4s supposed to run these games with no probems.
-}
-
-{
-Valid: 1
-Index: 24
-Rating: 5
-Title: Its hearthstone on your phone
-Review: 
-<o>Best game on android.
-<c>Bring a decent price of hardware, playable on Nexus 5, but a bit slow.
-<p>Makes my phone warm and my battery empty very quickly.
-}
-
-{
-Valid: 1
-Index: 25
-Rating: 5
-Title: Pleasantly Surprised
-Review: 
-<c>I came from PC to get my free pack expecting the game to be worse than the tablet version.
-<c>Turns out it works just fine, even on an S4. Things are understandably more cramped on screen but still very playable.
-<c>Great job Blizzard.
-}
-
-{
-Valid: 1
-Index: 26
-Rating: 1
-Title: Requires too strong of a connection
-Review: 
-<p>I lose most of my matches because my turn ropes out before hearthstone acknowledges my actions.
-<p>All other mobile games run fine on my connection.
-<p>There is no reason why it should require such a strong connection for such a simple game.
-}
-
-{
-Valid: 1
-Index: 27
-Rating: 3
-Title: Great game (obvi), hugley unopptimised app though.
-Review: 
-<a>No complaints about the game itself, and the port has everthying the other versions do which is great.
-<a>however, I know polish comes at a price, but unless this is made with 4k phone displays in mind it's incredibly large (most of which it won't let you move to the external mem) for a game that's essentially 2D.
-<p>C'mon Card Wars is 219MB and is easliy as polished as this visually and audiably.
-<p>Don't tell me card faces take up this much, I have folders of thousands of HDphotos that take up less.
-}
-
-{
-Valid: 2
-Index: 28
-Rating: 1
-Title: Too largest
-Review: 
-<c>I like this game but its toooooo big for tablet even don't want saport I did installed in my HP tablet its just don't want work.
-<p>fight at first computer attack me on my turned its just don't want sow anything's.
-}
-
-{
-Valid: 1
-Index: 29
-Rating: 3
-Title: It's OK
-Review: 
-<f>Good card game with cloud sync and great presentation including immersive full screen, but no Google Play Game Features and poor back button support (can't gracefully close/exit game).
-}
-
-{
-Valid: 1
-Index: 30
-Rating: 3
-Title: Good game  - poor functionality
-Review: 
-<p>I enjoyed playing the game, however, when I went to move the additional files to the SD card, the game no longer recognised the fact that I already downloaded the extra files.
-<p>Please fix this, as all other games with extra files I've played let me move them freely.
+<c>It only work in samsung galaxy note 8 but not in my galaxy note 2. 
+<c>Please fix it.
 }
 
 {
 Valid: 1
 Index: 31
-Rating: 1
-Title: Just awful
-Review: 
-<p>Don't bother with it if you're on the EU servers.
-<p>It only worked the night I installed it and then I could never log in.
-<p>US and Asia worked fine, but not EU.
-<p>Uninstalled/reinstalled several times, the "support" link wasn't working..
-<p>not worth it.
-}
-
-{
-Valid: 1
-Index: 32
-Rating: 5
-Title: Blizzard wins again.  Watch E-Sports!
-Review: 
-<o>I've been a Blizzard fan boy since the  WarCraft, StarCraft and Diablo trifecta.
-<a>Their spin on card based games is easy to learn and has enough class and card variations to keep it entertaining for many,  many hours.
-}
-
-{
-Valid: 1
-Index: 33
-Rating: 5
-Title: Surprisingly Good Performance on 2012 Nexus 7
-Review: 
-<c>Runs better than expected on my 2012 Nexus 7, but not perfect obviously.
-<c>Thrilled to finally have this on Android!
-}
-
-{
-Valid: 2
-Index: 34
-Rating: 5
-Title: Same Great Game
-Review: 
-<o>I play hearthstone all the time on my PC at home and when I heard it came out for phones I was ecstatic.
-<f>Its literally the same experience you get from playing on a computer.
-<f>Sign in was easy and I got to keep all my cards.
-<f>I'm gonna sink many hours to this game.
-}
-
-{
-Valid: 1
-Index: 35
-Rating: 1
-Title: Make sure you have deep pockets!!
-Review: 
-<s>In the end, it's about who spent the most money buying cards.
-<s>No way to block people with "annoying" decks.
-<s>So repetitive.
-<o>Wish I can give it zero stars.
-<o>Awful!
-}
-
-{
-Valid: 1
-Index: 36
-Rating: 5
-Title: Just like the Desktop version
-Review: 
-<o>By far the best mobile version of computer game I've played.
-<o>Best Free game on mobile yet.
-<p>Only downside is that it won't find an opponent while on WiFi at work, at home I don't have any issues.
-}
-
-{
-Valid: 1
-Index: 37
-Rating: 1
-Title: Screw you blizzard
-Review: 
-<a>Do not spend a dime on this game.
-<a>I had a lot of fun with free play then spent  $27  on the first solo adventure pack.
-<a>I was able to beat 2 of the missions and then it became one of those "opponent has a perfect card for any situation" type of deals and I couldn't win a single battle no matter how I built my deck.
-<a>Screw you blizzard I can't believe I fell for your bs and wasted more money for your in balanced worthless crap.
-<a>I will never again spend a dime on anything with the name blizzard attached to it.
-}
-
-{
-Valid: 2
-Index: 38
-Rating: 5
-Title: Great game
-Review: 
-<c>On PC on my ipad.
-<c>And now phone.
-<o>Addictive and insane fun.
-<o>Just watch out for the RNG!!
-<o>And don't get to salty..
-<o>been playing since beta release on pc.
-<s>A little P2W but still recommended.
-}
-
-{
-Valid: 1
-Index: 39
 Rating: 3
-Title: It doesn't work sadly
+Title: Good, but....
 Review: 
-<c>Google play says hearthstone can work on my phone but when i installed it it said that it doesn't support android 4.4 if you can make it work for older versions i will give 5 stars ^^ .
-<c>Pleaseeeee make it work!!!!!!
-}
-
-{
-Valid: 1
-Index: 40
-Rating: 2
-Title: Great Game - Not Optimized
-Review: 
-<c>I've been able to get back into the game now thanks to the convenience of having it on my phone!
-<p>The problem is that after I close the game I can not open any other function or app on my phone without restarting it.
-<p>Also, as with a lot of people, my phone gets laggy and extremely hot.
-<p>Will give a 5 star if Blizzard adds lower graphics option and fixes bugs.
-}
-
-{
-Valid: 1
-Index: 41
-Rating: 5
-Title: Great game, uses hardly any data
-Review: 
-<p>This game is brilliant been playing for a couple hours and I'm amazed how little data it uses on mobile devices.
-<a>The ui is just the same as on PC and the mechanics are easy to pick up and learn.
-<a>This will be a great time waster at work.
-<a>Thanks Blizzard.
-}
-
-{
-Valid: 1
-Index: 42
-Rating: 3
-Title: It's Arrived!
-Review: 
-<p>Still needs some work.
-<p>Careful when visiting the arena...
-<p>You'll lose too many turns due to being dumped out of the game during your turn and then having it time out before restarting.
-<p>Extremely Frustrating!
-}
-
-{
-Valid: 2
-Index: 43
-Rating: 4
-Title: Amazing but slow
-Review: 
-<p>Great game but slow on tablets.
-<p>Some of my friends and I have same problem of slowness with tablets and preferred the mobile version for these devices.
-<p>I like blizzard and there games but we get stricter requirements for border line phones aka small tablets.
-<p>Please and thank you:-).
-}
-
-{
-Valid: 1
-Index: 44
-Rating: 5
-Title: Loved the game but...
-Review: 
-<o>Well, I'm being honest when i say i never played this till today and someone is using my Email ._.
-<o>Idc who it is please delete their profile if there is someone playing the game with my email if not well i cant play cause it says my email is all ready in use sooo...please help me out here and screw over whover did this to me.
-}
-
-{
-Valid: 1
-Index: 45
-Rating: 2
-Title: App is unstable
-Review: 
-<p>This game is so unstable its not funny.
-<p>I've lost 3 ranked matches just because the game decided to drop the connection (nothing wrong with my WiFi).
-<p>Just recently the game crashed my entire phone (forced reboot), it was such a bad crash that when I rebooted my google play services app got corrupted.
-<p>I have just finished uninstalling and reinstalling the services app.
-<p>Such a pain just because I want to play hearthstone....
-}
-
-{
-Valid: 2
-Index: 46
-Rating: 4
-Title: Cards of the Game
-Review: 
-<s>An awesome game that can be very fun, but it can get a bit grindy at some points if you don't want to pay for card packs.
-<s>It would A LOT better if Blizzard made it so you got more than only 10 gold every 3 wins.
-}
-
-{
-Valid: 1
-Index: 47
-Rating: 5
-Title: Huzzah!
-Review: 
-<p>From my computer to my Note 10.1 to my S5 this app works with little lag!
-<p>Sometimes my fingers get clumsy but only when deck building.
-<p>The file is a bit big but I think it's from using a 3d engine.
-<a>In terms of the game I love that the mechanics are simple and straightforward.
-<a>In some ways it reminds me of when I played pokemon tcg and tried to learn yugioh...
-<a>but with the visual punch that comes from the digital medium.
-}
-
-{
-Valid: 1
-Index: 48
-Rating: 5
-Title: Amazing game
-Review: 
-<f>Wish it could run off SD card tho.
-<p>Doesn't recognise files if moved.
-<a>Great job on the phone UI.
-<p>Only issue I have is not seeing the full board, like on pc version.
-<p>So can't get all interactions.
-<p>Otherwise amazing.
-}
-
-{
-Valid: 1
-Index: 49
-Rating: 4
-Title: Yay. (Lol phone)
-Review: 
-<s>Good game overall, only issue is its "pay to win" format all of the decks used in high ranks have 2-3 legendary cards.
-<s>After playing for 2 months without spending any money, I have ZERO legendarys.
-<s>Furthermore, the odds of getting the legendary I want are next to nothing.
-<s>Other then that its an awesome game.
-}
-
-{
-Valid: 1
-Index: 50
-Rating: 2
-Title: HELP ME
-Review: 
-<o>I have downloaded game from google play store and it has 600 mb and thats ok,cuz my internal card has 16 gb but when i open the game it seems that additional file is downloading direct on my phone memory that has 500 mb left, and now i cant download it completely.
-}
-
-{
-Valid: 1
-Index: 1
-Rating: 4
-Title: Great game but..
-Review: 
-<f>I really love this game and just wish it was for dl on pc.
-<f>I've played PvZ through about 6 times now and really wish there was something new for PvZ.
-}
-
-{
-Valid: 1
-Index: 2
-Rating: 3
-Title: Keep losing my progress
-Review: 
-<p>I love the game.
-<p>Hate it when i would log on and see that everything was lost.
-<p>I keep having to restart the same maps over and over.
-<p>What an absolute downer!
-}
-
-{
-Valid: 1
-Index: 3
-Rating: 1
-Title: Fix the glitch plz
-Review: 
-<p>Endless zone glitch in recent update causes you to not get plants after level 1. Also trying to exit will cause a loop that brings you back to the start of the level you were on, even if you lose, causing me to force close the app.
-<p>Not sure if any other parts of the game only tried pirate seas.
-<o>Note: I like how people are telling you guys about this glitch and the only thing you guys have done so far is raise the price of the dandelion.
-<o>Dont you guys ever reply to the reviews on here.
-}
-
-{
-Valid: 1
-Index: 4
-Rating: 3
-Title: Not so happy!!
-Review: 
-<p>You guys need to fix the game ASAP,  there are a  lot of glitches going on, for example in endless mode, you don't have the option to pick out a plant and when you try to "ritire" it keeps taking you back to the game!!!
-<p>I love this game but now is  a hassle to play, not to mention that i had to start all over again because it froze on me and i had to uninstall an reinstall, please fix!!
-}
-
-{
-Valid: 1
-Index: 5
-Rating: 1
-Title: Horrible money grab
-Review: 
-<s>Simply put don't download this game.
-<s>You have to pay individually for each new plant after the first 6 or so.
-<s>This includes more than half of the plants that you got by simply progressing through the first game.
-<s>I've never been more disappointed in a sequel before as this is sheet lunacy.
-<s>It would cost upwards of $75-$100 to be able top use every plant.
-<s>Have not and will not ever spend a dime on this company as a result, absolutely disgusting.
-}
-
-{
-Valid: 1
-Index: 6
-Rating: 3
-Title: All game data lost
-Review: 
-<p>While in the middle of a game, my tablet crashed and the screen went black.
-<p>My tablet rebooted but when I reopened the game, all of my progress was reset even though I had signed in with my Google account.
-<p>Please restore my data as I have been playing this game for years.
-}
-
-{
-Valid: 1
-Index: 7
-Rating: 4
-Title: Great, but why Is Google play taking back my apps?
-Review: 
-<p>This is HUGE download,  yet even with GOOGLE'S alleged "full backups", I wake to discover a whole stack of my apps GONE.
-<p>Most were GOO - RELATED apps that I was waiting to update as they come daily, choking my android memory, with scant description of what's been done; as well as usually breaking what WAS good.
-<p>Now I lost ALL MY GAME PROGRESS, and must absorb the cost of the data flow to download this AGAIN.
-<o>Can't take criticism, is that it?
-<o>TRY HARDER, THEN!
-<o>STOP STEALING, YOU MAKE BOUCOUP $ $!!
-}
-
-{
-Valid: 1
-Index: 8
-Rating: 3
-Title: WTF
-Review: 
-<p>I went to open the game and it needed me to sign in so I did now I can't connect to faced book.
-<p>I have lost all progress and yet I still have my achievements.
-<p>WTF.
-<p>Please fix asap.
-}
-
-{
-Valid: 1
-Index: 9
-Rating: 2
-Title: Game very buggy,  extremely frustrating
-Review: 
-<p>Have lost all progress including gems &amp; special edition plants more than  once, today's update is making endless levels not work properly (will not give new card/plant when advancing to new levels,  can't stop endless game as clicking on "retire" just puts you back into next endless level.
-}
-
-{
-Valid: 1
-Index: 10
-Rating: 2
-Title: 
-Review: 
-<p>I have it connected to my facebook and expected it to have all the progress iv made saved i switch to a new phone download the game and connect to facebook and all it saves is the purchases iv made not the progress i was on big wave beach and now you expect me to start all over again ridiculous!!!!!!
-}
-
-{
-Valid: 1
-Index: 11
-Rating: 1
-Title: Can't even type in my age.
-Review: 
-<p>I am directed to type in my age to accept the terms and conditions.
-<p>I am typing my age But it doesn't show so I can press accept.
-<p>Can't even get started: (.
-}
-
-{
-Valid: 1
-Index: 12
-Rating: 1
-Title: SamGal 3  Android 4.4.2
-Review: 
-<f>I love this game.
-<f>Its great, even with the malfunctions.
-<f>However, I would like to know how to activate  my won power-ups ( Instant  Recharge; Plant Food Boost; and Wall-Nut First Aid),  which are lit so it looks like I own them.
-}
-
-{
-Valid: 1
-Index: 13
-Rating: 1
-Title: 
-Review: 
-<p>One day all my hard earned progress randomly deleted and it brought me back to the first level in the game, it shows the achievements I got from my Google account but there is no way to connect using Google account and when I went to customer service it said that my email was invalid.......
-<p>used to love this game *deletes from phone*.
-}
-
-{
-Valid: 1
-Index: 14
-Rating: 1
-Title: Irritating
-Review: 
-<p>I've installed the game twice already and the same exact thing keeps happening.
-<p>It asks me to type in my age, and when I type it in and press enter, it still says "Age".
-<p>I have no idea what is making this game to act like this but please fix it.
-<p>I know this is a great game and I hate to give it such a poor rating.
-}
-
-{
-Valid: 1
-Index: 15
-Rating: 2
-Title: Coins keep disappearing!
-Review: 
-<s>It keeps taking all of my coins!
-<s>I close out with 5,000+ and go back in to zero coins!
-<p>And it stopped letting me pick plants in between levels on endless.
-<p>It only lets me sometimes.
-<p>Please fix!
-<p>It's definitely a five star fun game.
-<p>It's just messing up bad lately.
-}
-
-{
-Valid: 1
-Index: 16
-Rating: 3
-Title: Worse than the first
-Review: 
-<s>It is too focused in getting you to buy things with real money.
-<s>You cannot use the game coins to get new plants or upgrades so it is really frustrating.
-<p>It also drains power fast.
-<f>The only thing better is that you can replay levels you like.
-}
-
-{
-Valid: 1
-Index: 17
-Rating: 4
-Title: Love it
-Review: 
-<a>It is really more involved than original.
-<a>Zen garden a lil too drawn out.
-<a>Love I get to actually use the plants I grow.
-<a>Sometimes it takes too much sun to get the plants u need as fast as you need them.
-<a>Also not enough jewels to progress thru all the game.
-<s>It should not take my cash to progress thru a FREE game.
-}
-
-{
-Valid: 1
-Index: 18
-Rating: 3
-Title: Used to be amazing
-Review: 
-<f>Game overall is great and doesn't require wifi or internet connectivity.
-<o>Time consuming in the best way possible.
-<p>However since the last update, after 9/10 ads my game force closes.
-<p>Which is almost every level.
-<p>I tried rebooting and clearing my cache, even reinstalling the game and still the issue persists.
-<p>Please resolve this issue as it's very annoying to restart the game after EVERY level.
-<p>PS I actually paid for the first game (when it did cost money to have it).
-}
-
-{
-Valid: 2
-Index: 19
-Rating: 4
-Title: Good game but you should add...
-Review: 
-<o>Greece and Rome level.
-<o>Shielded zombie with arrow to push back 2 plants and throw 1 plant backwards.day Pole jumper zombie.
-<o>Grapade grape and granade.splash effect Gargantuar Cyclops.
-<o>Boss Trojan horse.
-<o>Daily rewards with gems included now EA lets get this put in the game now Viking level lightning hits squares zombie with horn calls more zombies in.
-}
-
-{
-Valid: 1
-Index: 20
-Rating: 1
-Title: Was cool
-Review: 
-<s>..until you spend real money on upgrades only to switch devices and lose everything even when still associated with the same gmail account you purchased them with..or did they wipe everything with am update..
-<s>either way I'd like a refund of items purchased..
-}
-
-{
-Valid: 1
-Index: 21
-Rating: 4
-Title: Awesome
-Review: 
-<o>If you liked pvz then you will like this.
-<o>Only a couple complaints.
-<c>First and foremost why isnt this ported to pc yet?
-<a>The other complaint is it seems as updates happen the levels become way too hard.
-<a>Big beach was the first world i couldnt beat.
-<s>Some might complain about the micro transactions...you dont have to buy anything and the game is still free.
-}
-
-{
-Valid: 1
-Index: 22
-Rating: 3
-Title: Needs more levels
-Review: 
-<o>I have completed everything and I haven't had this game long.
-<o>I remember the old computer version of this game and the vase breaking was more than three levels for two worlds.
-<a>I like all the different worlds but would be cool if we had more challenging mini games.
-}
-
-{
-Valid: 2
-Index: 23
-Rating: 5
-Title: Amazing
-Review: 
-<o>I've been playing plants vs zombies for like a quarter of my life (I'm thirteen) and now plants vs zombies two comes out and I'm like by far the happiest boy ever this game is truly an amazing game.
-<o>And now popcap has made plants vs zombies garden warfare.
-<a>Its a whole lot different but its fun to play either zombies or plants.
-<o>Oh popcap if you do look at our comments please listen to my question.
-<o>Will there be the gatling pea, cattail, cob cannon, the gloom shroom, or the gold magnet?
-}
-
-{
-Valid: 1
-Index: 24
-Rating: 3
-Title: Losing my gems and coins
-Review: 
-<p>Love the game but hate when my gems and coins randomly dissappear when I havent purchased anything, I had 90 gems at the end of a level...closed the program and when I came back to play again my gems disappeared and I am now left with 14 gems.
-<p>If someone can explain this to me or if it can be fixed I'd  greatly appreciate it.
-}
-
-{
-Valid: 1
-Index: 25
-Rating: 1
-Title: Update failure - unplayable
-Review: 
-<c>It has Caused my screen to freeze between portrait and landscape.
-<c>I am left with giant black bars on either side of a tiny portrait turned sideways.
-<c>Other than that, great game.
-<c>I shall change your stars when my game works again.
-<c>Galaxy S3,  stock.
-}
-
-{
-Valid: 1
-Index: 26
-Rating: 2
-Title: Wth
-Review: 
-<a>Endless zone in big wave beach doesn't let you pick a new plant at the start of every level ..
-<a>and some of the levels in big wave beach are impossible to beat unless you cheat at least 15 times in one level.
-}
-
-{
-Valid: 1
-Index: 27
-Rating: 5
-Title: PVZ 2
-Review: 
-<o>Great game!
-<p>Runs smoother than its predecessor.
-<a>But the first one still remains best.
-<a>I liked the garden in the first game because it was alot simpler and straight forward plus with the snail, you could collect tons of cash.
-<p>Not to mention that trash can still need to be taken out since it reached to the farthest edges of space.
-<o>Haha.
-}
-
-{
-Valid: 1
-Index: 28
-Rating: 5
-Title: Love it!
-Review: 
-<o>I wish I knew players to share my joy with, figured I would just let you, the developers know instead.
-<o>...AWESOMENESS!
-<o>!!!
-<o>you all kick azz!
-<f>Keep the levels coming I am in zombie heaven!
-<f>My only request: add to the Amazon app store Please!
-<p>;-D UPDATE: Unfortunately, This latest update has some glitches .
-<p>so far...ALL endless zones...*No new cards to pick a plant each advancing round...
-<p>* Die, restart, and have 9 plants still, can't pick new ones either.
-}
-
-{
-Valid: 1
-Index: 29
-Rating: 1
-Title: 
-Review: 
-<a>Wild west impossible Day 18 change it to the challenge like pinta party with the plants going up if you don't change this I am never playing this game again.
-}
-
-{
-Valid: 1
-Index: 30
-Rating: 2
-Title: TOO MUCH ADVERTISING !!!!!!!!!
-Review: 
-<s>It was fun at first,but then after the update there is advertising  in between  every board  whether  you win or not.
-<s>And after  a while  the boards  seem impossible  to beat and take 5 or 6 more times to beat.
-<s>And the plant boost/green house idea is good but it takes for ever for them to grow enough  to boost and to make them grow quicker you need dimonds but you never have enough  dimonds to do so, so they want you to pay for more.
-}
-
-{
-Valid: 1
-Index: 31
-Rating: 1
-Title: Bunch of thieves lost all progress and money
-Review: 
-<p>Glitches glitches.
-<p>Again the same glitch in endless mode is causing me to have to uninstall and reinstall to fix.
-<o>Contacted popcap.
-<o>After spending thirty plus dollars on plants and gems for plants this is ridiculous!
-<p>Don't uninstall u will lose everything all gameplay.
-<p>Even if you are synced to game center or Google play.
-<o>As much money as they ask you would think they cared but dont to fix.
-<o>Now after 2 × I'm thinking about removing this app sux bc it used to be our fav.
-<o>They will lose customers 2 bad.
+<f>The program recognizes the internal SD card and shows it with the SD card icon, BUT the real SD card is shown as a folder instead of using the SD card icon.
+<f>Also, there is no exit button!
+<f>PLEASE add an Exit button to the menu, there's plenty of space and IT IS REQUIRED to close the app and reduce battery usage.
+<f>Most apps are not adding the Exit button.
 }
 
 {
 Valid: 1
 Index: 32
 Rating: 1
-Title: 0 STARS!
+Title: DO NOT DOWNLOAD
 Review: 
-<p>WHEN I WAS PLAYING ONE DAY I LEFT, WENT BACK ON, AND SAW MY ACCOUNT WAS DELETED!
-<p>I HAD EVERYTHING AND I WAS SO GOOD BUT NOW ITS ALL GONE!
-<p>PLZ ADD IT SO THAT YOU CAN REDEEM YOUR PLAYER!
-}
-
-{
-Valid: 1
-Index: 33
-Rating: 1
-Title: So much potential lost.
-Review: 
-<s>Constantly trying to make you pay for it.
-<p>Incredibly unpredictable performance.
-<p>And the game freezes at the end of matches.
-<p>The first one is a much better game.
-}
-
-{
-Valid: 1
-Index: 34
-Rating: 1
-Title: Stupid freemium games
-Review: 
-<a>It's horse manure compared to the first.
-<a>It gets on your nerves real quick.
-<s>Nothing worth earning can be earned, only bought.
-<s>Even extra slots can only be bought.
-<s>It's nearly impossible to keep leveling up without a credit card.
-<s>Stupid game, stupid concept, stupid creators.
-}
-
-{
-Valid: 1
-Index: 35
-Rating: 1
-Title: STOLEN COINS
-Review: 
-<p>I had about 30000 coins.
-<p>And the next time I went to pla, it said I had 0! And I tried everything to get them back!
-<p>Nothing is helping.
-<p>0 coins?
-<p>Wow that really makes me upset.
-<p>Until I get my coins back, this review is staying up.
-}
-
-{
-Valid: 1
-Index: 36
-Rating: 2
-Title: Difficulty
-Review: 
-<a>I've been playing for years and years so I think I know about how difficult it should be.
-<a>It's so hard on the beach areas that it forces you to burn through all your coins and supplies in an attempt to get you to buy more.
-<a>Before that it was fun.
-}
-
-{
-Valid: 1
-Index: 37
-Rating: 4
-Title: Cool game
-Review: 
-<a>Cool game better than plants vs zombies 1 because words, plant food and power ups.
-<a>Only problem is that when I completely finished the game it said a bad player and that sucks.
-}
-
-{
-Valid: 1
-Index: 38
-Rating: 4
-Title: Great except purchase required for certain plants
-Review: 
-<s>As is the unfortunate trend in many games now, you have to pay for extras rather than unlocking them.
-<s>In PvZ 2 this means you have to pay to get certain awesome plants such as torchwood, squash, chomper, etc.
-<s>Luckily you don't need to pay to beat the game but this is still an annoyance.
-<f>It should be possible to at least also be able to unlock everything by playing well, then the bad/lazy/impatient people can pay instead.
-<a>That being said, the game is a very fun, challenging, clever and diverse sequel.
-}
-
-{
-Valid: 1
-Index: 39
-Rating: 5
-Title: A great value
-Review: 
-<s>While this game is free to play with micro transactions, you are never forced to buy anything.
-<s>EA also keeps updating this game with new free content every 3 months or so.
-}
-
-{
-Valid: 1
-Index: 40
-Rating: 3
-Title: Too many glitches.
-Review: 
-<p>There are so many glitches right now, there is a one were the sounds seems like chips, the endless zones won't let you leave or get plants or advance to the next level.
-<p>Fix it please.
-}
-
-{
-Valid: 1
-Index: 41
-Rating: 3
-Title: Issues...
-Review: 
-<o>The game was really fun at first.
-<o>It gets almost too difficult at times though.
-<o>Also there are a LOT of instances when I will log out and log back in and have WAY less coins than I did the last time.
-<o>For example, I had 2,180 coins and quit the game to go do things.
-<p>When I just logged back in, I have 700 coins.
-<p>This happens frequently.
-}
-
-{
-Valid: 1
-Index: 42
-Rating: 2
-Title: Frustrating
-Review: 
-<p>Wonderful app except when it continually crashes and you have to reinstall.
-<p>I'll be back when they figure how to save progress.
-<p>EDIT: Now progress comes back --but only after getting two levels through Egypt.
-<p>Also, this happens EVERY SINGLE TIME there is an update.
-<p>UPDATE: My progress and purchases are completely wiped.
-<p>I did nothing.
-}
-
-{
-Valid: 1
-Index: 43
-Rating: 1
-Title: What the heck!!!
-Review: 
-<p>This is the THIRD time my account was deleted.
-<p>I didn't even do anything and my account was wiped completely same with my old one.
-<p>I completed frostbites in my first account and it was deleted.
-<p>I gave you a good review, bought some plants with my own money and then you my account!!!
-<p>Ridiculous!!!!
-}
-
-{
-Valid: 1
-Index: 44
-Rating: 5
-Title: Plz
-Review: 
-<a>I love the plants vs zombies in crazy Dave and penny the plants are fun never had sent for the plan or the new thing they added it's fun a whole lot of fun and I love the first one too and Plants vs Zombies garden warfare.
-}
-
-{
-Valid: 1
-Index: 45
-Rating: 4
-Title: Update issue
-Review: 
-<p>Great game, but after latest update endless zones aren't always allowing you to choose another plant or boost before going on to next round.
-<p>Please fix.
-}
-
-{
-Valid: 2
-Index: 46
-Rating: 3
-Title: Edit review.
-Review: 
-<p>the new update  buggy in the endless mode in the ice age.
-<f>Like my plant food icons disappear also the meter on top that tells you how many waves are left also dissapears.
-<f>when I finish a level I can't pick additional plants, the game goes straight to to next level.
-}
-
-{
-Valid: 1
-Index: 47
-Rating: 5
-Title: Fixed the glitch
-Review: 
-<p>thank for quickly fixing the glitch and extra gems!!!
-<p>Updated my game today, it had some glitches so I uninstalled and reinstalled.
-<p>Now I have lost all progress!
-<p>Please fix I really love this game will like to keep playing.
-<p>This is my favorite game, I have played every PvZ version this is the one I play the most often.
-<f>I liked  the option to purchase lost lawn mover with coins, and wish there was a plant in the garden that gave gems.
-}
-
-{
-Valid: 1
-Index: 48
-Rating: 1
-Title: Crash vs ads
-Review: 
-<p>I wouldnt mind the advertisement after every screen strategy if the game worked flawlessly but i crash every time i try to play a yeti map now, and framerate crawls during high zombiecount rounds.
-<a>It also bothers me a bit that i cant buy anything with my +500k coins like the plants/bonuses that cost 4 bucks a piece.
-<a>I miss the old pvz.
-}
-
-{
-Valid: 1
-Index: 49
-Rating: 3
-Title: Won't reinstall if it glitch again
-Review: 
-<p>It is still addictive, but it keeps erasing our progress.
-<p>These is the 3rd time we do it, if it happens again,  I will erase the game in our phones and tables.
-}
-
-{
-Valid: 1
-Index: 50
-Rating: 5
-Title: Liking pvz2 mostly
-Review: 
-<o>I like the game in general.
-<o>I did almost play everyday just for the pinata parties and the main worlds.
-<o>The game is not easy.
-<o>All the diff worlds are great.
-<o>Zen garden is great.
-<a>I like all boss levels.
-<o>Its nice knowing more worlds are to come.
-<o>Good job i say...
-<o>i have not spent a dime or do i use powerups, I'm stubborn like that.
-<f>I really want a full PC release.
-<f>I still hope for a PC release on steam.
-}
-
-{
-Valid: 1
-Index: 1
-Rating: 2
-Title: The sudoku I love but...
-Review: 
-<f>The "value before cell" option should have an option so that when you change values you can just touch the new value you want and the previous one will be replaced.
-<f>Add this feature PLEASE.
-<f>(Even if it is its own option) I would have given 5 stars if this option was available.
-<o>I currently prefer my other sudoku app but wanted sudoku X...
-}
-
-{
-Valid: 1
-Index: 2
-Rating: 4
-Title: 
-Review: 
-<p>I solved 100 puzzles, but now I'm not able to open a new one.
-<p>I get only the option of resetting the same puzzle that I solved last.
-<o>What is the solution?
-}
-
-{
-Valid: 1
-Index: 3
-Rating: 2
-Title: No advantage over paper
-Review: 
-<s>You only get a single check if you have a wrong value, or pay dollars.
-<p>When you enter a number, it doesn't remove the same numbers entered as tentative in the same row and column, makes for a v-e-r-y slow game.
-<f>Developer permissions were good, but too frustrating.
-<f>Uninstalled.
-}
-
-{
-Valid: 1
-Index: 4
-Rating: 4
-Title: Fun to play
-Review: 
-<f>I like the options of classic or bend versions.
-<f>I also like being able to switch from very easy to more of the challenging puzzles, depending on my mood.
-}
-
-{
-Valid: 1
-Index: 5
-Rating: 4
-Title: Few minor glitches
-Review: 
-<p>I'm having problems with the 2 plus signs not loading there options so I am unable 2 pause or even restart a puzzle I have completely messed up please fix this.
-}
-
-{
-Valid: 1
-Index: 6
-Rating: 3
-Title: Better if offered no-ad
-Review: 
-<a>I like the multitude of games and variety, as well as the many levels of difficulty.
-<s>However, very bothered by the fact that I can't play without the annoying ads or that I have to use tokens to delete the ads.
-<s>And that in doing so, it doesn't remain that way after closing the app.
-}
-
-{
-Valid: 1
-Index: 7
-Rating: 3
-Title: No more ads with videos please
-Review: 
-<s>The app is good but the last 5 games in a row I have played have had the exact same ad with a video.
-<s>It is a waste of data that could be used for something else (eg. downloading other games made by your company.).
-}
-
-{
-Valid: 1
-Index: 8
-Rating: 2
-Title: New update/owner ruined it.
-Review: 
-<a>Used to be my fav.
-<a>But an apparent new owner and changes they made have wrecked it.
-<f>Now it has issues keeping track of my progress with a broken "cloud save" feature, and nags you if you have incomplete puzzles.
-<p>Also uses more battery, wow!
-<p>Way to "fix" what wasn't broken, Volcano.
-}
-
-{
-Valid: 1
-Index: 9
-Rating: 5
-Title: Greatly expanded and fixed
-Review: 
-<a>Much improved from earlier version.
-<a>I had my issues with my first download, and was running out of puzzles.
-<a>No more!
-<s>Ads are a bit annoying, but playing offline works fine.
-}
-
-{
-Valid: 1
-Index: 10
-Rating: 1
-Title: Erased all previous games
-Review: 
-<p>Erased all previous completed games; over 200! Not just once but did it again today.
-<p>Will be unistalling and getting a new sudoku game because this is unacceptable!
-<p>Plus it drains battery life for a simple game!
-}
-
-{
-Valid: 1
-Index: 11
-Rating: 3
-Title: New version is pretty slow
-Review: 
-<p>Becomes unresponsive after returning to the starting screen, need to reopen app to fix it.
-<f>No longer allows you the choice to not use the check puzzle function.
-<p>App is slow to load up initially.
-<o>In my opinion, the app was much better before this update.
-}
-
-{
-Valid: 1
-Index: 12
-Rating: 1
-Title: Update messed it up
-Review: 
-<o>I've had the app on 3 separate devices for a while.
-<p>It was easy to select a number at the bottom and just touch squares to apply the number.
-<p>This function is flawed now as well as the ability to remove numbers from a box when the are multiple numbers applied.
-<p>Please fix.
-}
-
-{
-Valid: 2
-Index: 13
-Rating: 3
-Title: Could have been 4 star if...
-Review: 
-<f>It could have better options.
-<f>Doesn't describe how the points work.
-<f>I lost 25 points before I figured out how the point system works.
-<f>Made me very mad.
-}
-
-{
-Valid: 1
-Index: 14
-Rating: 3
-Title: Really nice but...
-Review: 
-<p>Its a great game and format but often times switching between apps or closing the game my screen on my nexus just goes black.
-<p>If anyone knows how to fix this please inform me.
-<p>Thank you.
-}
-
-{
-Valid: 1
-Index: 15
-Rating: 4
-Title: Suduko
-Review: 
-<f>Really love this, my only complaint is that the 'check for errors' button isn't always available (you have to win a certain amount of games first), otherwise a thoroughly enjoyable game.
-}
-
-{
-Valid: 1
-Index: 16
-Rating: 4
-Title: Nice
-Review: 
-<f>It would be even more good, if it say the wrong placement of numbers at the time of its entry only....
-<f>every time we need to CHECK PUZZLE option for any wrong entries.
-<f>other than that everything is fine.
-}
-
-{
-Valid: 1
-Index: 17
-Rating: 5
-Title: Nice
-Review: 
-<f>The game works fine.
-<f>However if you exit Sudoku, game becomes a saved game.Sudoku i liked it.
-<a>This game have a lot of Sudoku type.Great game...very addictive.
-}
-
-{
-Valid: 1
-Index: 18
-Rating: 1
-Title: It was a good app, but I'm going to delete it now
-Review: 
-<f>This was one of the better apps for this game until it added the stupid visual effects with the numbers spinning around and getting bigger without a way to disable them.
-<a>I want to challenge myself by getting the best times I can, but the visual effects are stupid, unnecessary,  and distracting.
-<a>If they would allow you to disable the visual effects I'd keep the app.
-}
-
-{
-Valid: 1
-Index: 19
-Rating: 1
-Title: Ads in your face as you play it
-Review: 
-<s>I respect the fact that there is a market for ad supported ads, but IMO this should be clearly stated in your description, I just read it over again, you guys kept it as a surprise.
-<s>I would never install it if I knew.
-}
-
-{
-Valid: 1
-Index: 20
-Rating: 4
-Title: Good app
-Review: 
-<a>This app is great for lovers of sudoku.
-<a>It has plenty of different puzzles and levels to keep you entertained.
-<f>I like the fact that if you have to leave the app suddenly or when it is shut down your game is saved and you can just pick up where you left off when you return.
-}
-
-{
-Valid: 1
-Index: 21
-Rating: 5
-Title: 
-Review: 
-<f>Need a soft background music.Please add function for highlight wrong number.
-<f>Is great if we can custom our own background color, number color, cell color etc.
-}
-
-{
-Valid: 1
-Index: 22
-Rating: 4
-Title: TN7.
-Review: 
-<a>1. Here's a very small user interface improvement idea for the already sparkling creative Welcome menu : the "Game Center", "Settings", "Play" and "Help" squares might preferably have "..." appended to their label because they have submenus (which doesn't apply to "Career").
-<f>2. I'd also wish to have an option to set a custom label for any of my custom Sudoku's.
-<s>Ad'sBoS while pehi solving.
-}
-
-{
-Valid: 1
-Index: 23
-Rating: 4
-Title: Fun but in game items have an issue
-Review: 
-<p>I play this quite a bit and noticed that after a reccent update, the in game items no longer work.
-<p>They are unlocked, but upon clicking them nothing happens.
-}
-
-{
-Valid: 1
-Index: 24
-Rating: 3
-Title: Lots of puzzles but settings do not work
-Review: 
-<f>I like that there are tons of puzzles &amp; you can adjust all the settings to have as many or as little cheats as possible.
-<p>I would actually give it 5 stars, but recently the "check cells", "clear cells" (to start over), and all settings in the blue &amp; red plus-sign-settings do not work.
-<p>I now have 6-7 games that I royally messed up on &amp; cannot restart or ask to check for which cells are wrong.
-<p>Also, I am accumulating coins but have no use for them since the settings that you spend them on do not exist.
-}
-
-{
-Valid: 1
-Index: 25
-Rating: 5
-Title: Brilliant and easy to play!
-Review: 
-<a>LOVE this version of sudoku!
-<a>Is easy to play, some of the tricky ones are hard to solve but with the addition of the gold coins in this version it is simple to buy some handy hints!
-}
-
-{
-Valid: 1
-Index: 26
-Rating: 4
-Title: Whiles away the time.
-Review: 
-<f>Should have a solvable fields feature for when you get stuck and has started telling me I need to complete 5 puzzles before some features are available when I have completed hundreds of them.
-<f>Otherwise keeps me occupied when I have a few minutes spare.
-}
-
-{
-Valid: 1
-Index: 27
-Rating: 1
-Title: Latest update sucks
-Review: 
-<p>Can't finish a game, says I still have cells to complete, automatically updates cells prematurely, loses pencil marks, go back to last version.
-<p>Still an issue.....
-<p>has spolit the game.
-<p>Really sucks....
-<p>good response from developer, seems to be restored, thanks.
-}
-
-{
-Valid: 1
-Index: 28
-Rating: 5
-Title: Wonderful App
-Review: 
-<o>Downloaded this Sudoku app with several others.
-<a>This is by far the best I've seen.
-<a>Engaging instead of stressful.
-<f>There is a timer but it's really in the background instead of ever present anxiety producing like other games.
-}
-
-{
-Valid: 1
-Index: 29
-Rating: 3
-Title: Those bloody ads
-Review: 
-<s>I can handle the full screen ads, but I can't stand the banner ads at the bottom that obscure your final score and average at the end of each game.
-<s>It didn't used to be this bad.
-<s>:(.
-}
-
-{
-Valid: 1
-Index: 30
-Rating: 4
-Title: Great fun :)
-Review: 
-<p>4 stars because the recent update drains the battery and it's hard to know which number you have selected if the board thinks that number is completed.
-<f>I'd also like the option to compete against friends times/send a challenge.
-<f>Thoroughly addictive with levels to suit every ability.
-}
-
-{
-Valid: 1
-Index: 31
-Rating: 5
-Title: The awesome version
-Review: 
-<a>This Sudoku is fabulous!
-<a>There r 1000's of puzzles to keep u busy.
-<a>I really like the interface and the display is very clear unlike others I've played.
-}
-
-{
-Valid: 1
-Index: 32
-Rating: 1
-Title: Update is bad
-Review: 
-<p>I been playing g this a while now was really happy with it till the update.
-<p>Now when I go back on the game it's coming up with unfinished  puzzles which I done and keep doing.
-<p>And I'm feed up with it.
-<p>Please fix it or I will be getting rid of this game which I like alot..
+<p>Renamed my movies and it changed all their file types.
+<p>Now ALL MY MOVIES ARE USELESS!!
+<o>Dont ever even consider downloading.
+<o>Devs need to get theirnshit together.
 }
 
 {
 Valid: 1
 Index: 33
 Rating: 5
-Title: Best sudoku on the net
+Title: Love it.
 Review: 
-<a>I like everything about this version, the size (perfect on a tablet) the clarity of the numbers, the level of difficulty and the ease of use.
-<f>My only quibble, a small one, is that when using the error button, it also highlights numbers just "pencilled in".
-<f>I wish it would ignore them and just highlight mistakes made in numbers fully filled in.
-<f>For example, you know that a number must be one of two adjacent spaces in a row, and so you pencil them in both.
-<f>The error button tells you which is right and which is wrong when you might not want this information.
+<f>Although I use ES File Explorer most of the time, it doesn't allow me to make changes and edit files on the external memory card.
+<f>This app allows me to do it so it's awesome!
 }
 
 {
 Valid: 1
 Index: 34
-Rating: 5
-Title: 
-Review: 
-<a>Good game have a play and get your settings right.
-<a>I nearly binned it cos I didn't like the controls but playing with the settings made all the difference.
-}
-
-{
-Valid: 1
-Index: 35
-Rating: 3
-Title: 
-Review: 
-<p>The lastest update made some changes that decrease the fun of the game.
-<p>All of my accumulated points disappeared and the adds flashing across the bottom of the screen during gameplay are distracting and annoying.
-<p>Can't we just leave those off?
-<a>Otherwise,  the game is fun and challenging.
-}
-
-{
-Valid: 1
-Index: 36
 Rating: 4
-Title: Good fun stuff
+Title: Simply Yes
 Review: 
-<p>Well put together app, freezes once in a while but it's no big deal just restart it and I'm right back where I was with no lost progress.
-<p>If it wasnt for that it would be 5 stars.
-<o>And already have spent an s-ton of time on it, and received one write up at work for playing it.
+<o>I use this app for a long time.
+<p>Everything was ok, but sometimes when  view list of apk files, it seems to be slow to show up the icon.
+<o>~Great App by the way.
+<o>:).
 }
 
 {
-Valid: 1
+Valid: 2
+Index: 36
+Rating: 2
+Title: 2
+Review: 
+<f>It says "Some or all items couldn't be copied" and cancels the whole process of copying.
+<f>I haven't seen the pattern of this issue.
+<f>The build-in file manager works without that issue.
+}
+
+{
+Valid: 2
 Index: 37
 Rating: 4
-Title: Great but...
+Title: Nice slim file manager
 Review: 
-<c>The only thing  I don't  like is when I downloaded  this to my Tab it didn't  sync with my S4 , so now I can't   start a game on one device and finish  on another like I can with other apps.
+<f>This is a simple file manager with icons big enoug so that I can touch them with my thumb.
+<f>Hence very agreable to look at, and with the included bookmarks you'll easily find your faviroutes.
+<f>Only problem: It replaces the term "sdcard" with the symbol of an SD card in the path.
+<f>That's really nice to look at, but I've got two SC card (/mnt/scard and /mnt/scdard2) so I can't tell them apart.
+}
+
+{
+Valid: 2
+Title: People
+Review: 
+<f>This app is intended to be used with OneDrive because why would Microsoft give office for free in mobile devices when you have to pay in PC?
+<f>That would obviously move everyone from the PC to the Mobile version (Free Version) Don't understand the poor ratings!
 }
 
 {
 Valid: 1
-Index: 38
-Rating: 4
-Title: Good app
+Title: Wheres the individual apps, I don't have a tablet?
 Review: 
-<s>I love it and play it all the time, so glad it's free!
-<p>The only reason for a 4/5 instead of 5/5 is because sometimes the solution check is buggy and won't let me use it and while you can put little numbers in to show multiple spots a number can go the solution check will tell you one of you possibilities is wrong, giving away the answer for that square.
+<f>Microsoft really needs to separate out Word/Excel etc, like they have done on iOS, I've switched from iOS, and can only use this for my office documents, and it doesn't allow full functionality.
+<f>Hope there are individual apps coming soon.
 }
 
 {
 Valid: 1
-Index: 39
-Rating: 4
-Title: Fun so far but just started.
+Title: Does not support Tablets with Intel Processors
 Review: 
-<o>Just got started and not sure why there is a need for coins.
-<o>Im sure I'll figure it out soon.
-<o>Let you know later if it deserves another star.
-<o>So far it looks good.
+<c>Bought an Asus Tablet with Android 4.4 but spent two weeks trying to figure out why office wouldn't work.
+<c>Found out that the current version only supports ARM processors.
+<c>Had to return the tablet because this is a crucial app for me to work.
+}
+
+{
+Valid: 2
+Title: 2/5
+Review: 
+<f>You can't save in Phone Storage, only in One Cloud.
+<f>You can't copy cell formulas in Excel which is a shame.
+<c>Some fonts are larger than they should be in PowerPoint and it can't properly open pptx files.
 }
 
 {
 Valid: 1
-Index: 40
-Rating: 4
-Title: Dont like the newest update!
+Title: Cannot open protected files
 Review: 
-<f>I don't like the update.
-<f>It will not save games as finished after I finished it.
-<p>It killes the batteri in my phone.
-<p>I have played this game for long and loved it but I dont like the new update :( will change my rate to 5 stars when fixed         12.jan: I like this game again after the newest update.
-<p>You have fixed it :).
+<f>I usually use excel password protected files and was surprised that cannot open them with Microsoft office, but can open with the office software already installed, for free!, in my phone...
+}
+
+{
+Valid: 2
+Title: NOPE
+Review: 
+<f>Why must I log in to use this?
+<f>Not interested.
+<o>Deleting and installing another office suite that isn't as nosey.
+<o>Buh-byeee, MS office.
 }
 
 {
 Valid: 1
-Index: 41
-Rating: 4
-Title: #3 in Standard very hard
+Title: Can't open any local files...
 Review: 
-<p>Fairly sure that level is bugged - I have tried to complete three times now, but everytime it just doesnt add up.
-<p>Maybe I have missed something, but starting to think it might be a mistake in the level.
-<p>Can you please take a look at it?
-<p>Besides this I really enjoy the game, but as other people have mentioned, it eats up your battery.
+<f>Downloaded an word file?
+<f>Got an excel doc emailed to you?
+<f>Well...
+<f>don't ask this app to open it, cause it won't.
+<f>Unless you first upload it using a different tool you'll be unable to open any local file.
+<f>What's that about?
 }
 
 {
 Valid: 1
-Index: 42
-Rating: 2
-Title: Used to love this - but now ruined by 'Volcano'
+Title: Ink?
 Review: 
-<s>I've worked my way up to the top level over the last couple of months and was enjoying completing a couple of puzzles a day, but I'm now finding that ads are intruding and making it impossible to play.
-<s>I don't want coins or ratings thank you!
-<s>Hoping I can find a setting to change or it's adios for this app.
-<s>What a shame.
+<c>Does not show ink within documentgs.
+<c>Should be able to not only see the ink made on a windows platform,  but I should be able to add or edit the ink with,  for example,  a G-note 4 device.
+}
+
+{
+Valid: 2
+Title: Can't send or download files
+Review: 
+<f>It's bad enough that you can't download files and to add insult to injury, when you try to send one it doesn't attach to the email and when you try to send a link it takes people to a blank folder.
+<f>This has a long way to go...
 }
 
 {
 Valid: 1
-Index: 43
-Rating: 1
-Title: Bad Ads
+Title: Won't open password protected files
 Review: 
-<s>I understand the need for Ads but this App allows Ads that try to convince you that you have a virus on your phone and I'm sure that if you click on the Ad it will offer to fix the problem for a fee.
+<f>Until it can open password protected files, it's no good to me.
+<f>Free non-MS software can do it, why can't MS?
 }
 
 {
 Valid: 1
-Index: 44
-Rating: 3
-Title: Please fix this game!
+Title: Only saves to One Drive
 Review: 
-<p>I really enjoyed this game up to today.
-<p>Today, when I finish a game with ALL cells filled, the clock keeps running.
-<p>When I check for errors it says "all cells correct, but there are xx cells to go", where xx is some random number!
-<p>HELP!
+<f>Saves only to One Drive, need to install One Drive to open and download?
+<o>Sticking to free Office Suite provided by Sony.
+<o>The Windows Vista of Office Apps.
 }
 
 {
 Valid: 1
-Index: 45
-Rating: 1
-Title: Update is bad
+Title: Not good enough
 Review: 
-<p>After the update every time I open the app it loads the progress through the cloud and shows puzzles that I've already solved.
-<p>Never had this issue before recent update.
-<p>Please fix.
+<f>I can only link to Dropbox or Microsoft cloud,  on a Android app.
+<f>It needs to be able to connect to Google drive as well.
 }
 
 {
 Valid: 1
-Index: 46
-Rating: 1
+Title: Excel lite
+Review: 
+<f>You can not manipulate protected excel sheets.
+<f>How can you expect to use excel spreadsheets without keeping formulas locked down?
+}
+
+{
+Valid: 1
+Title: Only accepts a single account
+Review: 
+<f>If you have more than one Office365 account you will never be able to access the second one.
+<f>The whole office suite only supports a single user.
+}
+
+{
+Valid: 1
+Title: More of a document *viewer*
+Review: 
+<f>I expected to be able to edit .doc files.
+<f>However this is not possible, not even in a limited fashion.
+<f>Quite disappointing...
+}
+
+{
+Valid: 1
+Title: Wiped Half-hour's worth of work.
+Review: 
+<f>Says it couldn't connect to one drive then took me back to menu and didn't save, half an hours work lost because there's no proper local save support.
+}
+
+{
+Valid: 1
+Title: What the hell?
+Review: 
+<f>The online version supports open office file extensions like .odt or .ods and this app doesn't??
+<f>Why can't I just use Polaris office for everything else since it supports Microsoft office's extensions just fine+.pdf and other bs..
+}
+
+{
+Valid: 1
 Title: 
 Review: 
-<s>Everything is fine except that you have to spend gold every time to disable banner add.
-<s>When disable banner add is used it should disable adds permanently.
-<f>Should not have to disable every time you open the app.
-<f>Was better before update!
+<f>Well this app does save docs in the device, not just onedrive, but it should be in a easier way.
+<f>Login shouldnt be necessary, but an optional step.
+<f>Should optimize space on screen.
+<f>Edit mode should be better on PowerPoint.
+<o>But it works.
+<o>I only use it because of the integration with OneDrive,  which is useful to me.
+<o>When I don't need integration I use Polaris.
 }
 
 {
 Valid: 1
-Index: 47
-Rating: 1
-Title: fun.. Doesn't pay out free gold
+Title: NO intel processor support
 Review: 
-<p>I have downloaded and installed different apps and games onto my phone hoping to be rewarded with the free coins used to help me as I complete hard level squiggly puzzles and have not gotten them.
-<p>Clicking the Missing Gold link at the bottom of the page doesn't work either.
-<p>To date I have lost out on 75 gold coins in total.
-<p>I am contemplating deleting the game now.
+<c>This app would get 5 stars from me but I cant use it on my tablet but I can use it on my phone?
 }
 
 {
 Valid: 1
-Index: 48
-Rating: 3
-Title: Good game with artistic but not user-friendly interface
+Title: Cannot access multiple accounts
 Review: 
-<f>The game works fine.
-<f>However if you exit Sudoku, game becomes a saved game.
-<f>If you saved the game a while back, you may not remember that it existed.
-<f>It would be nice if there was a way (like greying out the choice) to tell you that there are old games to complete before opening up a new game.
-<f>Because of this, I had 5 incomplete games.
-<f>UPDATE: new startup is even more clunky - I don't want to be forced to login to Google because I don't want game console features.
-<f>Deleting 1 more star.
+<f>I have a personal Office 365 account as well as a University provided account.
+<f>I would like to be able to access BOTH accounts, but it seems the only way to do this is to completely erase the app data and relogin to switch accounts (losing information and slowing down my phone).
+<f>They need to have an option where you can login to multiple accounts and then switch between them.
 }
 
 {
 Valid: 1
-Index: 49
-Rating: 3
+Title: Compatibility
+Review: 
+<c>I had the issue of incompatibility but it is partially gone now..
+<c>I cannot use my wireless printer to print document from mobile.
+<c>Please help.
+<o>Thanks!
+}
+
+{
+Valid: 1
+Title: Excel is too basic, you end up needing a computer.
+Review: 
+<f>I have only used Excel but it needs more options.
+<f>You can't add rows or columns in, so if you need to add something in once you've started it won't let you.
+<f>There isn't even an option to bold items.
+<f>There are only 5 formulas to pick from so it's more of a glorified calculator.
+}
+
+{
+Valid: 1
+Title: Not working on Tablet
+Review: 
+<c>Microsoft advertises on their website it works on Android Tablets, I have 3 different tablets, Samsung Tab S 10.1, Samsung Note 10.1 (2014) and a Samsung Tab 4 8 and none are compatible only my S5 and LG G3s.
+}
+
+{
+Valid: 1
+Title: You have to sign in!!!!! Forget it....
+Review: 
+<f>Why do I need to sign in to just open a doc from my device and that too by uploading to OneDrive, Forget it.
+<o>Microsoft is killing its products.
+<o>Not going to use office any more.
+}
+
+{
+Valid: 2
+Title: Useless!
+Review: 
+<o>Used it for 6 months and worked perfectly until the latest update.
+<f>I open an Excel spreadsheet on  OneDrive, edit it and when I try to save it, it trys to save it in the root drive, not where it was originally and trys to append "(1)" to the file name  When I save it where it wants to and then immediately try to open it, it says the file is corrupt (destroyed all of my data).
+<f>I'm an Office 365 Professional user which makes no difference.
+<f>Also, when in the hell are you going to add a print option.?
+}
+
+{
+Valid: 1
+Title: Very Disappointing App
+Review: 
+<o>This review is about the mobile app only - not the tablet or PC versions.
+<f>I'm surprised by the lack of functionality considering this is an actual Microsoft product.
+<f>Like many other apps, this one fine for reading files.
+<f>But it lacks so much basic function in each document type that it's useless for school or office use.
+}
+
+{
+Valid: 1
+Title: Great if you have a one drive
+Review: 
+<o>Had this on my windows phone but using an S5 at the moment so thought I'd get this.
+<f>Yeah does what you need it to.
+<f>Login to your Microsoft account and all you bits and bobs are there for you.
+<f>Some funky subtle effects too.
+<o>Again don't understand the negative feedback.
+<o>Can only assume people think it's going  to be full office suit...
+<o>which it isn't.
+}
+
+{
+Valid: 1
+Title: Useless...
+Review: 
+<f>Once again a poorly featured app by Microsoft.
+<f>I understand that they don't want to give you full features of a paid version.
+<f>But why would I sign up for a subscription if it lacks a bunch of tools especially in a word document.
+<o>Maybe make a better trail version so not to give it all away?
+<o>Kingsoft and Polaris comes to mind when it comes to quality office suite.
+}
+
+{
+Valid: 1
+Title: Closes and discards File changes
+Review: 
+<f>My biggest problem is this 'premium' office suite, doesn't save my chances if I task switch to another app and then come back to this to continue my edits.
+<f>A few times, it says I can not make changes to an excel book.
+}
+
+{
+Valid: 1
+Title: Great Office, lack of Local Save
+Review: 
+<f>Why is there no local saving?
+<f>I don't need/want everything online �?Word: Can't edit files with Unicode characters, for example these black blocks (this �?) �?Word: should show page breaks instead of one continuous strip, no support for fine-grained text size change �?Word: Only 3 colors for font/text highlighting?
+}
+
+{
+Valid: 1
+Title: Can't save file to phoned storage or sd card
+Review: 
+<f>You can't save file to phone storage or to SD card.
+}
+
+{
+Valid: 1
+Title: Useless on Note 4
+Review: 
+<o>Did Uni Office 365 to get the Terabyte of storage and better mobile access.
+<o>As far as the Android app goes,  totally useless.
+<f>Excel just says "cannot edit" and it's Excel I need.
+<o>3rd party apps are way better.
+<o>One star for app,  2 stars only because the Office subscription does OK otherwise (once you've paid to be crucified by Microsoft customer service for a few days).
+}
+
+{
+Valid: 1
+Title: Microsoft Office
+Review: 
+<o>After reading all these reviews, I  can foresee all the same problems I'm going to have.
+<o>Don't need the aggravation.
+<f>After opening this, saw that you have to sign in.
+<f>Not even gonna go any further.
+<o>Will uninstall.
+<o>Too bad there are so many issues with this app.
+<o>Should have read reviews first, like I normally do.
+}
+
+{
+Valid: 1
+Title: WHY CAN'T YOU SAVE FILES DIRECTLY TO YOUR PHONE???
+Review: 
+<f>Why can't I save my file on my phone directly?
+<f>What if you're in a place without internet and really need to save your edited files?
+}
+
+{
+Valid: 1
+Title: Office for small business owner.
+Review: 
+<o>This app I installed few weeks ago because I kinda where wanting an office app what can allow me to make and edit regular office documents.
+<f>Unfortunately after first use I understood that in whole this app is no formating options.
+<f>I was using a quick office by Google and it was great, you could make and format all your text and spredsheets, add colors, borders and other things to highlight information.
+<o>Unfortunately now quick office by Google isn't available in Google play anymore.
+<o>And that's totally bad!
+}
+
+{
+Valid: 1
+Title: Really...
+Review: 
+<f>Well first of all why need an account for this to be able to use this?
+<f>I can't even use this without an account and second, I only misspelled one thing wrong to make the account and submitted it and then It said password don't match and I fixed it and it said I've tried to many times and I have to wait 1 whole day to try again!
+<f>And I can't even access it without an account!
+<f>U should give at least 5 tries not just 1 to get it right!
+}
+
+{
+Valid: 1
+Title: Terrible app
+Review: 
+<f>Doesn't let me access or save into my phone storage or sd card.
+<f>Functionality is pointless you are better off using another free alternative for mobile docs.
+}
+
+{
+Valid: 1
+Title: Not what I would expect from the largest office productivity suite on the market
+Review: 
+<o>This is not what I would expect from Microsoft for any office app.
+<f>The only thing you can really do and poorly is open existing files.
+<f>Creating a new one is horrible with very limited capabilities and loss of basic formating even when reviewing an existing file.
+<o>Not something I would expect from a ms office suite.
+<o>Time to get back to the drawing board and awe us with what we have grown to know and use on a daily basis.
+}
+
+{
+Valid: 1
+Title: Not compatible with LG G3
+Review: 
+<c>I used it on my GS4 just fine, but it won't work on my new LG G3. Will there be a fix coming?
+}
+
+{
+Valid:0
+Title: Enough with the crap
+Review: 
+<f>Gave up after trying to retrieve my password.
+<f>Not worth the exhaustive effort.
+<o>You know if your under 50 this is going to be a disappointing product.
+<o>Why even try it.
+}
+
+{
+Valid: 1
+Title: Mainly for viewing or text editing
+Review: 
+<f>The software doesn't let you do a whole lot with the file saved online, other than maybe correctly a few grammar mistakes and spacing.
+<f>Plus, no local save for when I don't have access to a decent Wi-Fi connection, which happens often.
+}
+
+{
+Valid: 1
+Title: No password protected files?
+Review: 
+<f>Please please, can you please update this very useful app with the possibility of working with password protected files?
+<f>I can do that with the Excel app on my iPad, it would be lovely to have consistent features across devices.
+}
+
+{
+Valid: 1
+Title: PowerPoint?
+Review: 
+<f>Why can't I create new PowerPoint presentations?
+<f>That is the main reason why I downloaded this app to begin with because the online version never wants to work.
+<f>If I could make new presentations the same way I could on a computer like the word and excel is with this app then I would give it a better rating.
+}
+
+{
+Valid: 1
 Title: 
 Review: 
-<p>Recently problematic.
-<p>Used to work with no problem, now nearly every time I try to start a new game, I get an error message which requires me to force close or report.
+<f>Was thrilled when I synced my laptop files via dropbox.
+<f>But I am disappointed to find that this software doesn't offer basic features like word count.
+<o>I am an author and it would be really helpful if you can provide it in your MS word.
 }
 
 {
 Valid: 1
-Index: 50
-Rating: 3
-Title: I don't understand the icons
+Title: Lost my saved work
 Review: 
-<p>I haven't really figured out how to interpret the icons for capabilities of the game.
-<p>I have never got the see how I am doing button working.
-<p>Its a nice implementation, but doesn't feel finished.
+<f>I was very excited to have the capabilities to link my school work from my laptop to my phone.
+<p>The first 45 minutes of working on a paper went great.
+<p>I was able to save it ok and continue on.
+<p>As I finished my second paragraph I hit save and it encountered an error which resulted in it wiping out the entire document, including the information that had already been saved!
+<p>Thank God that I hadn't gotten too far on my paper.
+<p>Don't do any work on this if it is important.
+<p>Completely unreliable program!
 }
 
+{
+Valid: 1
+Title: A disappointing test drive
+Review: 
+<o>I am a satisfied WPS Office user and have given MS office Mobile (Android) a test run.
+<f>Several irritations require attention before I will switch permanently to Office Mobile:  Excel opens at cell A1 even though I saved it (on my PC) with the cursor at  cell A750 - that is a lot of scrolling on my mobile to get to where I want to be.
+<f>Saving the file on my mobile only gives the option to save to OneDrive and not to the folder where I opened it from.
+<f>Conditional Formatting does not display.
+<f>The program is unable to open a password-protected spreadsheet.
+<o>Looking forward to try out the next update.
+}
+
+{
+Valid: 1
+Title: Can't open my password protected excel
+Review: 
+<f>I couldn't open my password protected excel file since this app complained it was protected.
+<f>But Polaris office did it with ease!
+<f>The original fine was created in windows in Microsoft Excel!
+<f>So dumb!
+}

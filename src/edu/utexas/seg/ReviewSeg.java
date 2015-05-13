@@ -18,7 +18,6 @@ class ReviewSeg {
 		int step = arg.get("-s", 10, "Step size");
 		String stopwordList = "stopwords.txt";
 		String reviewFile = "review.txt";
-		//arg.displayHelp();
 		performSegment(reviewFile, stopwordList, window, step);
 	}
 	

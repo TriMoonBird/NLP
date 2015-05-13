@@ -6,3 +6,5 @@ bin/*
 /bin/
 src/uk/*
 **/SentenceTile.java
+src/org/tartarus/snowball/*
+*.txt
