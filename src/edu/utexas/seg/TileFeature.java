@@ -19,51 +19,83 @@ public class TileFeature {
 	protected boolean mUseWordNet;
 	protected boolean mUseStopword;
 	protected boolean mUseStemmer;
+	protected boolean mUsePreserveWord;
 	protected WordNet mWordNet;
 	protected ArrayList<ReviewItem> mReviewItems;
 	protected String mStopwordFile;
 	protected HashSet<String> mStopwords;
 	protected SnowballStemmer mStemmer;
 	protected HashSet<String> mPronounSet;
+	protected String mPreserveWordFile;
+	protected HashSet<String> mPreserveSet;
 	
 	public boolean useWordNet() { return mUseWordNet; }
 	public boolean useStopword() { return mUseStopword; }
 	public boolean useStemmer() { return mUseStemmer; }
+	public boolean usePreserveWord() { return mUsePreserveWord; }
 	public ArrayList<ReviewItem> items() { return mReviewItems; }
 	
 	public void setWordNet(boolean flag) { mUseWordNet = flag; }
 	public void setStopword(boolean flag) { mUseStopword = flag; }
 	public void setStemmer(boolean flag) { mUseStemmer = flag; }
+	public void setPreserveWord(boolean flag) { mUsePreserveWord = flag; }
 	
 	public TileFeature(ArrayList<ReviewItem> items) {
 		mUseWordNet = true;
 		mUseStopword = true;
 		mUseStemmer = true;
+		mUsePreserveWord = true;
 		mWordNet = new WordNet();
 		mReviewItems = items;
 		mStopwordFile = "stopwords.txt";
-		mStopwords = new HashSet<String>();
+		mStopwords = loadStopwords();
 		mStemmer = new englishStemmer();
 		mPronounSet = buildPronounSet();
+		mPreserveWordFile = "wordlist.txt";
+		mPreserveSet = loadPreserveWord();
 	}
 	
-	protected void loadStopwords() {
-		loadStopwords(mStopwordFile);
+	protected HashSet<String> loadPreserveWord() {
+		return loadPreserveWord(mPreserveWordFile);
 	}
-	protected void loadStopwords(String file) {
+	protected HashSet<String> loadPreserveWord(String file) {
+		HashSet<String> preserve = new HashSet<String>();
 		try {
 			BufferedReader reader = new BufferedReader(new FileReader(file));
 			String line;
 			while ((line = reader.readLine()) != null) {
-				mStopwords.add(line.trim());
+				preserve.add(line.trim());
 			}
 			reader.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		return preserve;
 	}
 	
-	protected boolean isStopword(String word) {
+	public boolean isPreserveWord(String word) {
+		return mPreserveSet.contains(word);
+	}
+	
+	protected HashSet<String> loadStopwords() {
+		return loadStopwords(mStopwordFile);
+	}
+	protected HashSet<String> loadStopwords(String file) {
+		HashSet<String> stopwords = new HashSet<String>();
+		try {
+			BufferedReader reader = new BufferedReader(new FileReader(file));
+			String line;
+			while ((line = reader.readLine()) != null) {
+				stopwords.add(line.trim());
+			}
+			reader.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return stopwords;
+	}
+	
+	public boolean isStopword(String word) {
 		return mStopwords.contains(word);
 	}
 	
@@ -177,14 +209,14 @@ public class TileFeature {
 		Hashtable<String, Integer> second = all.get(0);
 		//Hashtable<String, Integer> second = parseSentence(sentences.get(0).sentence());
 		// features of all sentences
-		sentences.get(0).addFeature(scoreToString(lengthSimilarity(second), 0));
+		//sentences.get(0).addFeature(scoreToString(lengthSimilarity(second), 0));
 		// features that first sentence does not have
 		for (int i = 1; i < sentences.size(); ++i) {
 			first = second;
 			second = all.get(i);
-			sentences.get(i).addFeature(scoreToString(lengthSimilarity(second), 0));
-			sentences.get(i).addFeature(scoreToString(equiSimilarity(first, second), precision));
-			sentences.get(i).addFeature(scoreToString(pronounSimilarity(second), 0));
+			//sentences.get(i).addFeature(scoreToString(lengthSimilarity(second), 0));
+			//sentences.get(i).addFeature(scoreToString(equiSimilarity(first, second), precision));
+			//sentences.get(i).addFeature(scoreToString(pronounSimilarity(second), 0));
 			sentences.get(i).addFeature(scoreToString(cutSimilarity(all, i-1, window), 0));
 		}
 	}
