@@ -48,6 +48,7 @@ class SegEvaluation {
 				if (!cur.equals(prev)) {
 					boundaries.add(i-1);
 				}
+				prev = cur;
 			}
 			boundaries.add(i-1);
 			eval.setGroundTruth(boundaries);

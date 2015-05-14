@@ -8,3 +8,4 @@ src/uk/*
 **/SentenceTile.java
 src/org/tartarus/snowball/*
 *.txt
+src/edu/utexas/seg/JTextTile.java

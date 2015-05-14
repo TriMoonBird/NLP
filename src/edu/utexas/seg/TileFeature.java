@@ -29,6 +29,8 @@ public class TileFeature {
 	protected String mPreserveWordFile;
 	protected HashSet<String> mPreserveSet;
 	
+	private Hashtable<String, Double> mIdf;
+	
 	public boolean useWordNet() { return mUseWordNet; }
 	public boolean useStopword() { return mUseStopword; }
 	public boolean useStemmer() { return mUseStemmer; }
@@ -53,6 +55,7 @@ public class TileFeature {
 		mPronounSet = buildPronounSet();
 		mPreserveWordFile = "wordlist.txt";
 		mPreserveSet = loadPreserveWord();
+		mIdf = buildIdf();
 	}
 	
 	protected HashSet<String> loadPreserveWord() {
@@ -132,6 +135,48 @@ public class TileFeature {
 		return allSentences;
 	}
 	
+	protected Hashtable<String, Double> buildIdf() {
+		int sentenceCount = 0;
+		Hashtable<String, Double> idf = new Hashtable<String, Double>();
+		for (ReviewItem item : mReviewItems) {
+			ArrayList<Hashtable<String, Integer> > all = parseAllSentences(item);
+			for (Hashtable<String, Integer> sen : all) {
+				sentenceCount ++;
+				for (String word : sen.keySet()) {
+					if (idf.containsKey(word)) {
+						idf.put(word, idf.get(word)+1.0);
+					} else {
+						idf.put(word, 1.0);
+					}
+				}
+			}
+		}
+		for (String word : idf.keySet()) {
+			idf.put(word, Math.log10(sentenceCount/idf.get(word)));
+		}
+		return idf;
+	}
+	
+	protected double cosineSimilarity(Hashtable<String, Integer> first, Hashtable<String, Integer> second) {
+		HashSet<String> intersection = new HashSet<String>(first.keySet());
+		intersection.retainAll(second.keySet());
+		if (intersection.isEmpty()) return 0.0;
+		double cosine = 0.0;
+		double first_sq = 0.0;
+		double second_sq = 0.0;
+		for (String word : intersection) {
+			cosine += first.get(word) * mIdf.get(word) * second.get(word) * mIdf.get(word);
+		}
+		for (String word : first.keySet()) {
+			first_sq += Math.pow(first.get(word) * mIdf.get(word), 2);
+		}
+		for (String word : second.keySet()) {
+			second_sq += Math.pow(second.get(word) * mIdf.get(word), 2);
+		}
+		cosine = cosine / Math.sqrt(first_sq * second_sq);
+		return cosine;
+	}
+	
 	protected HashSet<String> buildPronounSet() {
 		String[] str = {"it", "its", "this", "these", "those", "their"};
 		HashSet<String> pronoun = new HashSet<String>(Arrays.asList(str));
@@ -207,17 +252,17 @@ public class TileFeature {
 		ArrayList<Hashtable<String, Integer> > all = parseAllSentences(item);
 		Hashtable<String, Integer> first = null;
 		Hashtable<String, Integer> second = all.get(0);
-		//Hashtable<String, Integer> second = parseSentence(sentences.get(0).sentence());
 		// features of all sentences
-		//sentences.get(0).addFeature(scoreToString(lengthSimilarity(second), 0));
+		sentences.get(0).addFeature(scoreToString(lengthSimilarity(second), 0));
 		// features that first sentence does not have
 		for (int i = 1; i < sentences.size(); ++i) {
 			first = second;
 			second = all.get(i);
-			//sentences.get(i).addFeature(scoreToString(lengthSimilarity(second), 0));
-			//sentences.get(i).addFeature(scoreToString(equiSimilarity(first, second), precision));
-			//sentences.get(i).addFeature(scoreToString(pronounSimilarity(second), 0));
+			sentences.get(i).addFeature(scoreToString(lengthSimilarity(second), 0));
+			sentences.get(i).addFeature(scoreToString(equiSimilarity(first, second), precision));
+			sentences.get(i).addFeature(scoreToString(pronounSimilarity(second), 0));
 			sentences.get(i).addFeature(scoreToString(cutSimilarity(all, i-1, window), 0));
+			sentences.get(i).addFeature(scoreToString(cosineSimilarity(first, second), precision));
 		}
 	}
 	

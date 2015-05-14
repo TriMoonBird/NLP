@@ -44,17 +44,6 @@ Review:
 
 {
 Valid: 1
-Index: 5
-Rating: 3
-Title: It's okay but need more tools.
-Review: 
-<o>I have used the application.
-<f>This application just given me only basic tools.
-<f>Please improve this app by adding more tools such as brush, color replacement.
-}
-
-{
-Valid: 1
 Index: 7
 Rating: 3
 Title: 
@@ -344,16 +333,6 @@ Review:
 
 {
 Valid: 1
-Index: 34
-Rating: 5
-Title: This App Is Pretty Good!
-Review: 
-<f>I mainly use it to crop photos, but the other free editing options are really nice too.
-<o>I recommend it to anyone who wants a simple picture editing app.
-}
-
-{
-Valid: 1
 Index: 35
 Rating: 1
 Title: App keeps restarting
@@ -408,17 +387,6 @@ Review:
 
 {
 Valid: 1
-Index: 39
-Rating: 2
-Title: 
-Review: 
-<s>Purchased the app $6 and some change later only to discover that it only unlocked the defog.
-<s>It states purchase unlocked all but it didn't.
-<o>Don't recommend.
-}
-
-{
-Valid: 1
 Index: 40
 Rating: 5
 Title: Best colour editing tool possible by a simple app
@@ -437,15 +405,6 @@ Review:
 <f>The filters might not be as nice as vsco
 <p>The loading takes time, but the outcome/effect is definitely worth the few seconds drag wait!
 <o>:-).
-}
-
-{
-Valid: 1
-Index: 42
-Rating: 5
-Title: 
-Review: 
-<o>It's an excellent photo editing application can say, every body must satisfy with this usd and friendly application, thank you and hope more from you.
 }
 
 {
@@ -493,28 +452,6 @@ Title: robust functionality with touch-friendly UI
 Review: 
 <f>brings the familiarity of the Remote Desktop functionality, Windows 8, to Android with few, if any, compromises.
 <f>Mouse navigation may be challenging depending on the form factor in use but the affordability to change to touch friendly navigation helps.
-}
-
-{
-Valid: 1
-Index: 4
-Rating: 4
-Title: Great App but got problem login due to keypad come with app got problem
-Review: 
-<p>Not able to login windows by key in symbol '@'.
-<p>Test use this app's keyboard type in notepad found that symbol '@' become ' " '.
-<p>Please check &amp; fix this bug immediately.
-<o>Thanks.
-}
-
-{
-Valid: 2
-Index: 5
-Rating: 5
-Title: Excellent
-Review: 
-<p>Very impressed with the performance and usability of this application for tablets.
-<f>It seems to select resolutions perfectly and translate traditional GUI controls into touch very well.
 }
 
 {
@@ -571,16 +508,6 @@ Review:
 }
 
 {
-Valid: 1
-Index: 11
-Rating: 1
-Title: The screen does not refresh correctly
-Review: 
-<f>The keyboard needs to be shown, hidden then the back button pressed to refresh the screen correctly.
-<f>Without doing this, the new screen overlays the old, scrambling the image.
-}
-
-{
 Valid: 2
 Index: 12
 Rating: 3
@@ -600,16 +527,6 @@ Review:
 <f>The FAQs on how to get your computer ready and set up firewalls and port forwarding, etc. are so complicated, and then after you follow everything it still doesn't work.
 <f>And there are no one step tools to set up or even test to see why it's not working.
 <f>I spent two hours, tore my hair out, and uninstalled the app.
-}
-
-{
-Valid: 1
-Index: 16
-Rating: 3
-Title: Wrong character
-Review: 
-<p>Some special characters like@!Â£# are wrong.
-<p>It displays correctly at keyboard and long press but if open notepad to type, you'll be surprised after latest update.
 }
 
 {
@@ -655,18 +572,6 @@ Review:
 <o>This is the perfect RDP app.
 <o>Sad for other RDP app makers, as there were several, but good that MS built a perfect app to interface with their own protocol.
 <o>Can't think of a single thing I'd change!
-}
-
-{
-Valid: 1
-Index: 21
-Rating: 5
-Title: Great job
-Review: 
-<o>Remote Desktop has improved rather drastically.
-<p>Everything is fluid.
-<f>The controls are more intuitive than ever.
-<p>Minor hitch: there's a lag in the cursor movement sometimes.
 }
 
 {
@@ -898,18 +803,6 @@ Review:
 }
 
 {
-Valid: 2
-Index: 43
-Rating: 1
-Title: Problems exiting a Remote Desktop
-Review: 
-<f>I'm having problems exiting a Remote Desktop.
-<f>Backspace on the keyboard just opens help on the Remote Desktop.
-<f>Only an App Force Close ends the RDP session.
-<f>Please Help!
-}
-
-{
 Valid: 1
 Index: 44
 Rating: 3
@@ -1009,19 +902,6 @@ Title: Great keyboard app!
 Review: 
 <f>Combine predictive text with the ability to swipe across the keyboard to form words, and you get a really good keyboard application.
 <o>I'm pretty impressed with the speed I'm able to type now, so I'd definitely recommend SwiftKey.
-}
-
-{
-Valid: 2
-Index: 9
-Rating: 5
-Title: 
-Review: 
-<o>I was extremely frustrated with Samsung's swipe.
-<o>This is soo much nicer!
-<p>Better predictions...
-<p>Actually deletes words you don't want...
-<p>Overall smoother!
 }
 
 {
@@ -1250,8 +1130,8 @@ Rating: 5
 Title: Swift key
 Review: 
 <o>I definitely recommend it!
-<o>Better than my stock LG g3 keyboard,  better than the google keyboard and better than Swype .
-<p>The predictions are excellent, you don't have to switch between English and French  and the looks are great!
+<o>Better than my stock LG g3 keyboard,  better than the google keyboard and better than Swype.
+<p>The predictions are excellent, you don't have to switch between English and French and the looks are great!
 <o>Excellent!
 }
 
@@ -1261,21 +1141,9 @@ Index: 31
 Rating: 4
 Title: Better than GoPro keyboard
 Review: 
-<f>Love the extra features that GoPro didn't think were important such as the 'enter'  key or word suggestion.
-<f>Would have rated 5 stars if it had some other features like double space adds a period or better emoji's ...
+<f>Love the extra features that GoPro didn't think were important such as the enter key or word suggestion.
+<f>Would have rated 5 stars if it had some other features like double space adds a period or better emojiÕs.
 <f>Little things like that but otherwise would definitely recommend this to friends.
-}
-
-{
-Valid: 2
-Index: 32
-Rating: 5
-Title: Great One
-Review: 
-<o>The thing you'd better buy.
-<p>Predictions are very good.
-<f>It really remembers how you combine words.
-<f>+cloud - must-have feature when you got a lot of devices.
 }
 
 {
@@ -1378,16 +1246,6 @@ Review:
 }
 
 {
-Valid: 1
-Index: 42
-Rating: 4
-Title: 
-Review: 
-<f>There's Chinese language setting, which means this app is totally capable of displaying Kanji, yet there's still no Japanese keyboard support.
-<f>I'll give five stars when it's available.
-}
-
-{
 Valid: 2
 Index: 44
 Rating: 5
@@ -1413,18 +1271,6 @@ Review:
 <f>This is so well designed, easy to setup, jumping from record to playback is a snap.
 <p>Disposal of the recording is mere drag and drop.
 <o>I recommend it.
-}
-
-{
-Valid: 1
-Index: 2
-Rating: 4
-Title: 
-Review: 
-<o>Ok for a free ap.
-<p>Has improved clarity over many basic lowfi recorders.
-<f>Doesn't record its own clicks when stopping rec.
-<f>Works with Drive so what's not to like?
 }
 
 {
@@ -1471,16 +1317,6 @@ Review:
 
 {
 Valid: 1
-Index: 6
-Rating: 5
-Title: Very useful
-Review: 
-<o>I use this to record choir solos at rehearsal so I can learn the music at home.
-<o>It's really helpful and incredibly easy to use.
-}
-
-{
-Valid: 1
 Index: 7
 Rating: 5
 Title: Awesome recorder
@@ -1501,7 +1337,7 @@ Review:
 <f>i thought I had captured 30 min of recording, but it only captured 8 seconds.
 <f>i didnt notice this because I was not looking at the screen.
 <f>when I finally did go to stop the recording, I was met with the pop up to rate the app and that's when I realized I had only 8 seconds of content.
-<f>:(   now that I've rated it, hoping it will be a non issue.
+<f>now that I've rated it, hoping it will be a non issue.
 }
 
 {
@@ -1524,16 +1360,6 @@ Review:
 <a>Despite the app doing what it's meant to do, it could really use some redesign to fit Google's Material Design.
 <a>I mean, the app itself is really functional, and does what it's supposed to with perfection, but its aesthetics are too old-fashioned.
 <a>As soon as a visual redesign comes out, I'll be glad to rate it 5-stars.
-}
-
-{
-Valid: 1
-Index: 11
-Rating: 5
-Title: True to its title
-Review: 
-<o>A good app, very useful and user friendly!
-<o>Installing the widget on the home screen makes it especially efficient for capturing those important thoughts.
 }
 
 {
@@ -1596,26 +1422,6 @@ Review:
 
 {
 Valid: 1
-Index: 17
-Rating: 5
-Title: 
-Review: 
-<p>Great sound quality; still playing around with it, but I haven't encountered any issues.
-<p>Just user error ;) Very helpful tool!
-<o>I'm glad I installed this app.
-}
-
-{
-Valid: 1
-Index: 18
-Rating: 5
-Title: Great app
-Review: 
-<o>Particularly useful when you use it in conjunction with an automatic file syncing app so your voice recordings automatically appear on your computer.
-}
-
-{
-Valid: 1
 Index: 19
 Rating: 5
 Title: Very good quality for an app
@@ -1635,7 +1441,7 @@ Review:
 <p>The sound is very clear.
 <p>However, the last update drained the battery life even when not using it.
 <p>Also, it keeps crashing and stop recording in the middle of the lecture.
-<p>It is so disappointing cause I noticed that after the end of lecture as I was busy taking notes :( this never happened on the previous update.
+<p>It is so disappointing cause I noticed that after the end of lecture as I was busy taking notes this never happened on the previous update.
 <p>I have it on my Asus nexus 7 tablet.
 <p>Please fix it.
 }
@@ -1676,17 +1482,6 @@ Review:
 <f>Tried others but only this one work with Gmail.
 <o>It basically turned my phone to a real mobile computer for my own work.
 <o>Thank you!
-}
-
-{
-Valid: 1
-Index: 4
-Rating: 5
-Title: Great and Simple ...
-Review: 
-<f>Simple but moderate interface and great features like compression exclude from media scan etc.
-<o>And best part is its free.
-<o>Recommend it to everyone.
 }
 
 {
@@ -1751,27 +1546,6 @@ Review:
 
 {
 Valid: 1
-Index: 11
-Rating: 5
-Title: Folder location finder
-Review: 
-<o>Should come standard for devices.
-<f>Works well in 4.4.2 locating directory and folder rather than typing location to save etc.
-<o>Recommended by Strykers Lounge Aus [FB].
-}
-
-{
-Valid: 2
-Index: 12
-Rating: 4
-Title: My Favorite File Manager Ever!
-Review: 
-<c>A bit buggy running on my trablet with android 4.4.2 Graphic issues while selecting multiple files to copy paste.
-<c>Bluetooth sending not working from couple updates back.
-}
-
-{
-Valid: 1
 Index: 13
 Rating: 5
 Title: Decent File Browser.
@@ -1809,19 +1583,6 @@ Rating: 4
 Title: Some bugs
 Review: 
 <p>Works OK, but there's no rescan button (nor taping the actual folder works) and the back button doesn't work always correctly (to go up), sometimes it closes the whole application instead.
-}
-
-{
-Valid: 1
-Index: 17
-Rating: 5
-Title: Simple and Sweet
-Review: 
-<o>Nice!
-<o>And the permissions are minimal.
-<f>What's with the handicap of not being able to sort by extension though?
-<o>Ah well, back to File Manager.
-<o>I'll be watching though.
 }
 
 {
@@ -1896,7 +1657,7 @@ Review:
 <o>it's the best android file explorer, imho.
 <c>does what it says in the tin, but, please consider making an update wich can be optimized for tablets also.
 <c>it doesn't fill the screen, and folder icons are rather small.
-<c>3 stars until optimization ;).
+<c>3 stars until optimization.
 }
 
 {
@@ -1905,7 +1666,7 @@ Index: 24
 Rating: 5
 Title: Translation.
 Review: 
-<o>Hi, thanks for great app  I've translated your app to Azerbaijani in launchpad and waiting for new version with it ;)   You've updated to 2.0.5 and still doesn't exist my translations, I'm waiting for almost ~3 weeks and still nothing.
+<o>Hi, thanks for great app  I've translated your app to Azerbaijani in launchpad and waiting for new version with it You've updated to 2.0.5 and still doesn't exist my translations, I'm waiting for almost ~3 weeks and still nothing.
 <o>Please include it.
 }
 
@@ -1948,7 +1709,7 @@ Index: 29
 Rating: 3
 Title: 
 Review: 
-<p>In older version it can copy and paste downloaded data to ext sd card in later version can't .
+<p>In older version it can copy and paste downloaded data to ext sd card in later version cannot.
 <p>Please fix it.
 <c>It only work in samsung galaxy note 8 but not in my galaxy note 2. 
 <c>Please fix it.
@@ -1964,18 +1725,6 @@ Review:
 <f>Also, there is no exit button!
 <f>PLEASE add an Exit button to the menu, there's plenty of space and IT IS REQUIRED to close the app and reduce battery usage.
 <f>Most apps are not adding the Exit button.
-}
-
-{
-Valid: 1
-Index: 32
-Rating: 1
-Title: DO NOT DOWNLOAD
-Review: 
-<p>Renamed my movies and it changed all their file types.
-<p>Now ALL MY MOVIES ARE USELESS!!
-<o>Dont ever even consider downloading.
-<o>Devs need to get theirnshit together.
 }
 
 {
@@ -2065,16 +1814,6 @@ Review:
 }
 
 {
-Valid: 2
-Title: NOPE
-Review: 
-<f>Why must I log in to use this?
-<f>Not interested.
-<o>Deleting and installing another office suite that isn't as nosey.
-<o>Buh-byeee, MS office.
-}
-
-{
 Valid: 1
 Title: Can't open any local files...
 Review: 
@@ -2104,63 +1843,6 @@ Review:
 
 {
 Valid: 1
-Title: Won't open password protected files
-Review: 
-<f>Until it can open password protected files, it's no good to me.
-<f>Free non-MS software can do it, why can't MS?
-}
-
-{
-Valid: 1
-Title: Only saves to One Drive
-Review: 
-<f>Saves only to One Drive, need to install One Drive to open and download?
-<o>Sticking to free Office Suite provided by Sony.
-<o>The Windows Vista of Office Apps.
-}
-
-{
-Valid: 1
-Title: Not good enough
-Review: 
-<f>I can only link to Dropbox or Microsoft cloud,  on a Android app.
-<f>It needs to be able to connect to Google drive as well.
-}
-
-{
-Valid: 1
-Title: Excel lite
-Review: 
-<f>You can not manipulate protected excel sheets.
-<f>How can you expect to use excel spreadsheets without keeping formulas locked down?
-}
-
-{
-Valid: 1
-Title: Only accepts a single account
-Review: 
-<f>If you have more than one Office365 account you will never be able to access the second one.
-<f>The whole office suite only supports a single user.
-}
-
-{
-Valid: 1
-Title: More of a document *viewer*
-Review: 
-<f>I expected to be able to edit .doc files.
-<f>However this is not possible, not even in a limited fashion.
-<f>Quite disappointing...
-}
-
-{
-Valid: 1
-Title: Wiped Half-hour's worth of work.
-Review: 
-<f>Says it couldn't connect to one drive then took me back to menu and didn't save, half an hours work lost because there's no proper local save support.
-}
-
-{
-Valid: 1
 Title: What the hell?
 Review: 
 <f>The online version supports open office file extensions like .odt or .ods and this app doesn't??
@@ -2182,28 +1864,11 @@ Review:
 
 {
 Valid: 1
-Title: NO intel processor support
-Review: 
-<c>This app would get 5 stars from me but I cant use it on my tablet but I can use it on my phone?
-}
-
-{
-Valid: 1
 Title: Cannot access multiple accounts
 Review: 
 <f>I have a personal Office 365 account as well as a University provided account.
 <f>I would like to be able to access BOTH accounts, but it seems the only way to do this is to completely erase the app data and relogin to switch accounts (losing information and slowing down my phone).
 <f>They need to have an option where you can login to multiple accounts and then switch between them.
-}
-
-{
-Valid: 1
-Title: Compatibility
-Review: 
-<c>I had the issue of incompatibility but it is partially gone now..
-<c>I cannot use my wireless printer to print document from mobile.
-<c>Please help.
-<o>Thanks!
 }
 
 {
@@ -2246,7 +1911,7 @@ Review:
 Valid: 1
 Title: Very Disappointing App
 Review: 
-<o>This review is about the mobile app only - not the tablet or PC versions.
+<o>This review is about the mobile app only not the tablet or PC versions.
 <f>I'm surprised by the lack of functionality considering this is an actual Microsoft product.
 <f>Like many other apps, this one fine for reading files.
 <f>But it lacks so much basic function in each document type that it's useless for school or office use.
@@ -2289,14 +1954,7 @@ Valid: 1
 Title: Great Office, lack of Local Save
 Review: 
 <f>Why is there no local saving?
-<f>I don't need/want everything online â–?Word: Can't edit files with Unicode characters, for example these black blocks (this â–?) â–?Word: should show page breaks instead of one continuous strip, no support for fine-grained text size change â–?Word: Only 3 colors for font/text highlighting?
-}
-
-{
-Valid: 1
-Title: Can't save file to phoned storage or sd card
-Review: 
-<f>You can't save file to phone storage or to SD card.
+<f>I don't need/want everything online Word: Can't edit files with Unicode characters, for example these black blocks (this) Word: should show page breaks instead of one continuous strip, no support for fine-grained text size change Word: Only 3 colors for font/text highlighting?
 }
 
 {
@@ -2325,14 +1983,6 @@ Review:
 
 {
 Valid: 1
-Title: WHY CAN'T YOU SAVE FILES DIRECTLY TO YOUR PHONE???
-Review: 
-<f>Why can't I save my file on my phone directly?
-<f>What if you're in a place without internet and really need to save your edited files?
-}
-
-{
-Valid: 1
 Title: Office for small business owner.
 Review: 
 <o>This app I installed few weeks ago because I kinda where wanting an office app what can allow me to make and edit regular office documents.
@@ -2354,14 +2004,6 @@ Review:
 
 {
 Valid: 1
-Title: Terrible app
-Review: 
-<f>Doesn't let me access or save into my phone storage or sd card.
-<f>Functionality is pointless you are better off using another free alternative for mobile docs.
-}
-
-{
-Valid: 1
 Title: Not what I would expect from the largest office productivity suite on the market
 Review: 
 <o>This is not what I would expect from Microsoft for any office app.
@@ -2369,13 +2011,6 @@ Review:
 <f>Creating a new one is horrible with very limited capabilities and loss of basic formating even when reviewing an existing file.
 <o>Not something I would expect from a ms office suite.
 <o>Time to get back to the drawing board and awe us with what we have grown to know and use on a daily basis.
-}
-
-{
-Valid: 1
-Title: Not compatible with LG G3
-Review: 
-<c>I used it on my GS4 just fine, but it won't work on my new LG G3. Will there be a fix coming?
 }
 
 {
@@ -2440,7 +2075,7 @@ Valid: 1
 Title: A disappointing test drive
 Review: 
 <o>I am a satisfied WPS Office user and have given MS office Mobile (Android) a test run.
-<f>Several irritations require attention before I will switch permanently to Office Mobile:  Excel opens at cell A1 even though I saved it (on my PC) with the cursor at  cell A750 - that is a lot of scrolling on my mobile to get to where I want to be.
+<f>Several irritations require attention before I will switch permanently to Office Mobile:  Excel opens at cell A1 even though I saved it (on my PC) with the cursor at  cell A750 that is a lot of scrolling on my mobile to get to where I want to be.
 <f>Saving the file on my mobile only gives the option to save to OneDrive and not to the folder where I opened it from.
 <f>Conditional Formatting does not display.
 <f>The program is unable to open a password-protected spreadsheet.
