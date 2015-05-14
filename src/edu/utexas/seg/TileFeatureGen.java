@@ -18,6 +18,7 @@ public class TileFeatureGen {
 		TileFeature tf = new TileFeature(items);
 		tf.computeAllReviews();
 		outputMalletFormat(tf);
+		System.out.println("Done.");
 	}
 	
 	public static void formBoundaryTag(ArrayList<ReviewItem> items) {
@@ -60,7 +61,11 @@ public class TileFeatureGen {
 						writer.write(sen.sentence() + " ");
 					}
 					for (int i = 0; i < sen.feature().size(); ++i) {
-						writer.write("@REL"+i+"###" + sen.feature().get(i) + " ");
+						if(sen.feature().get(i).matches("[a-z_A-Z]+")) {
+							writer.write(sen.feature().get(i) + " ");
+						} else {
+							writer.write("@REL"+i+"###" + sen.feature().get(i) + " ");
+						}
 					}
 					writer.write(sen.tag() + "\n");
 				}

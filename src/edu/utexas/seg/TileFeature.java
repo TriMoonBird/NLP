@@ -11,6 +11,7 @@ import java.util.Hashtable;
 import org.tartarus.snowball.SnowballStemmer;
 import org.tartarus.snowball.ext.englishStemmer;
 
+import edu.stanford.nlp.tagger.maxent.MaxentTagger;
 import edu.utexas.crawler.ReviewItem;
 import edu.utexas.crawler.TaggedSentence;
 import edu.utexas.wordnet.WordNet;
@@ -28,6 +29,7 @@ public class TileFeature {
 	protected HashSet<String> mPronounSet;
 	protected String mPreserveWordFile;
 	protected HashSet<String> mPreserveSet;
+	protected MaxentTagger mTagger;
 	
 	private Hashtable<String, Double> mIdf;
 	
@@ -56,6 +58,7 @@ public class TileFeature {
 		mPreserveWordFile = "wordlist.txt";
 		mPreserveSet = loadPreserveWord();
 		mIdf = buildIdf();
+		mTagger = new MaxentTagger("lib/english-left3words-distsim.tagger");
 	}
 	
 	protected HashSet<String> loadPreserveWord() {
@@ -189,6 +192,17 @@ public class TileFeature {
 		return (double) tokens.size();
 	}
 	
+	protected boolean validPronounFeature(String sentence) {
+		String tagged = mTagger.tagString(sentence.replaceAll("[^\\p{Alnum}\\s+]+", ""));
+		String[] tokens = tagged.split("\\s+");
+		for (int i = 0; i < tokens.length; ++i) {
+			String[] pair = tokens[i].split("_");
+			if (pair.length > 1 && pair[1].startsWith("NN")) break;
+			if (mPronounSet.contains(pair[0].toLowerCase())) return true;
+		}
+		return false;
+	}
+	
 	protected double cutSimilarity(ArrayList<Hashtable<String, Integer> > all, int first, int window) {
 		int start = first + 1;
 		int end = Math.min(first + window, all.size() - 1);
@@ -253,16 +267,21 @@ public class TileFeature {
 		Hashtable<String, Integer> first = null;
 		Hashtable<String, Integer> second = all.get(0);
 		// features of all sentences
-		sentences.get(0).addFeature(scoreToString(lengthSimilarity(second), 0));
+		//sentences.get(0).addFeature(scoreToString(lengthSimilarity(second), 0));
 		// features that first sentence does not have
 		for (int i = 1; i < sentences.size(); ++i) {
 			first = second;
 			second = all.get(i);
-			sentences.get(i).addFeature(scoreToString(lengthSimilarity(second), 0));
+			//sentences.get(i).addFeature(scoreToString(lengthSimilarity(second), 0));
 			sentences.get(i).addFeature(scoreToString(equiSimilarity(first, second), precision));
-			sentences.get(i).addFeature(scoreToString(pronounSimilarity(second), 0));
+			//sentences.get(i).addFeature(scoreToString(pronounSimilarity(second), 0));
 			sentences.get(i).addFeature(scoreToString(cutSimilarity(all, i-1, window), 0));
-			sentences.get(i).addFeature(scoreToString(cosineSimilarity(first, second), precision));
+			//sentences.get(i).addFeature(scoreToString(cosineSimilarity(first, second), precision));
+			if (equiSimilarity(first, second) == 0) sentences.get(i).addFeature("EQUIZERO");
+			//if (pronounSimilarity(second) == 0) sentences.get(i).addFeature("PRONOUNZERO");
+			if (validPronounFeature(sentences.get(i).sentence())) sentences.get(i).addFeature("VALIDPRONOUN");
+			if (cutSimilarity(all, i-1, window) == 0) sentences.get(i).addFeature("CUTZERO");
+			//if (cosineSimilarity(first, second) == 0) sentences.get(i).addFeature("COSINEZERO");
 		}
 	}
 	

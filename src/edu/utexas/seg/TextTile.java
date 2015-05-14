@@ -7,7 +7,6 @@ import java.util.Hashtable;
 import java.util.Set;
 import java.util.Vector;
 
-import uk.ac.man.cs.choif.extend.Debugx;
 import uk.ac.man.cs.choif.nlp.doc.basic.RawText;
 import uk.ac.man.cs.choif.nlp.doc.basic.Sentences;
 import uk.ac.man.cs.choif.nlp.surface.Stemmer;
@@ -63,15 +62,10 @@ public class TextTile {
 		//=============
 		mWordNet = new WordNet();
 		//=============
-		Debugx.msg("JTextTile", "Lemmatization...");
 		preprocess();
-		Debugx.msg("JTextTile", "Similarity scores...");
 		similarityDetermination();	// Compute similarity scores
-		Debugx.msg("JTextTile", "Depth scores...");
 		depthScore();				// Compute depth scores using the similarity scores
-		Debugx.msg("JTextTile", "Identifying boundaries...");
 		boundaryIdentification();	// Identify the boundaries
-		Debugx.msg("JTextTile", "Ready.");
 	}
 	/**
 	 * Add a term to a block

@@ -9,3 +9,4 @@ src/uk/*
 src/org/tartarus/snowball/*
 *.txt
 src/edu/utexas/seg/JTextTile.java
+lib/*.tagger
