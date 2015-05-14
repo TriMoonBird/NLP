@@ -4,34 +4,36 @@
 
 JAVA		= java
 JAVAC		= javac
-CLASSPATH	= "lib/edu.mit.jwi_2.3.3_jdk.jar:."
+BIN_DIR		= bin
+CLASSPATH	= "lib/edu.mit.jwi_2.3.3_jdk.jar:lib/stanford-postagger-3.5.2.jar:bin/:."
 JAVAFLAGS	= -cp $(CLASSPATH)
 
 SOURCE		= src/edu/utexas/crawler/*.java \
-		  src/edu/utexas/seg/*.java \
 		  src/edu/utexas/wordnet/*.java \
 		  src/org/tartarus/snowball/*.java \
 		  src/org/tartarus/snowball/ext/englishStemmer.java \
-		  src/uk/ac/man/cs/choif/extend/io/*.java \
-		  src/uk/ac/man/cs/choif/nlp/doc/basic/*.java \
-		  src/uk/ac/man/cs/choif/nlp/surface/*.java \
+		  src/edu/utexas/seg/ReviewReader.java \
+		  src/edu/utexas/seg/TileFeature.java \
+		  src/edu/utexas/seg/TileFeatureGen.java \
 
-#		  src/uk/ac/man/cs/choif/extend/io/*.java \
-		  src/uk/ac/man/cs/choif/extend/structure/*.java \
-		  src/uk/ac/man/cs/choif/nlp/dictionary/*.java \
-		  src/uk/ac/man/cs/choif/nlp/doc/*.java \
-		  src/uk/ac/man/cs/choif/nlp/doc/basic/*.java \
-		  src/uk/ac/man/cs/choif/nlp/entity/*.java \
-		  src/uk/ac/man/cs/choif/nlp/location/*.java \
-		  src/uk/ac/man/cs/choif/nlp/parse/*.java \
-		  src/uk/ac/man/cs/choif/nlp/pos/*.java \
-		  src/uk/ac/man/cs/choif/nlp/seg/linear/similarity/*.java \
+PARSE_IN	= data/Office.html
+PARSE_OUT	= data/Office.txt
+F_IN		= review.txt
+F_OUT		= mallet.txt
+F_SEL		= tag
 
-all:
-	$(JAVAC) $(JAVAFLAGS) $(SOURCE)
+all: compile feature
 
-#	$(JAVAC) -classpath $(CLASSPATH) edu.utexas.seg.*
-#	$(JAVA) $(JAVAFLAGS) ActiveLearning
+compile:
+	$(JAVAC) -d $(BIN_DIR) $(JAVAFLAGS) $(SOURCE)
+
+feature:
+	$(JAVA) $(JAVAFLAGS) \
+		edu.utexas.seg.TileFeatureGen $(F_IN) $(F_OUT) $(F_SEL)
+
+parser:
+	$(JAVA) $(JAVAFLAGS) \
+		edu.utexas.crawler.ParseHtml $(PARSE_IN) $(PARSE_OUT)
 
 clean:
 	$(RM) *.class

@@ -11,13 +11,18 @@ public class TileFeatureGen {
 	private static boolean mOutputWords = true;
 	
 	public static void main(String[] args) throws IOException {
-		String reviewFile = "review.txt";
+		String reviewFile = args[0];
+		String outputFile = args[1];
+		String selection = args[2];
+		if (args.length != 3 || !(args[2].equals("tag") || args[2].equals("boundary"))) {
+			System.out.println("Usage: TileFeatureGen <reviewFile> <outputFile> <tag|boundary>");
+		}
 		ReviewReader reader = new ReviewReader(reviewFile);
 		ArrayList<ReviewItem> items = reader.read();
 		mOutputWords = true;
 		TileFeature tf = new TileFeature(items);
 		tf.computeAllReviews();
-		outputMalletFormat(tf);
+		outputMalletFormat(tf, outputFile, selection);
 		System.out.println("Done.");
 	}
 	
@@ -39,10 +44,13 @@ public class TileFeatureGen {
 		}
 	}
 	
-	public static void outputMalletFormat(TileFeature tf) {
-		String outputFile = "mallet.txt";
+	// selection == "tag" output tags: a c f o p s
+	// selection == "boundary" output boundaries: 0 1
+	public static void outputMalletFormat(TileFeature tf, String outputFile, String selection) {
 		ArrayList<ReviewItem> items = tf.items();
-		//formBoundaryTag(items);
+		if (selection.equals("boundary")) {
+			formBoundaryTag(items);
+		}
 		try {
 			FileWriter writer = new FileWriter(outputFile);
 			for (ReviewItem item : items) {

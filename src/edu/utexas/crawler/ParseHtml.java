@@ -15,9 +15,16 @@ class ParseHtml {
 	public static final String NEW_LINE = System.getProperty("line.separator");
 	
 	public static void main(String[] args) throws Exception{
+		/*
 		String name = "SwiftKey";
 		String input = "data/productivity/" + name + ".html";
 		String output = "data/productivity/" + name + ".txt";
+		*/
+		if (args.length != 2) {
+			System.out.println("Usage: ParseHtml <inputFile> <output>File");
+		}
+		String input = args[0];
+		String output = args[1];
 		parse(input, output);
 	}
 	
